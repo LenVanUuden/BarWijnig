@@ -70,9 +70,21 @@ function renderVersion() {
   // Tekst: alinea's gescheiden door lege regel
   const text = $('w-text');
   text.innerHTML = '';
+  // Vaste labels (zie FORMAT.md) vet weergeven
+  const LABELS = ['In je glas.', 'Op je tong.', 'De druif.', 'Hoe gemaakt.', 'Waar vandaan.', 'Het verhaal.', 'Schenken.', 'Wat je proeft.', 'Onthoud.'];
   (v.tekst || '').split(/\n\s*\n/).forEach((para) => {
     const p = document.createElement('p');
-    p.textContent = para.trim();
+    const t = para.trim();
+    const label = LABELS.find((l) => t.startsWith(l));
+    if (label) {
+      const s = document.createElement('strong');
+      s.textContent = label.replace(/\.$/, '');
+      p.appendChild(s);
+      p.appendChild(document.createElement('br'));
+      p.appendChild(document.createTextNode(t.slice(label.length).trim()));
+    } else {
+      p.textContent = t;
+    }
     text.appendChild(p);
   });
 
