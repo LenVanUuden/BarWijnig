@@ -1,6 +1,6 @@
 // Eenvoudige service worker: maakt de app installeerbaar en snel bij herhaald openen.
 // Netwerk eerst (zodat nieuwe verhalen direct verschijnen), cache als terugval.
-const CACHE = 'barwijnig-v2';
+const CACHE = 'barwijnig-v3';
 const CORE = ['./', 'index.html', 'style.css', 'app.js', 'aromas.js', 'data/wines.json', 'manifest.webmanifest', 'icon.svg'];
 
 self.addEventListener('install', (e) => {

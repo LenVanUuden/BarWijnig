@@ -42,7 +42,7 @@ Scan een wijnfles en hoor meteen het verhaal van die wijn, zoals Hitster dat doe
 - [x] 18+-check
 - [x] "Meer zoals deze" (op druif, aroma's, herkomst) en "Koop deze fles" (verschijnt zodra er een affiliatelink is)
 - [x] Batch 3: 30 wijnen totaal (Drostdy-Hof Steen vervangen door Cono Sur Bicicleta Pinot Noir: geen bronnen gevonden)
-- [ ] Automatisch afspelen (met schakelaar)
+- [x] Automatisch afspelen (met schakelaar, standaard aan)
 - [ ] Barcodes koppelen (via testers die onbekende flessen doorsturen)
 
 ## Kosten tot nu toe
@@ -64,3 +64,4 @@ Scan een wijnfles en hoor meteen het verhaal van die wijn, zoals Hitster dat doe
 - Besloten: Spotify eruit, affiliate erin. Piper-stemproef gemaakt (6 stemmen).
 - 18+-check gebouwd (één keer per toestel). "Meer wijnen zoals deze" gebouwd op basis van de proefkaart. Spotify-knop vervangen door een eigen Luister-knop (actief zodra er audio is). Ideeënmap aangemaakt (Google Chirp HD-stem).
 - Stem Alex gekozen; audio gemaakt voor alle wijnen. Batch 3 toegevoegd: top 30 compleet. "Meer zoals deze" vult nu altijd aan tot 3 (ook voor rosé).
+- Automatisch afspelen gebouwd: geluid wordt ontgrendeld bij de tik op het vat; als de browser toch blokkeert, pulseert de knop "Tik om te luisteren". Schakelaar "Automatisch afspelen" per toestel onthouden.

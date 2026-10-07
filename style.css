@@ -166,6 +166,17 @@ button { font: inherit; color: inherit; border: 0; background: none; cursor: poi
 /* Luisteren */
 .luister { display: flex; align-items: center; justify-content: center; gap: 10px; background: var(--wijn); color: var(--creme); border-radius: 22px; padding: 16px 10px; font-family: 'Fredoka', sans-serif; font-weight: 600; font-size: 18px; box-shadow: 0 5px 0 var(--wijn-donker); }
 .luister:active { transform: translateY(3px); box-shadow: 0 2px 0 var(--wijn-donker); }
+@keyframes pulseer { 0%,100% { transform: scale(1); box-shadow: 0 5px 0 var(--wijn-donker), 0 0 0 0 rgba(122,31,61,.45); } 50% { transform: scale(1.03); box-shadow: 0 5px 0 var(--wijn-donker), 0 0 0 10px rgba(122,31,61,0); } }
+.luister.pulseer { animation: pulseer 1.4s ease-in-out infinite; }
+.duur-rij { display: flex; justify-content: space-between; align-items: center; gap: 10px; margin-top: -6px; flex-wrap: wrap; }
+.duur-rij .duur { margin-top: 0; }
+.schakel { display: flex; align-items: center; gap: 8px; font-weight: 800; font-size: 13px; color: var(--zacht); cursor: pointer; }
+.schakel input { position: absolute; opacity: 0; width: 1px; height: 1px; }
+.schakel-baan { position: relative; width: 40px; height: 24px; border-radius: 999px; background: var(--zand); transition: background .2s; flex: none; }
+.schakel-baan::after { content: ''; position: absolute; top: 3px; left: 3px; width: 18px; height: 18px; border-radius: 50%; background: #fff; transition: transform .2s; box-shadow: 0 1px 2px rgba(0,0,0,.2); }
+.schakel input:checked + .schakel-baan { background: var(--wijn); }
+.schakel input:checked + .schakel-baan::after { transform: translateX(16px); }
+.schakel input:focus-visible + .schakel-baan { outline: 3px solid var(--goud); outline-offset: 2px; }
 .voortgang { grid-column: 1 / -1; height: 8px; background: var(--zand); border-radius: 999px; overflow: hidden; }
 .voortgang div { height: 100%; width: 0; background: var(--oker); border-radius: 999px; transition: width .25s linear; }
 
@@ -194,6 +205,6 @@ code { background: #F7EDE0; padding: 2px 8px; border-radius: 8px; }
 .vul { flex: 1; }
 
 @media (prefers-reduced-motion: reduce) {
-  .wiebel, .zweef, .scanlijn, .hoek { animation: none; }
+  .wiebel, .zweef, .scanlijn, .hoek, .luister.pulseer { animation: none; }
   .scanlijn { top: 50%; }
 }

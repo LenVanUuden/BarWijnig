@@ -181,8 +181,10 @@ function renderVersion() {
   if (v.audio) {
     const b = el('button', { class: 'luister' }, playIcon(false), el('span', {}, 'Luister'));
     const balk = el('div', { class: 'voortgang' }, el('div'));
-    b.addEventListener('click', () => toggleAudio(v.audio, b, balk));
+    huidig = { src: v.audio, btn: b, balk };
+    b.addEventListener('click', () => toggleAudio());
     player.append(b, balk);
+    if (autoAan()) startAudio();
   } else if (v.tekst && 'speechSynthesis' in window) {
     const b = el('button', { class: 'voorlees' }, icon('M11 5L6 9H3v6h3l5 4zM15.5 8.5a5 5 0 0 1 0 7M18.5 5.5a9 9 0 0 1 0 13', { size: 22, stroke: '#3B2316', width: 2.2 }), el('span', {}, 'Lees voor'));
     b.addEventListener('click', () => speak(v.tekst, b));
@@ -194,24 +196,70 @@ function renderVersion() {
 }
 
 // ---------- Eigen audio ----------
-let audio = null;
+// Eén vaste speler. Die "ontgrendelen" we bij een tik van de gebruiker (op het vat of in de lijst),
+// zodat de browser later automatisch afspelen toestaat — ook na het scannen.
+const speler = new Audio();
+speler.preload = 'auto';
+let huidig = null;
+
+const STILTE = (() => {
+  // 0,1 seconde stilte als WAV, om de speler te ontgrendelen
+  const n = 800, buf = new ArrayBuffer(44 + n * 2), d = new DataView(buf);
+  const s = (o, t) => [...t].forEach((c, i) => d.setUint8(o + i, c.charCodeAt(0)));
+  s(0, 'RIFF'); d.setUint32(4, 36 + n * 2, true); s(8, 'WAVE'); s(12, 'fmt ');
+  d.setUint32(16, 16, true); d.setUint16(20, 1, true); d.setUint16(22, 1, true);
+  d.setUint32(24, 8000, true); d.setUint32(28, 16000, true); d.setUint16(32, 2, true); d.setUint16(34, 16, true);
+  s(36, 'data'); d.setUint32(40, n * 2, true);
+  return URL.createObjectURL(new Blob([buf], { type: 'audio/wav' }));
+})();
+let ontgrendeld = false;
+function ontgrendelAudio() {
+  if (ontgrendeld) return;
+  try {
+    speler.src = STILTE;
+    const p = speler.play();
+    if (p && p.then) p.then(() => { speler.pause(); ontgrendeld = true; }).catch(() => {});
+  } catch (e) { /* niets */ }
+}
+
 function playIcon(speelt) {
   const s = icon(speelt ? 'M8 5h3v14H8zM13 5h3v14h-3z' : 'M8 5v14l11-7z', { size: 22, stroke: '#FFF4E3', width: 1.5 });
   s.setAttribute('fill', '#FFF4E3');
   return s;
 }
-function stopAudio() { if (audio) { audio.pause(); audio = null; } }
-function toggleAudio(src, btn, balk) {
-  const label = btn.querySelector('span');
-  const zet = (speelt) => { btn.firstChild.replaceWith(playIcon(speelt)); label.textContent = speelt ? 'Pauze' : 'Luister'; };
-  if (!audio || !audio.src.endsWith(src)) {
-    stopAudio();
-    audio = new Audio(src);
-    audio.addEventListener('timeupdate', () => { if (audio && audio.duration) balk.firstChild.style.width = `${(audio.currentTime / audio.duration) * 100}%`; });
-    audio.addEventListener('ended', () => { zet(false); balk.firstChild.style.width = '100%'; });
-  }
-  if (audio.paused) { audio.play().then(() => zet(true)).catch(() => zet(false)); }
-  else { audio.pause(); zet(false); }
+function zetKnop(stand) {
+  if (!huidig) return;
+  const { btn } = huidig;
+  btn.firstChild.replaceWith(playIcon(stand === 'speelt'));
+  btn.querySelector('span').textContent = { speelt: 'Pauze', klaar: 'Luister', tik: 'Tik om te luisteren' }[stand];
+  btn.classList.toggle('pulseer', stand === 'tik');
+}
+function stopAudio() { speler.pause(); }
+function startAudio() {
+  if (!huidig) return;
+  const doel = new URL(huidig.src, location.href).href;
+  if (speler.src !== doel) { speler.src = doel; huidig.balk.firstChild.style.width = '0'; }
+  const p = speler.play();
+  if (p && p.then) p.then(() => zetKnop('speelt')).catch(() => zetKnop('tik'));
+}
+function toggleAudio() {
+  if (!huidig) return;
+  const doel = new URL(huidig.src, location.href).href;
+  if (speler.src === doel && !speler.paused) { speler.pause(); zetKnop('klaar'); }
+  else startAudio();
+}
+speler.addEventListener('timeupdate', () => {
+  if (huidig && speler.duration && speler.src.endsWith(huidig.src)) huidig.balk.firstChild.style.width = `${(speler.currentTime / speler.duration) * 100}%`;
+});
+speler.addEventListener('ended', () => { if (huidig) { zetKnop('klaar'); huidig.balk.firstChild.style.width = '100%'; } });
+
+// Schakelaar "Automatisch afspelen" (standaard aan, per toestel onthouden)
+function autoAan() {
+  try { return localStorage.getItem('barwijnig-autoplay') !== 'uit'; } catch (e) { return true; }
+}
+function zetAuto(aan) {
+  try { localStorage.setItem('barwijnig-autoplay', aan ? 'aan' : 'uit'); } catch (e) { /* niets */ }
+  if (!aan) { stopAudio(); zetKnop('klaar'); }
 }
 
 // ---------- Koop deze fles & Meer zoals deze ----------
@@ -338,7 +386,13 @@ function leeftijdscheck() {
   $('btn-18-nee').onclick = () => { $('leeftijd-nee').hidden = false; $('btn-18-ja').hidden = true; $('btn-18-nee').hidden = true; };
 }
 function bind() {
-  $('btn-scan').onclick = startScan;
+  $('btn-scan').onclick = () => { ontgrendelAudio(); startScan(); };
+  $('btn-again').addEventListener('click', ontgrendelAudio);
+  $('results').addEventListener('click', ontgrendelAudio, true);
+  $('w-meer').addEventListener('click', ontgrendelAudio, true);
+  const sw = $('auto-play');
+  sw.checked = autoAan();
+  sw.onchange = () => zetAuto(sw.checked);
   $('btn-stop').onclick = () => stopScan();
   $('btn-naam').onclick = async () => { await stopScan(); $('search').focus(); };
   $('btn-back').onclick = naarStart;
