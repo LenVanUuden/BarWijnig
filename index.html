@@ -5,68 +5,117 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   <title>BarWijnig</title>
   <meta name="description" content="Scan een wijn en hoor het verhaal erachter.">
-  <meta name="theme-color" content="#5b1a2b">
+  <meta name="theme-color" content="#FFF4E3">
   <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@500;600;700&family=Nunito:wght@500;600;700;800&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="style.css">
-  <!-- Barcode-scanner: gebruikt de ingebouwde scanner van de telefoon waar mogelijk, anders een JS-fallback -->
   <script src="https://unpkg.com/html5-qrcode@2.3.8/html5-qrcode.min.js" defer></script>
+  <script src="aromas.js" defer></script>
   <script src="app.js" defer></script>
 </head>
 <body>
-  <header class="top">
-    <h1>BarWijnig</h1>
-    <p class="tagline">Scan de barcode, hoor het verhaal.</p>
+
+<!-- 1 · Start -->
+<section id="start" class="screen active">
+  <header class="row"><div class="logo">BarWijnig</div></header>
+  <h1 class="kop">Welke fles gaan we<br>ontkurken?</h1>
+
+  <button id="btn-scan" class="vat-knop" aria-label="Scan een fles">
+    <div class="vat wiebel">
+      <div class="vat-romp"></div>
+      <div class="vat-hoepel boven"></div>
+      <div class="vat-hoepel onder"></div>
+      <div class="vat-kern">
+        <svg width="54" height="54" viewBox="0 0 24 24" fill="none" stroke="#FFF4E3" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 7V5a1 1 0 0 1 1-1h2M17 4h2a1 1 0 0 1 1 1v2M20 17v2a1 1 0 0 1-1 1h-2M7 20H5a1 1 0 0 1-1-1v-2"/><path d="M8 8v8M11 8v8M14 8v8M16.5 8v8"/></svg>
+      </div>
+    </div>
+    <span class="vat-label">Tik op het vat om te scannen</span>
+  </button>
+
+  <label class="zoek">
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#9A5B2E" stroke-width="2.4" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="M20 20l-4-4"/></svg>
+    <input id="search" type="search" placeholder="Of zoek: Rioja, Mateus…" autocomplete="off" aria-label="Zoek een wijn">
+  </label>
+  <ul id="results" class="resultaten"></ul>
+</section>
+
+<!-- 2 · Scannen -->
+<section id="scanner" class="screen donker">
+  <header class="row">
+    <div class="logo licht">BarWijnig</div>
+    <button id="btn-stop" class="rond-knop glas" aria-label="Sluiten">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#FFF4E3" stroke-width="2.6" stroke-linecap="round"><path d="M6 6l12 12M18 6L6 18"/></svg>
+    </button>
+  </header>
+  <h1 class="kop midden">Zoek de streepjescode<br>op het achteretiket</h1>
+
+  <div class="zoeker">
+    <div id="reader"></div>
+    <div class="hoek lb"></div><div class="hoek rb"></div><div class="hoek lo"></div><div class="hoek ro"></div>
+    <div class="scanlijn"></div>
+  </div>
+
+  <div class="tip">
+    <div class="tip-icoon">
+      <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#2B1A12" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M9 18h6M10 21h4M12 3a6 6 0 0 0-3.5 10.9c.6.5 1 1.2 1 2.1h5c0-.9.4-1.6 1-2.1A6 6 0 0 0 12 3z"/></svg>
+    </div>
+    <div>Tip: draai de fles langzaam. Het vat doet de rest.</div>
+  </div>
+  <button id="btn-naam" class="knop-rand licht">Liever zoeken op naam</button>
+</section>
+
+<!-- 3 · Het verhaal -->
+<section id="story" class="screen">
+  <header class="row">
+    <button id="btn-back" class="rond-knop" aria-label="Terug">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#3B2316" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"><path d="M15 5l-7 7 7 7"/></svg>
+    </button>
   </header>
 
-  <main>
-    <!-- Startscherm -->
-    <section id="start" class="screen active">
-      <button id="btn-scan" class="primary">📷 Scan een fles</button>
-      <div class="or">of zoek op naam</div>
-      <input id="search" type="search" placeholder="Bijv. Rioja, Chardonnay, producent…" autocomplete="off">
-      <ul id="results" class="results"></ul>
-      <p id="catalog-count" class="muted"></p>
-    </section>
+  <div class="wijnkaart">
+    <div id="w-region" class="wijn-regio"></div>
+    <h1 id="w-name" class="wijn-naam"></h1>
+    <div id="w-chips" class="chips"></div>
+  </div>
 
-    <!-- Scanner -->
-    <section id="scanner" class="screen">
-      <div id="reader"></div>
-      <p class="muted">Richt de camera op de barcode op het achteretiket.</p>
-      <button id="btn-stop" class="secondary">Annuleren</button>
-    </section>
+  <div class="tabs" role="tablist">
+    <button id="tab-kort" class="tab active" role="tab">Kort &amp; krachtig</button>
+    <button id="tab-lang" class="tab" role="tab">Vertel me alles</button>
+  </div>
 
-    <!-- Verhaal -->
-    <section id="story" class="screen">
-      <p class="eyebrow" id="w-region"></p>
-      <h2 id="w-name"></h2>
-      <p class="muted" id="w-meta"></p>
+  <div id="player" class="speler"></div>
+  <div id="duur" class="duur"></div>
 
-      <div class="toggle" role="tablist">
-        <button id="tab-kort" class="tab active" role="tab">Kort</button>
-        <button id="tab-lang" class="tab" role="tab">Voor nerds</button>
-      </div>
+  <div id="w-text" class="delen"></div>
 
-      <div id="player"></div>
-      <article id="w-text" class="text"></article>
+  <details id="w-sources" class="bronnen">
+    <summary>Bronnen</summary>
+    <ul id="w-source-list"></ul>
+  </details>
+</section>
 
-      <details id="w-sources" class="sources">
-        <summary>Bronnen</summary>
-        <ul id="w-source-list"></ul>
-      </details>
+<!-- 4 · Onbekende fles -->
+<section id="unknown" class="screen">
+  <header class="row">
+    <button id="btn-back2" class="rond-knop" aria-label="Terug">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#3B2316" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"><path d="M15 5l-7 7 7 7"/></svg>
+    </button>
+  </header>
+  <div class="vat klein zweef">
+    <div class="vat-romp"></div>
+    <div class="vat-hoepel boven"></div>
+    <div class="vat-hoepel onder"></div>
+    <div class="vat-kern vraag">?</div>
+  </div>
+  <h1 class="kop midden">Deze fles is nog<br>een mysterie!</h1>
+  <p class="uitleg">We kennen hem nog niet. Hij staat op de lijst, en we gaan hem binnenkort voor je ontkurken.</p>
+  <p class="uitleg klein">Barcode: <code id="u-code"></code></p>
+  <div class="vul"></div>
+  <button id="btn-share" class="knop-vol">Stuur door aan de keldermeester</button>
+  <button id="btn-again" class="knop-rand">Nog een fles scannen</button>
+</section>
 
-      <button id="btn-back" class="secondary">← Nog een fles</button>
-    </section>
-
-    <!-- Onbekende wijn -->
-    <section id="unknown" class="screen">
-      <h2>Dit verhaal staat nog niet klaar</h2>
-      <p>We kennen deze fles nog niet. Hij staat op de lijst en het verhaal wordt binnenkort gemaakt.</p>
-      <p class="muted">Barcode: <code id="u-code"></code></p>
-      <button id="btn-share" class="primary">Stuur door aan de maker</button>
-      <button id="btn-back2" class="secondary">← Terug</button>
-    </section>
-  </main>
-
-  <footer class="foot muted">Testversie · teksten gemaakt met AI en gecontroleerd tegen bronnen</footer>
 </body>
 </html>

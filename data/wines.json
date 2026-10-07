@@ -48,7 +48,33 @@
       ],
       "zekerheid": "middel",
       "ean": [],
-      "bijgewerkt": "2026-10-07"
+      "bijgewerkt": "2026-10-07",
+      "proef": {
+        "kleur": {
+          "naam": "Diep kersenrood",
+          "hex": "#6A1028"
+        },
+        "geur": {
+          "fruit": [
+            "kers",
+            "braam"
+          ],
+          "maken": [
+            "specerij"
+          ],
+          "rijping": []
+        },
+        "smaak": {
+          "fruit": [
+            "kers",
+            "braam"
+          ],
+          "maken": [
+            "specerij"
+          ],
+          "rijping": []
+        }
+      }
     },
     {
       "id": "campo-viejo-rioja-tempranillo",
@@ -78,7 +104,34 @@
       ],
       "zekerheid": "hoog",
       "ean": [],
-      "bijgewerkt": "2026-10-07"
+      "bijgewerkt": "2026-10-07",
+      "proef": {
+        "kleur": {
+          "naam": "Robijnrood",
+          "hex": "#8E1B2E"
+        },
+        "geur": {
+          "fruit": [
+            "kers",
+            "aardbei"
+          ],
+          "maken": [
+            "vanille"
+          ],
+          "rijping": [
+            "aards"
+          ]
+        },
+        "smaak": {
+          "fruit": [
+            "roodfruit"
+          ],
+          "maken": [
+            "vanille"
+          ],
+          "rijping": []
+        }
+      }
     },
     {
       "id": "faustino-vii-tinto",
@@ -108,7 +161,36 @@
       ],
       "zekerheid": "hoog",
       "ean": [],
-      "bijgewerkt": "2026-10-07"
+      "bijgewerkt": "2026-10-07",
+      "proef": {
+        "kleur": {
+          "naam": "Diep robijnrood",
+          "hex": "#6E1229"
+        },
+        "geur": {
+          "fruit": [
+            "braam",
+            "pruim"
+          ],
+          "maken": [],
+          "rijping": [
+            "leer",
+            "tabak"
+          ]
+        },
+        "smaak": {
+          "fruit": [
+            "braam",
+            "pruim"
+          ],
+          "maken": [
+            "vanille",
+            "geroosterd",
+            "specerij"
+          ],
+          "rijping": []
+        }
+      }
     },
     {
       "id": "casillero-del-diablo-cabernet-sauvignon",
@@ -150,7 +232,33 @@
       ],
       "zekerheid": "middel",
       "ean": [],
-      "bijgewerkt": "2026-10-07"
+      "bijgewerkt": "2026-10-07",
+      "proef": {
+        "kleur": {
+          "naam": "Diep robijnrood",
+          "hex": "#5E0F24"
+        },
+        "geur": {
+          "fruit": [
+            "kers",
+            "zwartebes",
+            "pruim"
+          ],
+          "maken": [
+            "vanille",
+            "geroosterd"
+          ],
+          "rijping": []
+        },
+        "smaak": {
+          "fruit": [
+            "pruim",
+            "braam"
+          ],
+          "maken": [],
+          "rijping": []
+        }
+      }
     },
     {
       "id": "torres-sangre-de-toro",
@@ -185,7 +293,31 @@
       ],
       "zekerheid": "middel",
       "ean": [],
-      "bijgewerkt": "2026-10-07"
+      "bijgewerkt": "2026-10-07",
+      "proef": {
+        "kleur": {
+          "naam": "Diep rood",
+          "hex": "#7A1426"
+        },
+        "geur": {
+          "fruit": [
+            "rodebes",
+            "drop",
+            "peper"
+          ],
+          "maken": [],
+          "rijping": []
+        },
+        "smaak": {
+          "fruit": [
+            "rodebes",
+            "drop",
+            "peper"
+          ],
+          "maken": [],
+          "rijping": []
+        }
+      }
     },
     {
       "id": "oyster-bay-sauvignon-blanc",
@@ -215,7 +347,29 @@
       ],
       "zekerheid": "middel",
       "ean": [],
-      "bijgewerkt": "2026-10-07"
+      "bijgewerkt": "2026-10-07",
+      "proef": {
+        "kleur": {
+          "naam": "Bleek strogeel",
+          "hex": "#EDE6A8"
+        },
+        "geur": {
+          "fruit": [
+            "tropisch",
+            "citrus"
+          ],
+          "maken": [],
+          "rijping": []
+        },
+        "smaak": {
+          "fruit": [
+            "citrus",
+            "tropisch"
+          ],
+          "maken": [],
+          "rijping": []
+        }
+      }
     },
     {
       "id": "lindemans-bin-65-chardonnay",
@@ -253,7 +407,34 @@
       ],
       "zekerheid": "middel",
       "ean": [],
-      "bijgewerkt": "2026-10-07"
+      "bijgewerkt": "2026-10-07",
+      "proef": {
+        "kleur": {
+          "naam": "Goudgeel",
+          "hex": "#E9C45B"
+        },
+        "geur": {
+          "fruit": [
+            "perzik",
+            "vijg",
+            "tropisch"
+          ],
+          "maken": [
+            "geroosterd"
+          ],
+          "rijping": []
+        },
+        "smaak": {
+          "fruit": [
+            "perzik",
+            "tropisch"
+          ],
+          "maken": [
+            "geroosterd"
+          ],
+          "rijping": []
+        }
+      }
     },
     {
       "id": "casal-garcia-vinho-verde",
@@ -286,7 +467,28 @@
       ],
       "zekerheid": "middel",
       "ean": [],
-      "bijgewerkt": "2026-10-07"
+      "bijgewerkt": "2026-10-07",
+      "proef": {
+        "kleur": {
+          "naam": "Licht citroengeel",
+          "hex": "#EFE7A0"
+        },
+        "geur": {
+          "fruit": [
+            "citrus",
+            "bloemen"
+          ],
+          "maken": [],
+          "rijping": []
+        },
+        "smaak": {
+          "fruit": [
+            "citrus"
+          ],
+          "maken": [],
+          "rijping": []
+        }
+      }
     },
     {
       "id": "mateus-rose",
@@ -319,7 +521,28 @@
       ],
       "zekerheid": "middel",
       "ean": [],
-      "bijgewerkt": "2026-10-07"
+      "bijgewerkt": "2026-10-07",
+      "proef": {
+        "kleur": {
+          "naam": "Zalmroze",
+          "hex": "#F2A08C"
+        },
+        "geur": {
+          "fruit": [
+            "aardbei",
+            "framboos"
+          ],
+          "maken": [],
+          "rijping": []
+        },
+        "smaak": {
+          "fruit": [
+            "roodfruit"
+          ],
+          "maken": [],
+          "rijping": []
+        }
+      }
     },
     {
       "id": "freixenet-carta-nevada",
@@ -355,7 +578,30 @@
       ],
       "zekerheid": "hoog",
       "ean": [],
-      "bijgewerkt": "2026-10-07"
+      "bijgewerkt": "2026-10-07",
+      "proef": {
+        "kleur": {
+          "naam": "Geel met gouden glans",
+          "hex": "#EBD27A"
+        },
+        "geur": {
+          "fruit": [
+            "bloemen",
+            "frisfruit",
+            "citrus"
+          ],
+          "maken": [],
+          "rijping": []
+        },
+        "smaak": {
+          "fruit": [
+            "frisfruit",
+            "citrus"
+          ],
+          "maken": [],
+          "rijping": []
+        }
+      }
     }
   ]
 }

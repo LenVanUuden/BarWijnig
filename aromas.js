@@ -1,0 +1,38 @@
+// Vaste set aroma-iconen voor de proefkaart.
+// Gebruik in wines.json de sleutel (bv. "braam"). Fruit heeft een eigen kleur, de rest is eikenbruin.
+window.AROMAS = {
+  // Fruit (laag 1)
+  braam:       { naam: 'Braam',       bg: '#EDE3F5', kleur: '#4B2A6B', d: 'M12 3v3M10 8a2 2 0 1 0 0 .1M14 8a2 2 0 1 0 0 .1M8 12a2 2 0 1 0 0 .1M12 12a2 2 0 1 0 0 .1M16 12a2 2 0 1 0 0 .1M10 16a2 2 0 1 0 0 .1M14 16a2 2 0 1 0 0 .1M12 20a2 2 0 1 0 0 .1' },
+  framboos:    { naam: 'Framboos',    bg: '#FBE1E6', kleur: '#B0284A', d: 'M12 3v3M10 8a2 2 0 1 0 0 .1M14 8a2 2 0 1 0 0 .1M8 12a2 2 0 1 0 0 .1M12 12a2 2 0 1 0 0 .1M16 12a2 2 0 1 0 0 .1M10 16a2 2 0 1 0 0 .1M14 16a2 2 0 1 0 0 .1M12 20a2 2 0 1 0 0 .1' },
+  pruim:       { naam: 'Pruim',       bg: '#F1E1EE', kleur: '#6B1F55', d: 'M12 7c4 0 7 3 7 7s-3 7-7 7-7-3-7-7 3-7 7-7zM12 7c0-2 1-4 4-4M12 7c-1.5 3-1.5 9 0 14' },
+  kers:        { naam: 'Kers',        bg: '#FBE1E3', kleur: '#A3162E', d: 'M7 17a3 3 0 1 0 0 .1M16 18a3 3 0 1 0 0 .1M7 14c1-4 3-7 7-10M16 15c-.5-4-1-8-2-11' },
+  aardbei:     { naam: 'Aardbei',     bg: '#FDE3E1', kleur: '#C2352A', d: 'M12 7c4 0 7 2 7 5 0 5-4 9-7 9s-7-4-7-9c0-3 3-5 7-5zM9 4l3 3 3-3M10 12h.01M14 12h.01M12 15h.01' },
+  roodfruit:   { naam: 'Rood fruit',  bg: '#FDE3E1', kleur: '#C2352A', d: 'M12 7c4 0 7 2 7 5 0 5-4 9-7 9s-7-4-7-9c0-3 3-5 7-5zM9 4l3 3 3-3M10 12h.01M14 12h.01M12 15h.01' },
+  rodebes:     { naam: 'Rode bes',    bg: '#FBE1E3', kleur: '#B0283A', d: 'M8 14a2.5 2.5 0 1 0 0 .1M13 16a2.5 2.5 0 1 0 0 .1M16 11a2.5 2.5 0 1 0 0 .1M8 11c2-4 5-7 10-8' },
+  zwartebes:   { naam: 'Zwarte bes',  bg: '#E6E1F0', kleur: '#2E2350', d: 'M8 14a2.5 2.5 0 1 0 0 .1M13 16a2.5 2.5 0 1 0 0 .1M16 11a2.5 2.5 0 1 0 0 .1M8 11c2-4 5-7 10-8' },
+  citrus:      { naam: 'Citrus',      bg: '#FFF4C2', kleur: '#A07A00', d: 'M12 3a9 9 0 1 0 0 18 9 9 0 0 0 0-18zM12 3v18M3 12h18M5.6 5.6l12.8 12.8M18.4 5.6L5.6 18.4' },
+  tropisch:    { naam: 'Tropisch',    bg: '#FFEDC7', kleur: '#B36B00', d: 'M12 9c3 0 5 3 5 6.5S15 21 12 21s-5-2-5-5.5S9 9 12 9zM12 9V3M12 6L9 3M12 6l3-3M9 13l6 4M15 13l-6 4' },
+  perzik:      { naam: 'Perzik',      bg: '#FFE6D2', kleur: '#C2611F', d: 'M12 6c4-1 8 2 8 7s-4 8-8 8-8-3-8-8 4-8 8-7zM12 6v15M12 6c1-2 3-3 5-3' },
+  vijg:        { naam: 'Vijg',        bg: '#EFE3EC', kleur: '#6B3A5B', d: 'M12 4c1 3 6 6 6 11a6 6 0 0 1-12 0c0-5 5-8 6-11zM11 3h2' },
+  frisfruit:   { naam: 'Fris fruit',  bg: '#E7F2D6', kleur: '#4F7A1F', d: 'M12 7c-3-2-8-1-8 5 0 5 4 9 6 9 1 0 1.5-.5 2-.5s1 .5 2 .5c2 0 6-4 6-9 0-6-5-7-8-5zM12 7c0-2 1-3 2-4' },
+  appel:       { naam: 'Appel',       bg: '#E7F2D6', kleur: '#4F7A1F', d: 'M12 7c-3-2-8-1-8 5 0 5 4 9 6 9 1 0 1.5-.5 2-.5s1 .5 2 .5c2 0 6-4 6-9 0-6-5-7-8-5zM12 7c0-2 1-3 2-4' },
+  bloemen:     { naam: 'Bloemen',     bg: '#F6E4F2', kleur: '#8A3A7A', d: 'M12 9a3 3 0 1 0 0 6 3 3 0 0 0 0-6zM12 9V4M12 15v5M9 12H4M15 12h5M9.9 9.9L6.3 6.3M14.1 14.1l3.6 3.6M14.1 9.9l3.6-3.6M9.9 14.1l-3.6 3.6' },
+  kruiden:     { naam: 'Kruiden',     bg: '#E3F0DF', kleur: '#3F6B35', d: 'M5 19C5 10 10 5 19 5c0 9-5 14-14 14zM5 19l9-9' },
+  drop:        { naam: 'Drop',        bg: '#E8E2DE', kleur: '#2B1A12', d: 'M12 12a1 1 0 1 1 1 1 2 2 0 1 1-2-2 3 3 0 1 1 3 3 4 4 0 1 1-4-4 5 5 0 1 1 5 5' },
+  peper:       { naam: 'Zwarte peper',bg: '#E8E2DE', kleur: '#2B1A12', d: 'M8 10a2 2 0 1 0 0 .1M15 9a2 2 0 1 0 0 .1M11 15a2 2 0 1 0 0 .1M17 16a2 2 0 1 0 0 .1' },
+  // Maken (laag 2) en rijping (laag 3)
+  specerij:    { naam: 'Specerij',    d: 'M12 3a3 3 0 0 0-3 3c0 4 3 9 3 15 0-6 3-11 3-15a3 3 0 0 0-3-3z' },
+  vanille:     { naam: 'Vanille',     d: 'M5 19C9 15 14 10 19 5M8 19c4-3 8-7 11-11M5 19h3' },
+  geroosterd:  { naam: 'Geroosterd',  d: 'M5 10a4 4 0 0 1 3-6h8a4 4 0 0 1 3 6v9H5zM9 13h6' },
+  eikenhout:   { naam: 'Eikenhout',   d: 'M6 4h12c1.5 5 1.5 11 0 16H6C4.5 15 4.5 9 6 4zM5 9h14M5 15h14' },
+  brioche:     { naam: 'Brioche',     d: 'M4 15a8 6 0 0 1 16 0v3H4zM9 9c0-2 1.5-3 3-3s3 1 3 3' },
+  boter:       { naam: 'Boter',       d: 'M5 10h14v8H5zM7 10V7h10v3' },
+  room:        { naam: 'Room',        d: 'M5 10h14v8H5zM7 10V7h10v3' },
+  chocolade:   { naam: 'Chocolade',   d: 'M5 4h14v16H5zM5 9h14M5 14h14M12 4v16' },
+  honing:      { naam: 'Honing',      d: 'M12 3l7 4v8l-7 4-7-4V7z' },
+  kaas:        { naam: 'Kaas',        d: 'M3 17l9-11 9 11zM9 14h.01M14 13h.01' },
+  leer:        { naam: 'Leer',        d: 'M6 4c2 1 4 1 6 0s4-1 6 0c-1 3-1 5 0 8s1 5 0 8c-2-1-4-1-6 0s-4 1-6 0c1-3 1-5 0-8s-1-5 0-8z' },
+  tabak:       { naam: 'Tabak',       d: 'M5 19C5 10 10 5 19 5c0 9-5 14-14 14zM5 19l9-9' },
+  aards:       { naam: 'Aards',       d: 'M3 18h18M5 18c1-4 4-6 7-6s6 2 7 6M8 14l-1-3M14 12l1-4' },
+  noten:       { naam: 'Noten',       d: 'M12 4c4 0 6 3 6 7s-3 9-6 9-6-5-6-9 2-7 6-7zM12 4v16' },
+};
