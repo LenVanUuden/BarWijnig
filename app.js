@@ -70,22 +70,34 @@ function renderVersion() {
   // Tekst: alinea's gescheiden door lege regel
   const text = $('w-text');
   text.innerHTML = '';
-  // Vaste labels (zie FORMAT.md) vet weergeven
-  const LABELS = ['In je glas.', 'Op je tong.', 'De druif.', 'Hoe gemaakt.', 'Waar vandaan.', 'Het verhaal.', 'Schenken.', 'Wat je proeft.', 'Onthoud.'];
+  // Vaste onderdelen (zie FORMAT.md) als kaartjes met icoon
+  const LABELS = {
+    'Het wijnweetje van deze fles!': ['💡', 'Het wijnweetje'],
+    'Het hele verhaal van deze fles!': ['🍾', 'Het hele verhaal'],
+    'In je glas.': ['🍷', 'In je glas'],
+    'Op je tong.': ['👅', 'Op je tong'],
+    'De druif.': ['🍇', 'De druif'],
+    'Hoe gemaakt.': ['🛢️', 'Hoe gemaakt'],
+    'Waar vandaan.': ['🗺️', 'Waar vandaan'],
+    'Het verhaal.': ['📖', 'Het verhaal'],
+    'Schenken.': ['🥂', 'Schenken'],
+    'Wat je proeft.': ['👃', 'Wat je proeft'],
+    'Onthoud.': ['📌', 'Onthoud'],
+  };
   (v.tekst || '').split(/\n\s*\n/).forEach((para) => {
-    const p = document.createElement('p');
     const t = para.trim();
-    const label = LABELS.find((l) => t.startsWith(l));
+    const label = Object.keys(LABELS).find((l) => t.startsWith(l));
+    const card = document.createElement('section');
+    card.className = 'part';
     if (label) {
-      const s = document.createElement('strong');
-      s.textContent = label.replace(/\.$/, '');
-      p.appendChild(s);
-      p.appendChild(document.createElement('br'));
-      p.appendChild(document.createTextNode(t.slice(label.length).trim()));
-    } else {
-      p.textContent = t;
+      const h = document.createElement('h3');
+      h.textContent = `${LABELS[label][0]} ${LABELS[label][1]}`;
+      card.appendChild(h);
     }
-    text.appendChild(p);
+    const p = document.createElement('p');
+    p.textContent = label ? t.slice(label.length).trim() : t;
+    card.appendChild(p);
+    text.appendChild(card);
   });
 
   // Afspelen: 1) Spotify-aflevering  2) eigen mp3  3) voorlezen door de telefoon

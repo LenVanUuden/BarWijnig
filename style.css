@@ -65,10 +65,10 @@ input[type=search] {
 .spotify { display: block; text-align: center; padding: 14px; border-radius: 14px; background: #1db954; color: #000; font-weight: 600; text-decoration: none; }
 .speak { padding: 14px; background: var(--card); border: 1px solid var(--line); color: var(--fg); }
 
-.text { background: var(--card); border: 1px solid var(--line); border-radius: 14px; padding: 16px; }
-.text p { margin: 0 0 10px; }
-.text p:last-child { margin: 0; }
-.text strong { color: var(--wine); }
+.text { display: flex; flex-direction: column; gap: 10px; }
+.part { background: var(--card); border: 1px solid var(--line); border-radius: 14px; padding: 14px 16px; }
+.part h3 { margin: 0 0 6px; font-size: 15px; color: var(--wine); letter-spacing: .01em; }
+.part p { margin: 0; }
 
 .sources { margin-top: 14px; font-size: 14px; color: var(--muted); }
 .sources a { color: var(--wine); word-break: break-word; }
