@@ -32,6 +32,8 @@ Scan een wijnfles en hoor meteen het verhaal van die wijn, zoals Hitster dat doe
 | 7 okt | Verdienmodel: affiliate via "Koop deze fles" en "Meer zoals deze" | Geld op het moment van hoogste interesse |
 | 7 okt | Eerst gratis Piper-stem testen; Google Chirp 3 HD in de ideeënmap | Geen creditcard nodig in de testfase |
 | 7 okt | Stem: Piper "Alex" | Keuze Len uit 6 stemproeven |
+| 7 okt | Toch live etiket scannen + zelfgroeiende catalogus (optie B) | Zonder barcodes werkt scannen niet; dit was de kern van het idee |
+| 7 okt | Harde grens: nooit meer dan €30 per maand | Keuze Len. Vier sloten: virtuele kaart met €30-limiet, $30 tegoed zonder bijladen, Console-limiet $25 met meldingen, eigen budgetbewaker €20 in de app |
 
 ## Status
 - [x] Basis-app online (scannen, zoeken, verhaal, onbekende fles)
@@ -43,13 +45,17 @@ Scan een wijnfles en hoor meteen het verhaal van die wijn, zoals Hitster dat doe
 - [x] "Meer zoals deze" (op druif, aroma's, herkomst) en "Koop deze fles" (verschijnt zodra er een affiliatelink is)
 - [x] Batch 3: 30 wijnen totaal (Drostdy-Hof Steen vervangen door Cono Sur Bicicleta Pinot Noir: geen bronnen gevonden)
 - [x] Automatisch afspelen (met schakelaar, standaard aan)
-- [ ] Barcodes koppelen (via testers die onbekende flessen doorsturen)
+- [ ] Live etiket scannen + zelfgroeiende catalogus (in uitvoering)
+  - [x] Virtuele kaart geregeld
+  - [ ] Claude Console: account, $30 tegoed (bijladen uit), werkruimte "BarWijnig", limiet $25, API-sleutel
+  - [ ] Cloudflare-account (gratis) en sleutels als geheim instellen (niet via de chat)
+  - [ ] Claude bouwt: tussenstation met budgetbewaker, etiketherkenning, live verhalen, barcodes automatisch koppelen, budgetdashboard
 
 ## Kosten tot nu toe
-€0. Alles draait gratis op GitHub en op Claude Pro.
+€0 tot nu toe. Vanaf live scannen: maximaal €30 per maand (harde grens).
 
 ## Open punten voor Len
-- Stem kiezen uit de stemproef.
+- **Morgen verder:** Claude Console-stappen 1–6 afronden (stappenkaart in het gesprek), daarna Cloudflare.
 - Aanmelden bij een affiliatenetwerk (Daisycon of Awin), bijvoorbeeld voor Wijnkring (4,9% commissie).
 - Later: Claude-gesprek koppelen aan de laptop, zodat dit logboek ook daar staat.
 
@@ -65,3 +71,4 @@ Scan een wijnfles en hoor meteen het verhaal van die wijn, zoals Hitster dat doe
 - 18+-check gebouwd (één keer per toestel). "Meer wijnen zoals deze" gebouwd op basis van de proefkaart. Spotify-knop vervangen door een eigen Luister-knop (actief zodra er audio is). Ideeënmap aangemaakt (Google Chirp HD-stem).
 - Stem Alex gekozen; audio gemaakt voor alle wijnen. Batch 3 toegevoegd: top 30 compleet. "Meer zoals deze" vult nu altijd aan tot 3 (ook voor rosé).
 - Automatisch afspelen gebouwd: geluid wordt ontgrendeld bij de tik op het vat; als de browser toch blokkeert, pulseert de knop "Tik om te luisteren". Schakelaar "Automatisch afspelen" per toestel onthouden.
+- Besloten om live etiket scannen te bouwen met een harde grens van €30 per maand. Virtuele kaart geregeld; Console-account wordt morgen afgerond. Gepauzeerd tot morgen.
