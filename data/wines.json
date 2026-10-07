@@ -14,5 +14,336 @@
     "zekerheid": "'hoog' (feiten in >=2 bronnen bevestigd) of 'middel' (details algemeen geformuleerd)",
     "bijgewerkt": "datum JJJJ-MM-DD"
   },
-  "wijnen": []
+  "wijnen": [
+    {
+      "id": "mucho-mas-tinto",
+      "naam": "Mucho Más Tinto",
+      "producent": "Félix Solís",
+      "druiven": [
+        "Tempranillo",
+        "Garnacha"
+      ],
+      "land": "Spanje",
+      "regio": "La Mancha, Valdepeñas en Toro",
+      "appellation": "Vino de España",
+      "kort": {
+        "tekst": "Mucho Más betekent 'veel meer', en dat is precies het idee achter deze wijn.\n\nDe makers kozen er bewust voor om géén streekaanduiding op het etiket te zetten. Daardoor mogen ze druiven uit verschillende Spaanse regio's combineren: tempranillo en garnacha uit onder meer La Mancha, Valdepeñas en Toro. Zie het als een kok die op drie markten de beste ingrediënten haalt.\n\nDe wijn rijpt kort op eikenhout. Ruik maar eens: zwarte kersen, bramen en een vleugje specerij. In de mond is hij zacht en sappig, met fluweelachtige tannines. Een makkelijke, royale rode wijn, en precies daarom zo populair in Nederland.",
+        "audio": "",
+        "spotify": ""
+      },
+      "lang": {
+        "tekst": "Druiven. Mucho Más is een blend, met tempranillo en garnacha als belangrijkste druiven. Tempranillo brengt structuur en donker fruit, garnacha zorgt voor rondheid, warmte en sappigheid.\n\nRegio en appellation. Dit is officieel een 'Vino de España': een wijn zonder herkomstbenaming. Dat klinkt als een stap terug, maar het is een bewuste keuze. Wie een DO als Rioja of La Mancha op het etiket zet, moet alle druiven uit dat gebied halen. Félix Solís, een groot familiebedrijf uit Valdepeñas, wil juist kunnen mengen: druiven uit La Mancha en Valdepeñas, aangevuld met krachtiger materiaal uit Toro. Zo kunnen ze elk jaar dezelfde stijl maken, ongeacht hoe één regio het doet.\n\nHoe gemaakt. Na de gisting rijpt de wijn maar kort op eikenhout. Genoeg om de randjes zacht te maken en een hint van vanille en specerij te geven, maar niet zo lang dat het hout het fruit overheerst. Het is dus geen crianza of reserva: de stijl draait om rijp, toegankelijk fruit.\n\nGeur. Zwarte kersen, braam, wat zoete specerij en een lichte toets van hout.\n\nSmaak. Vol en zacht, met rijp donker fruit, fluweelachtige tannines en een redelijk lange afdronk. Het alcoholpercentage ligt rond de 14 procent, en dat proef je aan de warmte en de body.\n\nOm op te letten. Er bestaan meerdere Mucho Más-versies, zoals een Black Edition met ook syrah erin. De samenstelling kan per versie en per jaar verschillen, dus kijk op het etiket welke jij hebt.",
+        "audio": "",
+        "spotify": ""
+      },
+      "bronnen": [
+        {
+          "titel": "Albert Heijn – Mucho Mas Rood tempranillo",
+          "url": "https://www.ah.nl/producten/product/wi435571/mucho-mas-rood-tempranillo"
+        },
+        {
+          "titel": "Félix Solís – Mucho Más Black Edition",
+          "url": "https://www.felixsolis.com/en/wine/mucho-mas-black-edition"
+        }
+      ],
+      "zekerheid": "middel",
+      "ean": [],
+      "bijgewerkt": "2026-10-07"
+    },
+    {
+      "id": "campo-viejo-rioja-tempranillo",
+      "naam": "Campo Viejo Rioja Tempranillo",
+      "producent": "Bodegas Campo Viejo",
+      "druiven": [
+        "Tempranillo"
+      ],
+      "land": "Spanje",
+      "regio": "Rioja",
+      "appellation": "DOCa Rioja",
+      "kort": {
+        "tekst": "Campo Viejo komt uit Rioja, de bekendste wijnstreek van Spanje, en de bodega bestaat sinds 1959.\n\nDeze wijn is gemaakt van honderd procent tempranillo, de belangrijkste druif van Rioja. Na de gisting rijpt hij ongeveer vier maanden op vaten van Amerikaans eikenhout. Dat is kort, en daarom staat er geen 'crianza' op het etiket: daarvoor moet een wijn veel langer rijpen.\n\nVerwacht rijp rood fruit, zoals kers en aardbei, met een zacht vanilletintje van het hout. Soepel, sappig en makkelijk te drinken. Leuk weetje: de bodega draait volledig op hernieuwbare stroom.",
+        "audio": "",
+        "spotify": ""
+      },
+      "lang": {
+        "tekst": "Druif. Tempranillo, de ruggengraat van Rioja. De naam komt van het Spaanse 'temprano', vroeg, omdat de druif relatief vroeg rijp is. Tempranillo geeft rood fruit, matige zuren en tannines die mooi samengaan met eikenhout.\n\nHoe gemaakt. De druiven vergisten in vaten met temperatuurcontrole rond de 25 graden. Ongeveer twaalf dagen blijven de schillen in contact met het sap. Die maceratie geeft kleur, aroma en tannine. Daarna rijpt de wijn zo'n vier maanden op Amerikaans eikenhout en vervolgens nog even op fles.\n\nWaarom geen crianza? Rioja werkt met vaste rijpingsklassen. Een rode crianza rijpt minstens twee jaar, waarvan minimaal één jaar op vat. Een reserva en gran reserva nog langer. Deze wijn zit daaronder: jong, fruitig, met net een vleugje hout.\n\nAmerikaans eiken. Rioja gebruikt van oudsher veel Amerikaans eikenhout. Dat geeft meer zoete, vanilleachtige en kokosachtige tonen dan Frans eiken. Die vanille herken je hier subtiel terug.\n\nGeur. Rijpe kers en aardbei, een lichte aardse toon en een vleugje vanille.\n\nSmaak. Middelvol en sappig, met zachte tannines en een frisse afdronk.\n\nRegio. Rioja ligt in het noorden van Spanje, langs de rivier de Ebro, en is een van de twee Spaanse gebieden met de hoogste kwaliteitsstatus, DOCa. De bodega van Campo Viejo werkt met hernieuwbare elektriciteit en heeft het glasgewicht van de fles verlaagd om CO2 te besparen.",
+        "audio": "",
+        "spotify": ""
+      },
+      "bronnen": [
+        {
+          "titel": "Sainsbury's – Campo Viejo Rioja Tempranillo",
+          "url": "https://sainsburys.co.uk/groceries/product/campo-viejo-rioja-tempranillo-red-wine-18-75cl"
+        }
+      ],
+      "zekerheid": "hoog",
+      "ean": [],
+      "bijgewerkt": "2026-10-07"
+    },
+    {
+      "id": "faustino-vii-tinto",
+      "naam": "Faustino VII Tinto",
+      "producent": "Bodegas Faustino",
+      "druiven": [
+        "Tempranillo"
+      ],
+      "land": "Spanje",
+      "regio": "Rioja Alavesa",
+      "appellation": "DOCa Rioja",
+      "kort": {
+        "tekst": "Faustino is al sinds 1861 in handen van dezelfde familie, inmiddels de vierde generatie, in het dorp Oyón in Rioja Alavesa.\n\nEn dan een leuke Nederlandse link: op het etiket van hun topwijn, de Faustino I Gran Reserva, staat een portret geschilderd door Rembrandt.\n\nDeze Faustino VII is het jonge broertje: honderd procent tempranillo, kort gerijpt op Amerikaans eikenhout. Ruik zwarte bes en rijpe pruim, met een hint van leer en tabak. In de mond middelvol en zacht, met een licht vanilletintje. Een wijn om nu te drinken, niet om te bewaren.",
+        "audio": "",
+        "spotify": ""
+      },
+      "lang": {
+        "tekst": "Druif. Honderd procent tempranillo, de klassieke druif van Rioja.\n\nRegio. Rioja Alavesa is het noordelijke deel van Rioja, in Baskenland, tegen de bergen van de Sierra de Cantabria aan. Het is hoger gelegen en koeler dan de rest van Rioja. De bodems zijn kalkrijk, wat bijdraagt aan frisheid en finesse. Faustino bewerkt hier zo'n 650 hectare wijngaard.\n\nHoe gemaakt. De wijn rijpt kort op vaten van Amerikaans eikenhout. Daardoor krijg je een lichte houttoets met vanille en wat geroosterde tonen, zonder dat het fruit wordt overstemd. Hij is gemaakt om jong te drinken.\n\nHet Rembrandt-verhaal. Het huis is wereldberoemd om de Faustino I Gran Reserva, volgens de producent de meest verkochte gran reserva ter wereld. Op dat etiket staat het portret van de koopman Nicolaes van Bambeeck, geschilderd door Rembrandt. Zo staat er in elke Spaanse supermarkt een stukje Gouden Eeuw in het schap.\n\nGeur. Braam en rijpe pruim, met een duidelijke toets van leer en tabak.\n\nSmaak. Middelvol, met zachte tannines, wat kruidigheid en geroosterde tonen, een licht vanilletintje en een droge afdronk.\n\nServeren. Iets onder kamertemperatuur, rond 16 tot 18 graden.",
+        "audio": "",
+        "spotify": ""
+      },
+      "bronnen": [
+        {
+          "titel": "Vinoscout – Faustino VII Tinto Rioja",
+          "url": "https://www.vinoscout.de/en/products/faustino-vii-tinto-rioja"
+        }
+      ],
+      "zekerheid": "hoog",
+      "ean": [],
+      "bijgewerkt": "2026-10-07"
+    },
+    {
+      "id": "casillero-del-diablo-cabernet-sauvignon",
+      "naam": "Casillero del Diablo Cabernet Sauvignon Reserva",
+      "producent": "Concha y Toro",
+      "druiven": [
+        "Cabernet Sauvignon"
+      ],
+      "land": "Chili",
+      "regio": "Central Valley",
+      "appellation": "Valle Central",
+      "kort": {
+        "tekst": "Casillero del Diablo betekent letterlijk 'de kelder van de duivel'. En daar zit een mooi verhaal achter.\n\nRuim honderd jaar geleden bewaarde Don Melchor Concha y Toro, de oprichter van een van de oudste wijnhuizen van Chili, zijn beste wijnen achter een smeedijzeren hek. Toch verdwenen er steeds flessen. Zijn oplossing: hij verspreidde het gerucht dat de duivel in zijn kelder woonde. Het bijgeloof deed de rest.\n\nIn de fles: cabernet sauvignon uit de Chileense Central Valley. Verwacht zwarte bes, pruim en wat kruidigheid, met een stevige maar ronde structuur. Prima bij rood vlees.",
+        "audio": "",
+        "spotify": ""
+      },
+      "lang": {
+        "tekst": "Druif. Cabernet sauvignon, de druif die beroemd werd in Bordeaux en zich in Chili uitstekend thuis voelt. Kleine, dikschillige bessen, dus veel kleur en tannine.\n\nRegio. De Valle Central, de Central Valley, is het grote wijnhart van Chili, tussen de Andes en het kustgebergte. Overdag zonnig en warm, 's nachts koelt het flink af door de lucht die van de Andes naar beneden komt. Dat temperatuurverschil helpt de druiven rijp te worden en toch fris te blijven.\n\nOver het woord 'Reserva'. In Spanje is reserva een strenge, wettelijke rijpingsklasse. In Chili zegt het veel minder: je mag het niet lezen als garantie voor jarenlange houtrijping. Het is vooral een aanduiding binnen het assortiment van het huis.\n\nHet verhaal. Don Melchor Concha y Toro bewaarde zijn beste flessen in een eigen kelder. Toen er steeds wijn verdween, liet hij het gerucht rondgaan dat daar 's nachts vreemde dingen gebeurden en dat de duivel er woonde. Het werkte, en meer dan een eeuw later is het de naam van een van de bekendste Chileense wijnmerken ter wereld.\n\nGeur. Zwarte bes, rijpe pruim, wat kruidigheid en vaak een lichte toets van hout of chocolade.\n\nSmaak. Vol en stevig, met een duidelijke tannine en een goed evenwicht. Het alcoholpercentage ligt rond de 13,5 tot 14 procent.\n\nErbij. Rundvlees, lamsvlees of wild.",
+        "audio": "",
+        "spotify": ""
+      },
+      "bronnen": [
+        {
+          "titel": "Casillero del Diablo – The Legend",
+          "url": "https://www.casillerodeldiablo.com/the-legend/"
+        },
+        {
+          "titel": "Albert Heijn – Casillero del Diablo Cabernet Sauvignon Reserva",
+          "url": "https://www.ah.nl/producten/product/wi186047"
+        }
+      ],
+      "zekerheid": "middel",
+      "ean": [],
+      "bijgewerkt": "2026-10-07"
+    },
+    {
+      "id": "torres-sangre-de-toro",
+      "naam": "Torres Sangre de Toro Original",
+      "producent": "Familia Torres",
+      "druiven": [
+        "Garnacha",
+        "Cariñena"
+      ],
+      "land": "Spanje",
+      "regio": "Catalonië",
+      "appellation": "DO Catalunya",
+      "kort": {
+        "tekst": "Herken je hem? Het is de fles met het kleine stierenbeeldje om de hals.\n\nSangre de Toro betekent 'bloed van de stier'. Familie Torres maakt deze wijn al sinds 1954, en het wijnhuis zelf bestaat sinds 1870.\n\nDe wijn is gemaakt van garnacha en cariñena, twee klassieke druiven uit Catalonië. Hij vergist op roestvrij staal en rijpt daarna deels een paar maanden op houten vaten. Verwacht sappig rood fruit, een vleugje drop en wat zwarte peper. Fris, sappig en met een stevige ruggengraat.",
+        "audio": "",
+        "spotify": ""
+      },
+      "lang": {
+        "tekst": "Druiven. Een blend van garnacha en cariñena. Garnacha geeft rijp rood fruit, warmte en sappigheid. Cariñena, elders bekend als carignan, brengt kleur, zuren en een wat ruigere structuur. Samen een klassiek Catalaans koppel.\n\nHoe gemaakt. De druiven vergisten op roestvrijstalen tanks, wat het fruit fris en zuiver houdt. Daarna rijpt een deel van de wijn ongeveer zes maanden op houten vaten. Zo krijgt de wijn wat meer ronding en structuur, zonder dat het hout de boventoon voert.\n\nRegio. Torres komt uit Vilafranca del Penedès, in Catalonië, net ten westen van Barcelona. Sangre de Toro werd lang onder de DO Penedès verkocht. Tegenwoordig valt hij onder de bredere DO Catalunya, waarmee Torres druiven uit heel Catalonië mag gebruiken. Controleer je etiket: oudere flessen kunnen nog Penedès vermelden.\n\nHet stiertje. Het plastic stierenbeeldje om de hals is het handelsmerk geworden. Veel mensen bewaren ze, en er zijn verzamelaars die ze per kleur of uitvoering sparen.\n\nGeur. Rode bessen en drop, met wat zwarte peper.\n\nSmaak. Sappig en fris, met een goede structuur en balans. Droog, met rond de 13,5 procent alcohol. Nu op dronk, maar kan een paar jaar liggen.",
+        "audio": "",
+        "spotify": ""
+      },
+      "bronnen": [
+        {
+          "titel": "Wein Wolf – productfiche Sangre de Toro Original",
+          "url": "https://res.cloudinary.com/weinwolf/image/upload/fl_attachment/datasheets/Wein-Wolf-Expertise-00812724.pdf"
+        },
+        {
+          "titel": "Vino.com – Catalunya DO Sangre de Toro Original Torres 2024",
+          "url": "https://www.vino.com/es/dettaglio/catalunya-do-sangre-de-toro-original-torres-2024.html"
+        }
+      ],
+      "zekerheid": "middel",
+      "ean": [],
+      "bijgewerkt": "2026-10-07"
+    },
+    {
+      "id": "oyster-bay-sauvignon-blanc",
+      "naam": "Oyster Bay Sauvignon Blanc",
+      "producent": "Oyster Bay",
+      "druiven": [
+        "Sauvignon Blanc"
+      ],
+      "land": "Nieuw-Zeeland",
+      "regio": "Marlborough",
+      "appellation": "Marlborough",
+      "kort": {
+        "tekst": "Deze wijn komt van de andere kant van de wereld: Marlborough, in het noorden van het Zuidereiland van Nieuw-Zeeland.\n\nMarlborough heeft lange, zonnige dagen en koele nachten. Dat is ideaal voor sauvignon blanc, die daardoor tegelijk rijp én heel fris kan zijn. De wijnmakers houden alles koel en zuiver: langzame vergisting op roestvrij staal en vroeg bottelen, zodat de frisheid in de fles blijft.\n\nRuik maar eens: tropisch fruit en levendige citrus. In de mond strak en sprankelend. Lekker bij vis, schaaldieren of geitenkaas.",
+        "audio": "",
+        "spotify": ""
+      },
+      "lang": {
+        "tekst": "Druif. Sauvignon blanc, oorspronkelijk uit de Loire en Bordeaux. In Nieuw-Zeeland kreeg de druif een eigen, uitbundige stijl die wereldwijd herkenbaar is geworden.\n\nRegio. Marlborough ligt in het noordoosten van het Zuidereiland. Het is het grootste en bekendste wijngebied van Nieuw-Zeeland, en sauvignon blanc is er veruit de belangrijkste druif. De combinatie van veel zonuren en koele nachten zorgt voor rijpe aroma's met behoud van strakke zuren.\n\nHoe gemaakt. De druiven worden ontsteeld en zacht geperst. Het sap wordt eerst geklaard, zodat het zuiver is voordat de gisting begint. Daarna volgt een langzame, temperatuurgecontroleerde gisting in roestvrijstalen tanks, met zorgvuldig gekozen gistsoorten voor extra aroma. Geen hout. De wijn wordt jong gebotteld om de frisheid vast te houden.\n\nWaarom zo koel vergisten? Bij lage temperatuur blijven de vluchtige fruitaroma's beter behouden. Dat is een belangrijk deel van de 'tropische' neus die zo kenmerkend is voor deze stijl.\n\nGeur. Tropisch fruit, zoals passievrucht, en levendige citrus.\n\nSmaak. Fris, sappig en zesty, met een strakke zuurgraad.\n\nErbij. Vis en schaaldieren, gevogelte, geitenkaas en frisse groentegerechten. Jong drinken.",
+        "audio": "",
+        "spotify": ""
+      },
+      "bronnen": [
+        {
+          "titel": "McGrocer – Oyster Bay Sauvignon Blanc",
+          "url": "https://mcgrocer.com/en-pl/products/oyster-bay-sauvignon-blanc-75cl"
+        }
+      ],
+      "zekerheid": "middel",
+      "ean": [],
+      "bijgewerkt": "2026-10-07"
+    },
+    {
+      "id": "lindemans-bin-65-chardonnay",
+      "naam": "Lindeman's Bin 65 Chardonnay",
+      "producent": "Lindeman's",
+      "druiven": [
+        "Chardonnay"
+      ],
+      "land": "Australië",
+      "regio": "South Eastern Australia",
+      "appellation": "South Eastern Australia",
+      "kort": {
+        "tekst": "Lindeman's is een van de oudste namen in de Australische wijn. Het huis werd in 1843 opgericht door dokter Henry Lindeman in de Hunter Valley.\n\nBin 65 heeft een opvallende geschiedenis: de wijn werd in 1985 gelanceerd in Canada, en pas zes jaar later in Australië zelf. Hij was speciaal bedoeld voor wijndrinkers op het noordelijk halfrond, die een toegankelijke, fruitige chardonnay wilden.\n\nVerwacht rijp geel fruit en een zachte, ronde smaak. Het 'Bin'-nummer verwijst naar een oud Australisch systeem van genummerde vakken in de kelder.",
+        "audio": "",
+        "spotify": ""
+      },
+      "lang": {
+        "tekst": "Druif. Chardonnay, de meest geplante witte druif ter wereld. Chardonnay is een kameleon: koel geteeld is hij strak en citrusachtig, in een warmer klimaat wordt hij rond en vol met geel fruit.\n\nRegio. 'South Eastern Australia' is geen klein wijngebied, maar een brede herkomstaanduiding die grote delen van New South Wales, Victoria en South Australia omvat. Zo kan het huis druiven uit verschillende gebieden combineren en elk jaar een herkenbare stijl maken.\n\nGeschiedenis. Dokter Henry Lindeman plantte in 1843 zijn eerste wijnstokken in de Hunter Valley. Lindeman's was een van de eerste Australische wijnhuizen die exporteerde: al in 1858 ging er wijn naar Engeland. Bin 65 werd in 1985 gelanceerd in Canada en kwam pas in 1991 op de Australische markt.\n\nWat betekent 'Bin'? In Australische kelders werden flessen vroeger opgeslagen in genummerde vakken, bins. Wijnhuizen gingen die nummers gebruiken als productnaam. Het nummer zegt dus niets over kwaliteit of leeftijd.\n\nStijl. Bin 65 is gemaakt als fruitgedreven, toegankelijke chardonnay. Verwacht dus geen zware, botterige houtbom, maar een sappige wijn met rijp fruit.\n\nGeur en smaak. Rijp geel fruit, zoals perzik en meloen, met wat citrus en een zachte, ronde afdronk.\n\nErbij. Kip, pasta met roomsaus of gegrilde vis.",
+        "audio": "",
+        "spotify": ""
+      },
+      "bronnen": [
+        {
+          "titel": "Lindeman's – About",
+          "url": "https://www.lindemans.com/en-us/about"
+        },
+        {
+          "titel": "Wine Spectator – What does a bin number mean?",
+          "url": "https://www.winespectator.com/articles/what-does-a-bin-number-mean-5348"
+        }
+      ],
+      "zekerheid": "middel",
+      "ean": [],
+      "bijgewerkt": "2026-10-07"
+    },
+    {
+      "id": "casal-garcia-vinho-verde",
+      "naam": "Casal Garcia Vinho Verde",
+      "producent": "Aveleda",
+      "druiven": [
+        "Trajadura",
+        "Loureiro",
+        "Arinto",
+        "Azal"
+      ],
+      "land": "Portugal",
+      "regio": "Minho",
+      "appellation": "DOC Vinho Verde",
+      "kort": {
+        "tekst": "Vinho verde betekent letterlijk 'groene wijn'. Maar groen slaat niet op de kleur: het betekent jong, bedoeld om fris en vroeg te drinken.\n\nCasal Garcia wordt gemaakt door Aveleda, een familiebedrijf in het noorden van Portugal en marktleider in de vinho verde-streek. De wijn is een blend van vier Portugese druiven: trajadura, loureiro, arinto en azal.\n\nMet maar 9,5 procent alcohol is hij licht en verfrissend. Verwacht een delicate, fruitige geur en een frisse, zachte smaak. Goed koud schenken. Een echte zomerwijn.",
+        "audio": "",
+        "spotify": ""
+      },
+      "lang": {
+        "tekst": "Druiven. Vier inheemse Portugese druiven. Loureiro geeft bloemige, citrusachtige aroma's. Arinto brengt een strakke zuurgraad. Trajadura zorgt voor wat zachtheid en body, en azal geeft extra frisheid.\n\nRegio. Vinho Verde ligt in de Minho, het groene, regenachtige noordwesten van Portugal, tegen de Atlantische Oceaan. Door het koele, natte klimaat worden de druiven niet zo suikerrijk. Dat verklaart het lage alcoholpercentage en de frisse zuren.\n\nWat 'verde' betekent. Verde verwijst naar jong, niet naar de kleur. Een vinho verde is gemaakt om binnen een à twee jaar te drinken. Er bestaat ook rode en rosé vinho verde.\n\nHet prikje. Veel vinho verdes, waaronder deze, hebben een licht prikje. Dat wordt vaak bereikt door bij het bottelen een beetje koolzuur te behouden of toe te voegen. Het maakt de wijn nog levendiger.\n\nProducent. Aveleda is een familiebedrijf dat al eeuwen in de streek actief is en naar zo'n zeventig landen exporteert.\n\nGeur. Delicaat en fruitig, met citrus en wat bloemen.\n\nSmaak. Licht, fris, zacht en goed in balans. Slechts 9,5 procent alcohol.\n\nServeren. Koud, rond 7 tot 10 graden. Heerlijk bij salades, sushi en schaaldieren.",
+        "audio": "",
+        "spotify": ""
+      },
+      "bronnen": [
+        {
+          "titel": "Garrafeira Nacional – Casal Garcia White",
+          "url": "https://www.garrafeiranacional.com/en/casal-garcia-white.html"
+        }
+      ],
+      "zekerheid": "middel",
+      "ean": [],
+      "bijgewerkt": "2026-10-07"
+    },
+    {
+      "id": "mateus-rose",
+      "naam": "Mateus Rosé",
+      "producent": "Sogrape",
+      "druiven": [
+        "Baga",
+        "Rufete",
+        "Tinta Barroca",
+        "Touriga Franca"
+      ],
+      "land": "Portugal",
+      "regio": "Bairrada en andere Portugese regio's",
+      "appellation": "",
+      "kort": {
+        "tekst": "Die ronde, platte fles ken je vast. Hij werd ontworpen naar het voorbeeld van de veldflessen die soldaten in de Eerste Wereldoorlog bij zich droegen.\n\nMateus Rosé is gemaakt door Sogrape, opgericht in 1942 in Portugal. Het werd een van de eerste wijnen die écht wereldwijd populair werd.\n\nDe wijn is een mix van Portugese druiven, waaronder baga en touriga franca. Hij is licht zoet, heeft een klein prikje en maar 11 procent alcohol. Verwacht vrolijk rood fruit. Ijskoud schenken, op een zonnige middag.",
+        "audio": "",
+        "spotify": ""
+      },
+      "lang": {
+        "tekst": "Druiven. Een blend van Portugese rode druiven: baga, rufete, tinta barroca en touriga franca. Baga is de klassieke druif van Bairrada. Touriga franca ken je misschien uit de port.\n\nHoe gemaakt. Voor rosé wil je kleur, maar geen tannine. Het sap wordt daarom maar heel kort in contact gebracht met de schillen en daarna zonder schillen langzaam vergist op roestvrijstalen tanks, op ongeveer 16 graden. Die lage temperatuur bewaart het frisse fruit. Daarna wordt de wijn geklaard, gestabiliseerd, gefilterd en gebotteld.\n\nZoet en prikkelend. Mateus is niet droog: er zit ongeveer 15 gram restsuiker per liter in. Daarnaast heeft de wijn een licht prikje. Samen maakt dat hem toegankelijk en verfrissend. Inmiddels bestaat er ook een droge versie.\n\nGeschiedenis. Sogrape werd in 1942 opgericht door Fernando van Zeller Guedes. Hij wilde een frisse, licht mousserende rosé maken voor de exportmarkt. De fles werd geïnspireerd op de veldflessen van soldaten uit de Eerste Wereldoorlog. Op het etiket staat een barokpaleis, het Palácio de Mateus in Noord-Portugal, waar de wijn zijn naam aan ontleent.\n\nGeur. Rood fruit, zoals aardbei en framboos.\n\nSmaak. Licht zoet en fris, met een klein prikje en evenwichtige zuren. Slechts 11 procent alcohol.\n\nServeren. Goed koud, als aperitief of bij lichte zomerse gerechten.",
+        "audio": "",
+        "spotify": ""
+      },
+      "bronnen": [
+        {
+          "titel": "Sainsbury's – Mateus Rosé",
+          "url": "https://sainsburys.co.uk/groceries/product/mateus-rose-wine-75cl"
+        }
+      ],
+      "zekerheid": "middel",
+      "ean": [],
+      "bijgewerkt": "2026-10-07"
+    },
+    {
+      "id": "freixenet-carta-nevada",
+      "naam": "Freixenet Carta Nevada",
+      "producent": "Freixenet",
+      "druiven": [
+        "Parellada",
+        "Macabeo",
+        "Xarel·lo"
+      ],
+      "land": "Spanje",
+      "regio": "Penedès, Catalonië",
+      "appellation": "DO Cava",
+      "kort": {
+        "tekst": "Cava is de Spaanse mousserende wijn, en Freixenet is een van de bekendste namen.\n\nCarta Nevada wordt gemaakt van drie klassieke cava-druiven: parellada, macabeo en xarel·lo. En dan het belangrijkste: hij wordt op dezelfde manier gemaakt als champagne. De bubbels ontstaan door een tweede gisting in de fles zelf. Daarna rijpt de wijn minstens tien maanden op de gistresten.\n\nVerwacht witte bloemen, fris fruit en een vleugje citrus. Let op het etiket: er bestaat een droge Brut en een zoetere Semi Seco-versie.",
+        "audio": "",
+        "spotify": ""
+      },
+      "lang": {
+        "tekst": "Druiven. De drie klassieke cava-druiven. Macabeo zorgt voor fruit en body, xarel·lo voor structuur en aroma, en parellada brengt finesse en frisheid.\n\nRegio. Cava is een herkomstbenaming die vooral geconcentreerd is in de Penedès, in Catalonië, rond het plaatsje Sant Sadurní d'Anoia, waar Freixenet ook zit.\n\nHoe gemaakt. Cava wordt gemaakt volgens de traditionele methode, dezelfde als bij champagne. Eerst wordt een stille basiswijn gemaakt. Daarna wordt die gebotteld met een beetje suiker en gist. In de gesloten fles volgt een tweede gisting. Het koolzuur kan niet ontsnappen en lost op in de wijn: zo ontstaan de bubbels.\n\nOp de gistresten. Na die tweede gisting blijft de wijn op de afgestorven gistcellen liggen, bij Carta Nevada minstens tien maanden. Dat geeft meer textuur, fijnere bubbels en vaak tonen van brioche of geroosterd brood. Daarna worden de gistresten verwijderd en wordt de fles aangevuld met de zogenaamde dosage, die de zoetheid bepaalt.\n\nBrut of Semi Seco. De Brut-versie heeft ongeveer 9 gram suiker per liter en smaakt droog. De Semi Seco is duidelijk zoeter. In Nederland kom je beide tegen, dus kijk op het etiket.\n\nGeur. Witte bloemen, fris fruit en een vleugje citrus.\n\nSmaak. Goed gestructureerd, met middelgrote bubbels en een zachte zuurgraad. 11,5 procent alcohol.\n\nServeren. Koud, rond 6 tot 8 graden. Lekker bij tapas, ham of salades.",
+        "audio": "",
+        "spotify": ""
+      },
+      "bronnen": [
+        {
+          "titel": "Freixenet – Carta Nevada",
+          "url": "https://freixenet.com/us/our-products/spanish-classic/carta-nevada/"
+        },
+        {
+          "titel": "Kaufland – Freixenet Carta Nevada Semi Seco",
+          "url": "https://www.kaufland.de/product/320547977/"
+        }
+      ],
+      "zekerheid": "hoog",
+      "ean": [],
+      "bijgewerkt": "2026-10-07"
+    }
+  ]
 }
