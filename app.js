@@ -240,9 +240,9 @@ function lijkendeWijnen(w, max = 3) {
       if (zelfdeDruif.length) waarom = `Ook ${zelfdeDruif[0].toLowerCase()}`;
       else if (gedeeld.length) waarom = `Ook ${gedeeld.slice(0, 2).map((a) => ((window.AROMAS || {})[a] || { naam: a }).naam.toLowerCase()).join(' en ')}`;
       else if (x.land === w.land) waarom = `Ook uit ${x.land}`;
+      else waarom = `Ook een ${{ rood: 'rode wijn', wit: 'witte wijn', 'rosé': 'rosé' }[type]}`;
       return { x, score, waarom };
     })
-    .filter((r) => r.score > 0)
     .sort((a, b) => b.score - a.score)
     .slice(0, max);
 }

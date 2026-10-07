@@ -31,16 +31,18 @@ Scan een wijnfles en hoor meteen het verhaal van die wijn, zoals Hitster dat doe
 | 7 okt | **Spotify eruit**, eigen audio in de app | Spotify levert vrijwel niets op en geeft drempel |
 | 7 okt | Verdienmodel: affiliate via "Koop deze fles" en "Meer zoals deze" | Geld op het moment van hoogste interesse |
 | 7 okt | Eerst gratis Piper-stem testen; Google Chirp 3 HD in de ideeënmap | Geen creditcard nodig in de testfase |
+| 7 okt | Stem: Piper "Alex" | Keuze Len uit 6 stemproeven |
 
 ## Status
 - [x] Basis-app online (scannen, zoeken, verhaal, onbekende fles)
 - [x] 20 wijnen met kort + lang verhaal, proefkaart en bronnen
 - [x] Nieuw design gebouwd
-- [ ] Stem kiezen (6 Piper-stemmen verstuurd als stemproef)
-- [ ] Audio voor alle wijnen genereren
+- [x] Stem gekozen: Piper "Alex" (gratis, Nederlands)
+- [x] Audio voor alle 30 wijnen (kort + lang)
 - [x] 18+-check
 - [x] "Meer zoals deze" (op druif, aroma's, herkomst) en "Koop deze fles" (verschijnt zodra er een affiliatelink is)
-- [ ] Batch 3 (wijn 21–30)
+- [x] Batch 3: 30 wijnen totaal (Drostdy-Hof Steen vervangen door Cono Sur Bicicleta Pinot Noir: geen bronnen gevonden)
+- [ ] Automatisch afspelen (met schakelaar)
 - [ ] Barcodes koppelen (via testers die onbekende flessen doorsturen)
 
 ## Kosten tot nu toe
@@ -61,3 +63,4 @@ Scan een wijnfles en hoor meteen het verhaal van die wijn, zoals Hitster dat doe
 - Batch 2 toegevoegd (20 wijnen totaal).
 - Besloten: Spotify eruit, affiliate erin. Piper-stemproef gemaakt (6 stemmen).
 - 18+-check gebouwd (één keer per toestel). "Meer wijnen zoals deze" gebouwd op basis van de proefkaart. Spotify-knop vervangen door een eigen Luister-knop (actief zodra er audio is). Ideeënmap aangemaakt (Google Chirp HD-stem).
+- Stem Alex gekozen; audio gemaakt voor alle wijnen. Batch 3 toegevoegd: top 30 compleet. "Meer zoals deze" vult nu altijd aan tot 3 (ook voor rosé).

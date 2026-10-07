@@ -1141,6 +1141,536 @@
       ],
       "zekerheid": "middel",
       "bijgewerkt": "2026-10-07"
+    },
+    {
+      "id": "torres-vina-sol",
+      "ean": [],
+      "naam": "Torres Viña Sol",
+      "producent": "Familia Torres",
+      "druiven": [
+        "Parellada",
+        "Garnacha Blanca"
+      ],
+      "land": "Spanje",
+      "regio": "Catalonië",
+      "appellation": "Penedès",
+      "kort": {
+        "tekst": "Het wijnweetje van deze fles! Viña Sol werd in de zomer van 1962 gelanceerd. De naam staat voor de klassieke combinatie van aarde en zon.\n\nWat je proeft. Fris fruit en fijne citrus. Zijdezacht, met subtiele zuren.\n\nOnthoud. Koel vergist op staal: alles draait hier om frisheid.",
+        "audio": "audio/torres-vina-sol-kort.mp3"
+      },
+      "lang": {
+        "tekst": "Het hele verhaal van deze fles! Een witte wijn die al sinds 1962 de zomer in een fles probeert te vangen.\n\nIn je glas. Helder, schoon goud. Je ruikt fris fruit en fijne citrusaroma's.\n\nOp je tong. Zijdezacht, met subtiele zuren en een delicaat midden. Rond de 12 procent alcohol.\n\nDe druif. Parellada en garnacha blanca. Parellada is een frisse Catalaanse druif, die je ook kent uit cava. Garnacha blanca geeft wat meer body.\n\nHoe gemaakt. De druiven worden van half augustus tot in september geoogst. Daarna vergist de wijn ongeveer twee weken op roestvrij staal, bij een koele 16 graden. Zo blijven de frisse fruitaroma's bewaard.\n\nWaar vandaan. Catalonië, in de Penedès, net ten westen van Barcelona. Het thuisgebied van familie Torres.\n\nHet verhaal. Torres lanceerde Viña Sol in de zomer van 1962 en maakte er een van zijn bekendste wijnen van. Het is het witte zusje van Sangre de Toro, de rode met het stiertje.\n\nSchenken. Koud, rond 10 graden. Als aperitief, of bij rijstgerechten, vis en zeevruchten. Onthoud: aarde en zon, gevangen op staal.",
+        "audio": "audio/torres-vina-sol-lang.mp3"
+      },
+      "proef": {
+        "kleur": {
+          "naam": "Helder goud",
+          "hex": "#E8D27A"
+        },
+        "geur": {
+          "fruit": [
+            "frisfruit",
+            "citrus"
+          ],
+          "maken": [],
+          "rijping": []
+        },
+        "smaak": {
+          "fruit": [
+            "frisfruit",
+            "citrus"
+          ],
+          "maken": [],
+          "rijping": []
+        }
+      },
+      "bronnen": [
+        {
+          "titel": "Fells – technische fiche Torres Viña Sol 2020",
+          "url": "https://fells.co.uk/wp-content/uploads/Torres-Spain-Vina-Sol-2020.pdf"
+        }
+      ],
+      "zekerheid": "hoog",
+      "bijgewerkt": "2026-10-07"
+    },
+    {
+      "id": "villa-maria-private-bin-sauvignon-blanc",
+      "ean": [],
+      "naam": "Villa Maria Private Bin Sauvignon Blanc",
+      "producent": "Villa Maria",
+      "druiven": [
+        "Sauvignon Blanc"
+      ],
+      "land": "Nieuw-Zeeland",
+      "regio": "Marlborough",
+      "appellation": "Marlborough",
+      "kort": {
+        "tekst": "Het wijnweetje van deze fles! Villa Maria bestaat sinds 1961 en geldt als een van de toonaangevende wijnmakers van Nieuw-Zeeland. Deze sauvignon komt uit twee valleien in Marlborough: Awatere en Wairau.\n\nWat je proeft. Kruisbes, limoen en tropisch fruit. Strak, levendig en droog, met passievrucht.\n\nOnthoud. Kruisbes is hét herkenningsaroma van Nieuw-Zeelandse sauvignon blanc.",
+        "audio": "audio/villa-maria-private-bin-sauvignon-blanc-kort.mp3"
+      },
+      "lang": {
+        "tekst": "Het hele verhaal van deze fles! Twee valleien, één fles, en een aroma dat je nooit meer vergeet: kruisbes.\n\nIn je glas. Bleek strogeel. Je ruikt kruisbes, limoen en tropisch fruit.\n\nOp je tong. Strak en levendig, met passievrucht en verse limoen. Een schone, droge afdronk.\n\nDe druif. Sauvignon blanc. In Nieuw-Zeeland krijgt hij een uitgesproken stijl met kruisbes, passievrucht en citrus.\n\nHoe gemaakt. Gemaakt met moderne technieken die er maar één doel hebben: de frisheid van de sauvignon bewaren. Geen hout.\n\nWaar vandaan. Marlborough, met druiven uit de Awatere- en de Wairau-vallei.\n\nHet verhaal. Villa Maria werd in 1961 opgericht en staat al ruim zestig jaar vooraan in de Nieuw-Zeelandse wijnwereld, met veel prijzen op zijn naam.\n\nSchenken. Koud, rond 8 tot 10 graden. Bij vis, schaaldieren of een salade met geitenkaas. Onthoud: kruisbes, limoen, passievrucht.",
+        "audio": "audio/villa-maria-private-bin-sauvignon-blanc-lang.mp3"
+      },
+      "proef": {
+        "kleur": {
+          "naam": "Bleek strogeel",
+          "hex": "#EDE6A8"
+        },
+        "geur": {
+          "fruit": [
+            "kruisbes",
+            "citrus",
+            "tropisch"
+          ],
+          "maken": [],
+          "rijping": []
+        },
+        "smaak": {
+          "fruit": [
+            "tropisch",
+            "citrus"
+          ],
+          "maken": [],
+          "rijping": []
+        }
+      },
+      "bronnen": [
+        {
+          "titel": "Morrisons – Villa Maria Private Bin Sauvignon Blanc",
+          "url": "https://groceries.morrisons.com/products/villa-maria-private-bin-sauvignon-blanc/104729904"
+        }
+      ],
+      "zekerheid": "middel",
+      "bijgewerkt": "2026-10-07"
+    },
+    {
+      "id": "two-oceans-sauvignon-blanc",
+      "ean": [],
+      "naam": "Two Oceans Sauvignon Blanc",
+      "producent": "Two Oceans",
+      "druiven": [
+        "Sauvignon Blanc"
+      ],
+      "land": "Zuid-Afrika",
+      "regio": "West-Kaap",
+      "appellation": "Western Cape",
+      "kort": {
+        "tekst": "Het wijnweetje van deze fles! De naam verwijst naar de plek waar twee oceanen elkaar ontmoeten: de Atlantische en de Indische Oceaan, aan de zuidpunt van Zuid-Afrika.\n\nWat je proeft. Roze grapefruit en kruisbes, met een kruidige ondertoon. Zacht, rond en heel licht zoetig.\n\nOnthoud. Koele zeelucht maakt frisse witte wijn mogelijk in een warm land.",
+        "audio": "audio/two-oceans-sauvignon-blanc-kort.mp3"
+      },
+      "lang": {
+        "tekst": "Het hele verhaal van deze fles! Twee oceanen in één fles. Klinkt als marketing, maar het klimaat is echt.\n\nIn je glas. Bleek geel. Je ruikt roze grapefruit, kruisbes en een kruidige, muskusachtige ondertoon.\n\nOp je tong. Fris, zacht en rond, met een heel licht zoetje. Een makkelijke terraswijn.\n\nDe druif. Sauvignon blanc, hier in een zachtere, rondere stijl dan in Nieuw-Zeeland.\n\nHoe gemaakt. Over de vinificatie? Die details zitten nog in de kelder opgesloten, en de sleutel ben ik kwijt.\n\nWaar vandaan. De West-Kaap. Koele zeelucht brengt verkoeling in de droge, hete zomers, en mist van zee geeft vocht. Dat helpt de druiven fris te blijven.\n\nHet verhaal. De Atlantische en de Indische Oceaan komen samen aan de zuidpunt van Zuid-Afrika. Daar komt de naam vandaan. Het merk draait om delen: wijn om samen te drinken.\n\nSchenken. Koud, rond 8 tot 10 graden, op het terras of bij lichte gerechten. Onthoud: twee oceanen, één frisse wijn.",
+        "audio": "audio/two-oceans-sauvignon-blanc-lang.mp3"
+      },
+      "proef": {
+        "kleur": {
+          "naam": "Bleek geel",
+          "hex": "#EFE9B2"
+        },
+        "geur": {
+          "fruit": [
+            "citrus",
+            "kruisbes",
+            "kruiden"
+          ],
+          "maken": [],
+          "rijping": []
+        },
+        "smaak": {
+          "fruit": [
+            "citrus",
+            "kruisbes"
+          ],
+          "maken": [],
+          "rijping": []
+        }
+      },
+      "bronnen": [
+        {
+          "titel": "Vinello – Two Oceans",
+          "url": "https://www.vinello.at/en/two-oceans/"
+        },
+        {
+          "titel": "Gismondi on Wine – Two Oceans Sauvignon Blanc 2019",
+          "url": "https://gismondionwine.com/tasting-notes/202005/two-oceans-sauvignon-blanc-2019?note=32219"
+        }
+      ],
+      "zekerheid": "middel",
+      "bijgewerkt": "2026-10-07"
+    },
+    {
+      "id": "cono-sur-bicicleta-pinot-noir",
+      "ean": [],
+      "naam": "Cono Sur Bicicleta Pinot Noir",
+      "producent": "Viña Cono Sur",
+      "druiven": [
+        "Pinot Noir"
+      ],
+      "land": "Chili",
+      "regio": "Chili",
+      "appellation": "Chili",
+      "kort": {
+        "tekst": "Het wijnweetje van deze fles! De fiets op het etiket is een eerbetoon aan de wijngaardwerkers van Cono Sur, die op de fiets door de wijngaarden rijden.\n\nWat je proeft. Kers, braam en pruim. Fris, vol en rijp in balans.\n\nOnthoud. Een pinot noir uit Chili: soepel en fruitig.",
+        "audio": "audio/cono-sur-bicicleta-pinot-noir-kort.mp3"
+      },
+      "lang": {
+        "tekst": "Het hele verhaal van deze fles! Een wijn met een fiets op het etiket. En dat is geen toeval.\n\nIn je glas. Licht tot middelrood. Je ruikt kers, braam en pruim, met een frisse toon.\n\nOp je tong. Fris en vol, met een evenwichtig, rijp karakter.\n\nDe druif. Pinot noir, een dunschillige druif. Daardoor lichter en soepeler dan de meeste rode wijnen.\n\nHoe gemaakt. De wijn rijpt zes maanden: twintig procent op houten vaten en tachtig procent op roestvrij staal. Het hout geeft wat ronding, het staal houdt het fruit fris.\n\nWaar vandaan. Chili, ingeklemd tussen de Andes in het oosten, de Stille Oceaan in het westen, de Atacamawoestijn in het noorden en gletsjers in het zuiden. Die natuurlijke grenzen maken het land uniek voor wijnbouw.\n\nHet verhaal. De werkers van Cono Sur verplaatsen zich op de fiets door de wijngaarden. De Bicicleta-lijn is een eerbetoon aan hen, en een symbool voor de duurzame aanpak van het huis, dat ook zonne-energie gebruikt.\n\nSchenken. Licht gekoeld, rond 14 tot 15 graden. Bij gegrilde kip of rood vlees. Onthoud: de fiets staat voor de mensen in de wijngaard.",
+        "audio": "audio/cono-sur-bicicleta-pinot-noir-lang.mp3"
+      },
+      "proef": {
+        "kleur": {
+          "naam": "Licht tot middelrood",
+          "hex": "#A2283A"
+        },
+        "geur": {
+          "fruit": [
+            "kers",
+            "braam",
+            "pruim"
+          ],
+          "maken": [],
+          "rijping": []
+        },
+        "smaak": {
+          "fruit": [
+            "kers",
+            "pruim"
+          ],
+          "maken": [],
+          "rijping": []
+        }
+      },
+      "bronnen": [
+        {
+          "titel": "Morrisons – Cono Sur Bicicleta Pinot Noir",
+          "url": "https://groceries.morrisons.com/products/cono-sur-bicicleta-pinot-noir/101555161"
+        }
+      ],
+      "zekerheid": "middel",
+      "bijgewerkt": "2026-10-07"
+    },
+    {
+      "id": "hardys-vr-chardonnay",
+      "ean": [],
+      "naam": "Hardys VR Chardonnay",
+      "producent": "Hardys",
+      "druiven": [
+        "Chardonnay"
+      ],
+      "land": "Australië",
+      "regio": "South Eastern Australia",
+      "appellation": "South Eastern Australia",
+      "kort": {
+        "tekst": "Het wijnweetje van deze fles! Van hetzelfde huis als de Hardys Shiraz: opgericht in 1853 door Thomas Hardy, een van de pioniers van de Australische wijn.\n\nWat je proeft. Rijpe meloen en perzik. Levendig en fruitig.\n\nOnthoud. Australische chardonnay hoeft niet zwaar te zijn: deze is licht en levendig.",
+        "audio": "audio/hardys-vr-chardonnay-kort.mp3"
+      },
+      "lang": {
+        "tekst": "Het hele verhaal van deze fles! Australische chardonnay had ooit de naam van een houtbom. Deze laat zien dat het ook anders kan.\n\nIn je glas. Briljant, helder, bleek strogeel. Je ruikt meloen en perzik.\n\nOp je tong. Levendig, vol rijpe meloen en perzik.\n\nDe druif. Chardonnay, de kameleon onder de witte druiven. In deze stijl draait alles om fruit.\n\nHoe gemaakt. Over de vinificatie van deze chardonnay? Daar is helaas een flinke vlek rode wijn overheen gegaan in mijn aantekeningen.\n\nWaar vandaan. South Eastern Australia: warm en zonnig, waardoor de druiven vol fruit worden.\n\nHet verhaal. Thomas Hardy kwam in 1850 naar Australië en begon zijn wijnhuis in 1853. In Engeland heet deze lijn voluit de Voyaging Range.\n\nSchenken. Koud, rond 8 tot 10 graden. Bij kip, salades of pasta. Onthoud: meloen en perzik, licht en levendig.",
+        "audio": "audio/hardys-vr-chardonnay-lang.mp3"
+      },
+      "proef": {
+        "kleur": {
+          "naam": "Bleek strogeel",
+          "hex": "#EDE6A8"
+        },
+        "geur": {
+          "fruit": [
+            "meloen",
+            "perzik"
+          ],
+          "maken": [],
+          "rijping": []
+        },
+        "smaak": {
+          "fruit": [
+            "meloen",
+            "perzik"
+          ],
+          "maken": [],
+          "rijping": []
+        }
+      },
+      "bronnen": [
+        {
+          "titel": "One Stop – Hardys VR Chardonnay",
+          "url": "https://www.onestop.co.uk/product/hardys-vr-chardonnay-750ml/"
+        },
+        {
+          "titel": "Morrisons – Hardys VR Shiraz (geschiedenis Hardys)",
+          "url": "https://groceries.morrisons.com/products/hardys-vr-shiraz-75cl/110493328"
+        }
+      ],
+      "zekerheid": "middel",
+      "bijgewerkt": "2026-10-07"
+    },
+    {
+      "id": "cavit-pinot-grigio",
+      "ean": [],
+      "naam": "Cavit Pinot Grigio",
+      "producent": "Cavit",
+      "druiven": [
+        "Pinot Grigio"
+      ],
+      "land": "Italië",
+      "regio": "Trentino, Friuli en Veneto",
+      "appellation": "Valdadige DOC",
+      "kort": {
+        "tekst": "Het wijnweetje van deze fles! Achter Cavit zitten ongeveer 5.000 wijnboeren, verdeeld over 14 kelders, rond de stad Trento in Noord-Italië. Eén fles, duizenden handen.\n\nWat je proeft. Citroen- en limoenschil, witte bloesem, peer en een vleugje natte steen. In de mond groene appel, peer en meloen.\n\nOnthoud. Koel vergisten bewaart de frisse, bloemige aroma's.",
+        "audio": "audio/cavit-pinot-grigio-kort.mp3"
+      },
+      "lang": {
+        "tekst": "Het hele verhaal van deze fles! Een wijn van een coöperatie met zo'n vijfduizend leden.\n\nIn je glas. Bleek en licht. Je ruikt citroen- en limoenschil, witte bloesem, peer en nectarine, met een vleugje natte steen.\n\nOp je tong. Groene appel en citrus, die overgaan in rijpe peer en honingmeloen. Droog en fris.\n\nDe druif. Pinot grigio, in Frankrijk pinot gris. In Noord-Italië meestal licht, fris en strak gemaakt.\n\nHoe gemaakt. Koel vergist in roestvrijstalen tanks met temperatuurregeling. Frisheid gaat hier boven complexiteit: zo blijven de bloemige en citrusachtige aroma's bewaard.\n\nWaar vandaan. Noord-Italië, met druiven uit Trentino, Friuli en Veneto. Kijk op je etiket welke herkomstbenaming jouw fles heeft; die kan per versie verschillen.\n\nHet verhaal. Cavit is een coöperatie bij Trento, met ongeveer 5.000 wijnboeren, georganiseerd in 14 kelders. Samen maken ze een van de bekendste Italiaanse witte wijnen ter wereld.\n\nSchenken. Koud, rond 8 tot 10 graden. Bij antipasti, vis of risotto. Onthoud: duizenden boeren, één frisse grigio.",
+        "audio": "audio/cavit-pinot-grigio-lang.mp3"
+      },
+      "proef": {
+        "kleur": {
+          "naam": "Bleek",
+          "hex": "#F1EDC4"
+        },
+        "geur": {
+          "fruit": [
+            "citrus",
+            "bloemen",
+            "peer",
+            "mineraal"
+          ],
+          "maken": [],
+          "rijping": []
+        },
+        "smaak": {
+          "fruit": [
+            "appel",
+            "citrus",
+            "peer",
+            "meloen"
+          ],
+          "maken": [],
+          "rijping": []
+        }
+      },
+      "bronnen": [
+        {
+          "titel": "The Liquor Barn – Cavit Pinot Grigio",
+          "url": "https://theliquorbarn.com/collections/italy/products/cavit-pinot-grigio-1-5l"
+        }
+      ],
+      "zekerheid": "middel",
+      "bijgewerkt": "2026-10-07"
+    },
+    {
+      "id": "whispering-angel-rose",
+      "ean": [],
+      "naam": "Whispering Angel",
+      "producent": "Château d'Esclans",
+      "druiven": [
+        "Grenache",
+        "Rolle",
+        "Cinsault",
+        "Syrah",
+        "Mourvèdre"
+      ],
+      "land": "Frankrijk",
+      "regio": "Provence",
+      "appellation": "Côtes de Provence",
+      "kort": {
+        "tekst": "Het wijnweetje van deze fles! Achter deze rosé staat Sacha Lichine, telg uit een bekende wijnfamilie uit Margaux in Bordeaux. Inmiddels heeft luxeconcern LVMH een meerderheidsbelang.\n\nWat je proeft. Gedroogde cranberry en een romig tintje, met levendige zuren. Bleek en strak.\n\nOnthoud. Provence-rosé herken je aan de heel bleke kleur.",
+        "audio": "audio/whispering-angel-rose-kort.mp3"
+      },
+      "lang": {
+        "tekst": "Het hele verhaal van deze fles! Een bleke roze wijn die is uitgegroeid tot een statussymbool.\n\nIn je glas. Heel bleek roze, typisch Provence. Je ruikt rood fruit, zoals gedroogde cranberry.\n\nOp je tong. Strak en fris, met levendige zuren en een romig tintje, alsof er een vleugje crème fraîche doorheen zit.\n\nDe druif. Een blend van vijf druiven: grenache, rolle (in Italië vermentino), cinsault, syrah en mourvèdre. Grenache en cinsault geven het fruit, rolle brengt frisheid.\n\nHoe gemaakt. Hoe deze engel precies wordt gemaakt? Dat vertelt de wijnmaker alleen na een flinke slok, en die heb ik nog niet gehad.\n\nWaar vandaan. Côtes de Provence, de bekendste rosé-appellation van Frankrijk. Hier draait het om bleke, droge rosé.\n\nHet verhaal. Sacha Lichine komt uit een wijnfamilie uit Margaux en had eerder Château Prieuré-Lichine. Daarna richtte hij zich op rosé in de Provence. Eind 2019 nam LVMH een meerderheidsbelang in Château d'Esclans; Lichine hield 45 procent. Waarom de engel fluistert? Dat heeft de wijnmaker diep in zijn kelder verstopt.\n\nSchenken. Goed koud, rond 8 tot 10 graden. Als aperitief of bij mediterrane gerechten. Onthoud: hoe bleker, hoe Provence.",
+        "audio": "audio/whispering-angel-rose-lang.mp3"
+      },
+      "proef": {
+        "kleur": {
+          "naam": "Heel bleek roze",
+          "hex": "#F6CFC4"
+        },
+        "geur": {
+          "fruit": [
+            "rodebes"
+          ],
+          "maken": [],
+          "rijping": []
+        },
+        "smaak": {
+          "fruit": [
+            "rodebes"
+          ],
+          "maken": [
+            "room"
+          ],
+          "rijping": []
+        }
+      },
+      "bronnen": [
+        {
+          "titel": "Decanter – Profile: Whispering Angel rosé",
+          "url": "https://www.decanter.com/wine/wine-regions/provence/whispering-angel-rose-wine-396490"
+        }
+      ],
+      "zekerheid": "middel",
+      "bijgewerkt": "2026-10-07"
+    },
+    {
+      "id": "masi-campofiorin",
+      "ean": [],
+      "naam": "Masi Campofiorin",
+      "producent": "Masi",
+      "druiven": [
+        "Corvina",
+        "Rondinella",
+        "Molinara"
+      ],
+      "land": "Italië",
+      "regio": "Veneto",
+      "appellation": "Rosso del Veronese IGT",
+      "kort": {
+        "tekst": "Het wijnweetje van deze fles! Deze wijn gist twee keer: eerst normaal, en daarna nog eens over half gedroogde druiven. Masi blies die oude techniek in 1964 nieuw leven in.\n\nWat je proeft. Rijpe kers en zoete specerijen. Rijk, met zachte tannines.\n\nOnthoud. Gedroogde druiven geven meer kracht, extract en fluweel.",
+        "audio": "audio/masi-campofiorin-kort.mp3"
+      },
+      "lang": {
+        "tekst": "Het hele verhaal van deze fles! Eén wijn, twee gistingen. Een oude techniek uit Verona, nieuw leven ingeblazen.\n\nIn je glas. Intens robijnrood. Je ruikt rijpe kersen en zoete specerijen.\n\nOp je tong. Rijk, met kers en bessen, zachte tannines en een mooie lengte.\n\nDe druif. Vooral corvina (70 procent), met rondinella (25) en molinara (5). Corvina is de sterdruif van Verona: kers, frisheid en kracht.\n\nHoe gemaakt. Eerst wordt de wijn normaal gemaakt. Daarna gist hij ongeveer vijftien dagen opnieuw, over half gedroogde druiven. Die gedroogde druiven zitten vol suiker en smaak, dus de wijn wordt rijker en voller. Daarna volgt de malolactische gisting en rijpt de wijn minstens achttien maanden op grote en kleinere vaten, oud en nieuw.\n\nWaar vandaan. Veneto, rond Verona, als Rosso del Veronese IGT.\n\nHet verhaal. Masi bracht deze dubbele gisting in 1964 terug. Het huis is al zes generaties van de familie Boscaini en staat bekend als vernieuwer in de Veneto.\n\nSchenken. Rond 16 tot 18 graden. Bij risotto, gegrild vlees of oude kaas. Onthoud: twee keer gisten, dubbel zoveel smaak.",
+        "audio": "audio/masi-campofiorin-lang.mp3"
+      },
+      "proef": {
+        "kleur": {
+          "naam": "Intens robijnrood",
+          "hex": "#6E1229"
+        },
+        "geur": {
+          "fruit": [
+            "kers"
+          ],
+          "maken": [
+            "specerij"
+          ],
+          "rijping": []
+        },
+        "smaak": {
+          "fruit": [
+            "kers",
+            "roodfruit"
+          ],
+          "maken": [],
+          "rijping": []
+        }
+      },
+      "bronnen": [
+        {
+          "titel": "Fareham Wine Cellar – Masi Campofiorin",
+          "url": "https://farehamwinecellar.co.uk/product/masi-campofiorin/"
+        }
+      ],
+      "zekerheid": "hoog",
+      "bijgewerkt": "2026-10-07"
+    },
+    {
+      "id": "duboeuf-beaujolais-villages",
+      "ean": [],
+      "naam": "Georges Duboeuf Beaujolais-Villages",
+      "producent": "Georges Duboeuf",
+      "druiven": [
+        "Gamay"
+      ],
+      "land": "Frankrijk",
+      "regio": "Beaujolais",
+      "appellation": "AOC Beaujolais-Villages",
+      "kort": {
+        "tekst": "Het wijnweetje van deze fles! Georges Duboeuf werd de 'koning van de Beaujolais' genoemd. Zijn huis gebruikt een speciale truc: de druiven beginnen te gisten terwijl ze nog heel zijn.\n\nWat je proeft. Kers, aardbei en viooltjes. Sappig, met framboos, pruim en een peperig randje.\n\nOnthoud. Geen hout: puur, sappig fruit.",
+        "audio": "audio/duboeuf-beaujolais-villages-kort.mp3"
+      },
+      "lang": {
+        "tekst": "Het hele verhaal van deze fles! Een wijn die begint te gisten in de druif zelf.\n\nIn je glas. Helder robijnrood. Je ruikt verse kers, rijpe aardbei en viooltjes, met een vleugje rabarber.\n\nOp je tong. Sappige rode pruim en framboos, die overgaan in zwarte pruim met een peperige kruidigheid. Fijne tannines en een afdronk met bessen en gedroogd viooltje.\n\nDe druif. Honderd procent gamay, van stokken die ouder zijn dan vijftig jaar. Gamay is dé druif van de Beaujolais: licht, sappig en fruitig.\n\nHoe gemaakt. Semi-carbonische maceratie: de druiven gaan heel in de tank. In de ongebroken bessen begint de gisting van binnenuit. Dat geeft het typische, uitbundige fruit van Beaujolais. Daarna volgt de malolactische gisting op staal. Geen hout.\n\nWaar vandaan. AOC Beaujolais-Villages, ten zuiden van Bourgondië. Granieten en kleibodems geven mineraliteit.\n\nHet verhaal. Georges Duboeuf bouwde een invloedrijk handelshuis op en werd de 'koning van de Beaujolais' genoemd. Zijn huis heeft de regio decennialang mee vormgegeven.\n\nSchenken. Licht gekoeld, rond 13 tot 14 graden. Bij charcuterie, kip of een kaasplank. Onthoud: gisten in de druif, dus pure fruitexplosie.",
+        "audio": "audio/duboeuf-beaujolais-villages-lang.mp3"
+      },
+      "proef": {
+        "kleur": {
+          "naam": "Helder robijnrood",
+          "hex": "#A51F38"
+        },
+        "geur": {
+          "fruit": [
+            "kers",
+            "aardbei",
+            "bloemen"
+          ],
+          "maken": [],
+          "rijping": []
+        },
+        "smaak": {
+          "fruit": [
+            "pruim",
+            "framboos",
+            "peper"
+          ],
+          "maken": [],
+          "rijping": []
+        }
+      },
+      "bronnen": [
+        {
+          "titel": "The Liquor Barn – Georges Duboeuf Beaujolais Villages",
+          "url": "https://www.theliquorbarn.com/georges-duboeuf-beaujolais-villages/"
+        }
+      ],
+      "zekerheid": "middel",
+      "bijgewerkt": "2026-10-07"
+    },
+    {
+      "id": "bolla-valpolicella-classico",
+      "ean": [],
+      "naam": "Bolla Valpolicella Classico",
+      "producent": "Bolla",
+      "druiven": [
+        "Corvina",
+        "Rondinella"
+      ],
+      "land": "Italië",
+      "regio": "Veneto",
+      "appellation": "Valpolicella Classico DOC",
+      "kort": {
+        "tekst": "Het wijnweetje van deze fles! Bolla werd in 1883 opgericht in Soave. In de Valpolicella, waar deze wijn vandaan komt, botsen koude Alpenwinden met warme lucht van het Gardameer.\n\nWat je proeft. Kers, zure kers en rood fruit, met mediterrane kruiden. Fris en soepel.\n\nOnthoud. Valpolicella is het lichte, frisse broertje van Amarone.",
+        "audio": "audio/bolla-valpolicella-classico-kort.mp3"
+      },
+      "lang": {
+        "tekst": "Het hele verhaal van deze fles! Een frisse rode wijn uit het land van Amarone.\n\nIn je glas. Helder robijnrood. Je ruikt rijpe kers, zure kers, kleine rode bessen en een vleugje mediterrane kruiden.\n\nOp je tong. Fris en strak, met levendige zuren, zachte tannines en een fruitige afdronk. Droog en middelvol.\n\nDe druif. Vooral corvina en rondinella, de druiven van Verona. Corvina geeft het kersenaroma.\n\nHoe gemaakt. Zo'n vijftien dagen schilcontact op roestvrij staal, met temperatuurcontrole. Daarna rijpt de wijn kort. De bronnen noemen staal, beton en grote vaten; de precieze mix verschilt per jaargang.\n\nWaar vandaan. Valpolicella Classico, het historische hart van de streek, ten noorden van Verona. Kalk- en vulkanische bodems, en een klimaat waar Alpenwind en de warmte van het Gardameer elkaar ontmoeten.\n\nHet verhaal. Casa Vinicola Bolla werd in 1883 opgericht door de familie Bolla in Soave. Het bedrijf werkt met meer dan honderd wijnboerenfamilies.\n\nSchenken. Licht gekoeld, rond 15 graden. Bij pasta, pizza of vleeswaren. Onthoud: Valpolicella is fris, Amarone is zwaar, en ze komen uit dezelfde streek.",
+        "audio": "audio/bolla-valpolicella-classico-lang.mp3"
+      },
+      "proef": {
+        "kleur": {
+          "naam": "Helder robijnrood",
+          "hex": "#A51F38"
+        },
+        "geur": {
+          "fruit": [
+            "kers",
+            "rodebes",
+            "kruiden"
+          ],
+          "maken": [],
+          "rijping": []
+        },
+        "smaak": {
+          "fruit": [
+            "kers"
+          ],
+          "maken": [],
+          "rijping": []
+        }
+      },
+      "bronnen": [
+        {
+          "titel": "Ocado – Bolla Valpolicella Classico DOC",
+          "url": "https://www.ocado.com/products/bolla-valpolicella-classico-doc-43782011"
+        },
+        {
+          "titel": "Bottle of Italy – Valpolicella Classico DOC Bolla 2023",
+          "url": "https://bottleofitaly.com/en-us/products/valpolicella-classico-doc-bolla"
+        }
+      ],
+      "zekerheid": "middel",
+      "bijgewerkt": "2026-10-07"
     }
   ]
 }
