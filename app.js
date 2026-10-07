@@ -88,7 +88,7 @@ function findByCode(code) {
 function search(q) {
   const n = normalize(q).trim();
   if (n.length < 2) return [];
-  return state.wines.filter((w) => normalize([w.naam, w.producent, w.regio, w.appellation, w.land, (w.druiven || []).join(' ')].join(' ')).includes(n)).slice(0, 8);
+  return state.wines.filter((w) => normalize([w.naam, w.producent, w.regio, w.appellation, w.land, (w.druiven || []).join(' ')].join(' ')).includes(n)).slice(0, 25);
 }
 
 // ---------- Proefkaart ----------

@@ -1671,6 +1671,3339 @@
       ],
       "zekerheid": "middel",
       "bijgewerkt": "2026-10-07"
+    },
+    {
+      "id": "barefoot-chardonnay",
+      "ean": [],
+      "naam": "Barefoot Chardonnay",
+      "producent": "Barefoot",
+      "druiven": [
+        "Chardonnay"
+      ],
+      "land": "Verenigde Staten",
+      "regio": "Californië",
+      "appellation": "California",
+      "kort": {
+        "tekst": "Het wijnweetje van deze fles! Barefoot laat deze chardonnay een tweede gisting doormaken die scherpe zuren omzet in zachte. Daarna rijpt hij op Amerikaans én Frans eikenhout.\n\nWat je proeft. Peer, citrus en tropisch fruit, met vanille en honing. Romig en zacht.\n\nOnthoud. Romig komt van de tweede gisting, vanille van het hout.",
+        "audio": "audio/barefoot-chardonnay-kort.mp3"
+      },
+      "lang": {
+        "tekst": "Het hele verhaal van deze fles! Een chardonnay die bewust zacht en romig is gemaakt.\n\nIn je glas. Goudgeel. Je ruikt rijpe peer en citrusschil, daarna ananas en mango, met een vleugje vanille.\n\nOp je tong. Groene appel en perzik, met halverwege een romige toets van vanille en honing. Middelvol, met frisse citruszuren. Rond de 13 procent alcohol.\n\nDe druif. Vooral chardonnay, met een klein beetje verdelho. Chardonnay is de kameleon onder de druiven: hier maken ze hem rond en romig.\n\nHoe gemaakt. De wijn ondergaat een malolactische gisting: scherp appelzuur wordt omgezet in zachter melkzuur. Dat geeft body en een romige structuur. Daarna rijpt hij op Amerikaans en Frans eikenhout.\n\nWaar vandaan. Californië. De wijn wordt gemaakt door Barefoot Cellars in Modesto.\n\nHet verhaal. Barefoot begon in de jaren zestig in Californië met het idee dat wijn voor iedereen moet zijn. Dit is de witte tegenhanger van de Barefoot Merlot.\n\nSchenken. Koud, rond 8 tot 10 graden. Bij kip, pasta met roomsaus of vis. Onthoud: zacht door de tweede gisting.",
+        "audio": "audio/barefoot-chardonnay-lang.mp3"
+      },
+      "proef": {
+        "kleur": {
+          "naam": "Goudgeel",
+          "hex": "#E9C45B"
+        },
+        "geur": {
+          "fruit": [
+            "peer",
+            "citrus",
+            "tropisch"
+          ],
+          "maken": [
+            "vanille"
+          ],
+          "rijping": []
+        },
+        "smaak": {
+          "fruit": [
+            "appel",
+            "perzik"
+          ],
+          "maken": [
+            "vanille",
+            "honing",
+            "boter"
+          ],
+          "rijping": []
+        }
+      },
+      "bronnen": [
+        {
+          "titel": "The Liquor Barn – Barefoot Chardonnay",
+          "url": "https://theliquorbarn.com/collections/chardonnay/products/barefoot-chardonnay"
+        }
+      ],
+      "zekerheid": "middel",
+      "bijgewerkt": "2026-10-07"
+    },
+    {
+      "id": "bread-and-butter-chardonnay",
+      "ean": [],
+      "naam": "Bread & Butter Chardonnay",
+      "producent": "Bread & Butter Wines",
+      "druiven": [
+        "Chardonnay"
+      ],
+      "land": "Verenigde Staten",
+      "regio": "Californië",
+      "appellation": "California",
+      "kort": {
+        "tekst": "Het wijnweetje van deze fles! De naam is het recept. 'Bread' staat voor het eikenhout, 'butter' voor de tweede gisting die de wijn boterzacht maakt.\n\nWat je proeft. Crème brûlée, vanille, amandel en rijpe peer. Romig, met meloen en tropisch fruit.\n\nOnthoud. Boterig komt van diacetyl: hetzelfde stofje dat boter naar boter laat smaken.",
+        "audio": "audio/bread-and-butter-chardonnay-kort.mp3"
+      },
+      "lang": {
+        "tekst": "Het hele verhaal van deze fles! Een wijn die zijn eigen recept op het etiket zet.\n\nIn je glas. Goudkleurig. Je ruikt crème brûlée en vanille, gevolgd door warme amandel en rijpe peer.\n\nOp je tong. Vanille en honingmeloen, daarna papaja en tropisch fruit. Een romige, boterige textuur en een afdronk met geroosterde amandel. Rond de 13,5 procent alcohol.\n\nDe druif. Chardonnay, met druiven uit Napa Valley, North Coast, Carneros en Arroyo Seco.\n\nHoe gemaakt. Honderd procent malolactische gisting: alle scherpe appelzuur wordt omgezet in zachter melkzuur. Daarbij ontstaat diacetyl, het stofje dat boter zijn smaak geeft. Daarna rijpt de wijn op een mix van Frans (40 procent), Hongaars (20 procent) en Amerikaans (40 procent) eiken, medium getoast, deels nieuw.\n\nWaar vandaan. Californië. Het merk werd opgericht in Napa Valley.\n\nHet verhaal. Bread & Butter is een merk dat volledig rond deze boterige stijl is gebouwd. Brood staat voor het hout, boter voor de tweede gisting.\n\nSchenken. Koud, rond 10 graden. Bij kreeft, kip of romige pasta. Onthoud: bread is hout, butter is de tweede gisting.",
+        "audio": "audio/bread-and-butter-chardonnay-lang.mp3"
+      },
+      "proef": {
+        "kleur": {
+          "naam": "Goudkleurig",
+          "hex": "#E3BC4E"
+        },
+        "geur": {
+          "fruit": [
+            "peer"
+          ],
+          "maken": [
+            "karamel",
+            "vanille",
+            "noten"
+          ],
+          "rijping": []
+        },
+        "smaak": {
+          "fruit": [
+            "meloen",
+            "tropisch"
+          ],
+          "maken": [
+            "vanille",
+            "boter",
+            "noten"
+          ],
+          "rijping": []
+        }
+      },
+      "bronnen": [
+        {
+          "titel": "The Liquor Barn – Bread & Butter Chardonnay",
+          "url": "https://theliquorbarn.com/collections/domestic-wines/products/bread-butter-chardonnay"
+        },
+        {
+          "titel": "Wine.com – Buttery Chardonnay, Explained",
+          "url": "https://www.wine.com/content/article/buttery-chardonnay-california-guide"
+        }
+      ],
+      "zekerheid": "hoog",
+      "bijgewerkt": "2026-10-07"
+    },
+    {
+      "id": "19-crimes-red-blend",
+      "ean": [],
+      "naam": "19 Crimes Red Blend",
+      "producent": "19 Crimes (Treasury Wine Estates)",
+      "druiven": [
+        "Shiraz",
+        "Rode blend"
+      ],
+      "land": "Australië",
+      "regio": "South Eastern Australia",
+      "appellation": "South Eastern Australia",
+      "kort": {
+        "tekst": "Het wijnweetje van deze fles! Wijs met je telefoon naar het etiket en de gevangene erop komt tot leven. Dat is de Living Label-app van 19 Crimes.\n\nWat je proeft. Rijp donker fruit en chocolade. Zacht en fruitig.\n\nOnthoud. Elke kurk heeft een andere misdaad erop gedrukt.",
+        "audio": "audio/19-crimes-red-blend-kort.mp3"
+      },
+      "lang": {
+        "tekst": "Het hele verhaal van deze fles! De wijn die BarWijnig eigenlijk al voor deed: een fles die zijn eigen verhaal vertelt.\n\nIn je glas. Diep rood. Je ruikt rijp donker fruit met chocolade.\n\nOp je tong. Rijk en zacht, met een fruitige afdronk.\n\nDe druif. Een rode blend uit Australië. Welke druiven precies en in welke verhouding? Ik heb te diep in het glas gekeken, dus dat stukje van het verhaal ben ik even kwijt.\n\nHoe gemaakt. Over de vinificatie? Daar is helaas een flinke vlek rode wijn overheen gegaan in mijn aantekeningen.\n\nWaar vandaan. Australië, onder de brede herkomst South Eastern Australia.\n\nHet verhaal. 19 Crimes verwijst naar de misdaden waarvoor Britse en Ierse gevangenen tussen eind achttiende en midden negentiende eeuw naar Australië werden verbannen. Denk aan kleine diefstal, gestolen spullen kopen, vis stelen uit een vijver of een geheim huwelijk. Via de Living Label-app vertellen de gevangenen op het etiket hun eigen verhaal.\n\nSchenken. Rond 16 graden, bij de barbecue of een burger. Onthoud: deze fles praat terug.",
+        "audio": "audio/19-crimes-red-blend-lang.mp3"
+      },
+      "proef": {
+        "kleur": {
+          "naam": "Diep rood",
+          "hex": "#5E1430"
+        },
+        "geur": {
+          "fruit": [
+            "zwartfruit"
+          ],
+          "maken": [
+            "chocolade"
+          ],
+          "rijping": []
+        },
+        "smaak": {
+          "fruit": [
+            "zwartfruit"
+          ],
+          "maken": [
+            "chocolade"
+          ],
+          "rijping": []
+        }
+      },
+      "bronnen": [
+        {
+          "titel": "Coldist – How every 19 Crimes bottle tells a story",
+          "url": "https://coldist.com/from-infamous-to-legendary-how-every-19-crimes-bottle-tells-a-story/"
+        },
+        {
+          "titel": "IrishCentral – Australian vineyard uses Irish prisoners to sell wine",
+          "url": "https://www.irishcentral.com/culture/food-drink/australian-vineyard-irish-prisoners-sell-wine"
+        }
+      ],
+      "zekerheid": "middel",
+      "bijgewerkt": "2026-10-07"
+    },
+    {
+      "id": "19-crimes-shiraz",
+      "ean": [],
+      "naam": "19 Crimes Shiraz",
+      "producent": "19 Crimes (Treasury Wine Estates)",
+      "druiven": [
+        "Shiraz"
+      ],
+      "land": "Australië",
+      "regio": "South Eastern Australia",
+      "appellation": "South Eastern Australia",
+      "kort": {
+        "tekst": "Het wijnweetje van deze fles! Op 19 Crimes-etiketten staan echte gevangenen, zoals John Boyle O'Reilly: de eerste man die ooit ontsnapte uit de strafkolonie in West-Australië, in 1869.\n\nWat je proeft. Framboos, donkere pruim, chocolade en vanille.\n\nOnthoud. Shiraz en Australië: een klassiek koppel.",
+        "audio": "audio/19-crimes-shiraz-kort.mp3"
+      },
+      "lang": {
+        "tekst": "Het hele verhaal van deze fles! Een shiraz met een ontsnappingsverhaal.\n\nIn je glas. Diep paarsrood. Je ruikt framboos en donkere pruim.\n\nOp je tong. Vol, met pruim, chocolade en vanille.\n\nDe druif. Shiraz, in Frankrijk syrah. In Australië vol, rijp en kruidig.\n\nHoe gemaakt. De vanille en chocolade wijzen op eikenhout. Hoe lang precies? Die details zitten nog in de kelder opgesloten, en de sleutel ben ik kwijt.\n\nWaar vandaan. Australië, onder de brede herkomst South Eastern Australia.\n\nHet verhaal. John Boyle O'Reilly was een Ierse patriot die naar Australië werd verbannen. In 1869 ontsnapte hij als eerste ooit uit de strafkolonie in West-Australië. Tussen 1791 en 1869 werden zo'n 40.000 Ierse gevangenen naar Australië gestuurd.\n\nSchenken. Rond 16 graden, bij lamsvlees of stoofvlees. Onthoud: de eerste ontsnapping uit West-Australië.",
+        "audio": "audio/19-crimes-shiraz-lang.mp3"
+      },
+      "proef": {
+        "kleur": {
+          "naam": "Diep paarsrood",
+          "hex": "#4E1238"
+        },
+        "geur": {
+          "fruit": [
+            "framboos",
+            "pruim"
+          ],
+          "maken": [],
+          "rijping": []
+        },
+        "smaak": {
+          "fruit": [
+            "pruim"
+          ],
+          "maken": [
+            "chocolade",
+            "vanille"
+          ],
+          "rijping": []
+        }
+      },
+      "bronnen": [
+        {
+          "titel": "Coldist – How every 19 Crimes bottle tells a story",
+          "url": "https://coldist.com/from-infamous-to-legendary-how-every-19-crimes-bottle-tells-a-story/"
+        },
+        {
+          "titel": "IrishCentral – Australian vineyard uses Irish prisoners to sell wine",
+          "url": "https://www.irishcentral.com/culture/food-drink/australian-vineyard-irish-prisoners-sell-wine"
+        }
+      ],
+      "zekerheid": "middel",
+      "bijgewerkt": "2026-10-07"
+    },
+    {
+      "id": "19-crimes-cabernet-sauvignon",
+      "ean": [],
+      "naam": "19 Crimes Cabernet Sauvignon",
+      "producent": "19 Crimes (Treasury Wine Estates)",
+      "druiven": [
+        "Cabernet Sauvignon"
+      ],
+      "land": "Australië",
+      "regio": "South Eastern Australia",
+      "appellation": "South Eastern Australia",
+      "kort": {
+        "tekst": "Het wijnweetje van deze fles! Cornelius Dwyer Kane uit Skibbereen kreeg in 1867 tien jaar voor hoogverraad. Hij keerde nooit meer terug naar Ierland.\n\nWat je proeft. Donkere bessen, viooltjes en vanille. Stevig en vol.\n\nOnthoud. Cabernet: kleine bessen, dikke schil, veel structuur.",
+        "audio": "audio/19-crimes-cabernet-sauvignon-kort.mp3"
+      },
+      "lang": {
+        "tekst": "Het hele verhaal van deze fles! Een stevige cabernet met een zwaar verhaal.\n\nIn je glas. Diep donkerrood. Je ruikt donkere bessen, viooltjes en vanille.\n\nOp je tong. Stevig en vol, met donker fruit.\n\nDe druif. Cabernet sauvignon: dikschillig, veel kleur en tannine.\n\nHoe gemaakt. De vanille verraadt eikenhout. Hoeveel en hoe lang? Dat vertelt de wijnmaker alleen na een flinke slok, en die heb ik nog niet gehad.\n\nWaar vandaan. Australië, onder de brede herkomst South Eastern Australia.\n\nHet verhaal. Cornelius Dwyer Kane kwam uit Skibbereen in County Cork. In 1867 kreeg hij tien jaar straf voor hoogverraad. Hij is een van de gevangenen die de verhalen achter 19 Crimes vormen.\n\nSchenken. Rond 16 tot 18 graden, bij steak. Onthoud: tien jaar voor hoogverraad, en nooit meer thuis.",
+        "audio": "audio/19-crimes-cabernet-sauvignon-lang.mp3"
+      },
+      "proef": {
+        "kleur": {
+          "naam": "Diep donkerrood",
+          "hex": "#4A0F20"
+        },
+        "geur": {
+          "fruit": [
+            "zwartebes",
+            "bloemen"
+          ],
+          "maken": [
+            "vanille"
+          ],
+          "rijping": []
+        },
+        "smaak": {
+          "fruit": [
+            "zwartfruit"
+          ],
+          "maken": [],
+          "rijping": []
+        }
+      },
+      "bronnen": [
+        {
+          "titel": "Coldist – How every 19 Crimes bottle tells a story",
+          "url": "https://coldist.com/from-infamous-to-legendary-how-every-19-crimes-bottle-tells-a-story/"
+        },
+        {
+          "titel": "IrishCentral – Australian vineyard uses Irish prisoners to sell wine",
+          "url": "https://www.irishcentral.com/culture/food-drink/australian-vineyard-irish-prisoners-sell-wine"
+        }
+      ],
+      "zekerheid": "middel",
+      "bijgewerkt": "2026-10-07"
+    },
+    {
+      "id": "19-crimes-pinot-noir",
+      "ean": [],
+      "naam": "19 Crimes Pinot Noir",
+      "producent": "19 Crimes (Treasury Wine Estates)",
+      "druiven": [
+        "Pinot Noir"
+      ],
+      "land": "Australië",
+      "regio": "South Eastern Australia",
+      "appellation": "South Eastern Australia",
+      "kort": {
+        "tekst": "Het wijnweetje van deze fles! James Kiely werd gearresteerd voor een plan om wapens te stelen voor de Ierse Fenians. Hij belandde, net als duizenden anderen, in Australië.\n\nWat je proeft. Kers en aardbei, met vanille en kruidig hout. Evenwichtig.\n\nOnthoud. Pinot noir is lichter en soepeler dan de meeste rode wijnen.",
+        "audio": "audio/19-crimes-pinot-noir-kort.mp3"
+      },
+      "lang": {
+        "tekst": "Het hele verhaal van deze fles! Een lichtere rode wijn met een rebels verhaal.\n\nIn je glas. Helder robijnrood. Je ruikt kers en aardbei.\n\nOp je tong. Evenwichtig, met vanille en kruidige houttonen.\n\nDe druif. Pinot noir, een dunschillige druif: minder tannine, meer elegantie.\n\nHoe gemaakt. De vanille en kruidigheid komen van eikenhout. Hoe lang precies? Dat heeft de wijnmaker diep in zijn kelder verstopt, en ik ben nog niet langs de vaten gekomen.\n\nWaar vandaan. Australië, onder de brede herkomst South Eastern Australia.\n\nHet verhaal. James Kiely werd opgepakt omdat hij meedeed aan een plan om wapens te stelen voor Fenian-strijders, Ierse nationalisten. Hij hoort bij de groep gevangenen achter het 19 Crimes-verhaal.\n\nSchenken. Licht gekoeld, rond 14 graden. Bij zalm of kip. Onthoud: rebels verhaal, zachte wijn.",
+        "audio": "audio/19-crimes-pinot-noir-lang.mp3"
+      },
+      "proef": {
+        "kleur": {
+          "naam": "Helder robijnrood",
+          "hex": "#A2283A"
+        },
+        "geur": {
+          "fruit": [
+            "kers",
+            "aardbei"
+          ],
+          "maken": [],
+          "rijping": []
+        },
+        "smaak": {
+          "fruit": [
+            "kers"
+          ],
+          "maken": [
+            "vanille",
+            "specerij"
+          ],
+          "rijping": []
+        }
+      },
+      "bronnen": [
+        {
+          "titel": "Coldist – How every 19 Crimes bottle tells a story",
+          "url": "https://coldist.com/from-infamous-to-legendary-how-every-19-crimes-bottle-tells-a-story/"
+        },
+        {
+          "titel": "IrishCentral – Australian vineyard uses Irish prisoners to sell wine",
+          "url": "https://www.irishcentral.com/culture/food-drink/australian-vineyard-irish-prisoners-sell-wine"
+        }
+      ],
+      "zekerheid": "middel",
+      "bijgewerkt": "2026-10-07"
+    },
+    {
+      "id": "19-crimes-the-banished",
+      "ean": [],
+      "naam": "19 Crimes The Banished Dark Red",
+      "producent": "19 Crimes (Treasury Wine Estates)",
+      "druiven": [
+        "Rode blend"
+      ],
+      "land": "Australië",
+      "regio": "South Eastern Australia",
+      "appellation": "South Eastern Australia",
+      "kort": {
+        "tekst": "Het wijnweetje van deze fles! 'The Banished' betekent 'de verbannenen'. Een eerbetoon aan de duizenden gevangenen die de oceaan over moesten.\n\nWat je proeft. Pure chocolade, kruidnagel en bosvruchten. Vol en zacht.\n\nOnthoud. Dark Red: een extra donkere, volle stijl.",
+        "audio": "audio/19-crimes-the-banished-kort.mp3"
+      },
+      "lang": {
+        "tekst": "Het hele verhaal van deze fles! Een donkere wijn voor donkere tijden.\n\nIn je glas. Heel donker rood. Je ruikt pure chocolade, kruidnagel en bosvruchten.\n\nOp je tong. Vol en zacht, met rijp donker fruit.\n\nDe druif. Een donkere rode blend. Welke druiven precies? Ik heb te diep in het glas gekeken, dus dat stukje van het verhaal ben ik even kwijt.\n\nHoe gemaakt. Over de vinificatie van deze donkere blend? Daar is helaas een flinke vlek rode wijn overheen gegaan in mijn aantekeningen.\n\nWaar vandaan. Australië, onder de brede herkomst South Eastern Australia.\n\nHet verhaal. 19 Crimes verwijst naar de misdaden waarvoor Britse en Ierse gevangenen tussen eind achttiende en midden negentiende eeuw naar Australië werden verbannen. Denk aan kleine diefstal, gestolen spullen kopen, vis stelen uit een vijver of een geheim huwelijk.\n\nSchenken. Rond 16 tot 18 graden, bij stoofpot of wild. Onthoud: banished betekent verbannen.",
+        "audio": "audio/19-crimes-the-banished-lang.mp3"
+      },
+      "proef": {
+        "kleur": {
+          "naam": "Heel donker rood",
+          "hex": "#3E0C1A"
+        },
+        "geur": {
+          "fruit": [
+            "zwartfruit"
+          ],
+          "maken": [
+            "chocolade",
+            "specerij"
+          ],
+          "rijping": []
+        },
+        "smaak": {
+          "fruit": [
+            "zwartfruit"
+          ],
+          "maken": [
+            "chocolade"
+          ],
+          "rijping": []
+        }
+      },
+      "bronnen": [
+        {
+          "titel": "Coldist – How every 19 Crimes bottle tells a story",
+          "url": "https://coldist.com/from-infamous-to-legendary-how-every-19-crimes-bottle-tells-a-story/"
+        },
+        {
+          "titel": "IrishCentral – Australian vineyard uses Irish prisoners to sell wine",
+          "url": "https://www.irishcentral.com/culture/food-drink/australian-vineyard-irish-prisoners-sell-wine"
+        }
+      ],
+      "zekerheid": "middel",
+      "bijgewerkt": "2026-10-07"
+    },
+    {
+      "id": "19-crimes-the-warden",
+      "ean": [],
+      "naam": "19 Crimes The Warden",
+      "producent": "19 Crimes (Treasury Wine Estates)",
+      "druiven": [
+        "Rode blend"
+      ],
+      "land": "Australië",
+      "regio": "South Eastern Australia",
+      "appellation": "South Eastern Australia",
+      "kort": {
+        "tekst": "Het wijnweetje van deze fles! Deze keer staat niet een gevangene op het etiket, maar de cipier: The Warden.\n\nWat je proeft. Mokka, hout en intens donker fruit. Dicht en vol.\n\nOnthoud. Een van de zwaarste wijnen uit de 19 Crimes-familie.",
+        "audio": "audio/19-crimes-the-warden-kort.mp3"
+      },
+      "lang": {
+        "tekst": "Het hele verhaal van deze fles! De bewaker tussen de boeven.\n\nIn je glas. Diep donkerrood. Je ruikt mokka en intens donker fruit.\n\nOp je tong. Dicht en vol, met houttonen.\n\nDe druif. Een rode blend. De precieze druiven? Die details zitten nog in de kelder opgesloten, en de sleutel ben ik kwijt.\n\nHoe gemaakt. De mokka en houttonen wijzen op eikenhout. Hoe lang? Dat vertelt de wijnmaker alleen na een flinke slok, en die heb ik nog niet gehad.\n\nWaar vandaan. Australië, onder de brede herkomst South Eastern Australia.\n\nHet verhaal. 19 Crimes verwijst naar de misdaden waarvoor Britse en Ierse gevangenen tussen eind achttiende en midden negentiende eeuw naar Australië werden verbannen. Denk aan kleine diefstal, gestolen spullen kopen, vis stelen uit een vijver of een geheim huwelijk. The Warden is de bewaker van het verhaal.\n\nSchenken. Rond 18 graden, bij gegrild rood vlees. Onthoud: de cipier is de zwaarste van het stel.",
+        "audio": "audio/19-crimes-the-warden-lang.mp3"
+      },
+      "proef": {
+        "kleur": {
+          "naam": "Diep donkerrood",
+          "hex": "#410E1E"
+        },
+        "geur": {
+          "fruit": [
+            "zwartfruit"
+          ],
+          "maken": [
+            "koffie",
+            "eikenhout"
+          ],
+          "rijping": []
+        },
+        "smaak": {
+          "fruit": [
+            "zwartfruit"
+          ],
+          "maken": [
+            "koffie"
+          ],
+          "rijping": []
+        }
+      },
+      "bronnen": [
+        {
+          "titel": "Coldist – How every 19 Crimes bottle tells a story",
+          "url": "https://coldist.com/from-infamous-to-legendary-how-every-19-crimes-bottle-tells-a-story/"
+        },
+        {
+          "titel": "IrishCentral – Australian vineyard uses Irish prisoners to sell wine",
+          "url": "https://www.irishcentral.com/culture/food-drink/australian-vineyard-irish-prisoners-sell-wine"
+        }
+      ],
+      "zekerheid": "middel",
+      "bijgewerkt": "2026-10-07"
+    },
+    {
+      "id": "19-crimes-uprising",
+      "ean": [],
+      "naam": "19 Crimes Uprising",
+      "producent": "19 Crimes (Treasury Wine Estates)",
+      "druiven": [
+        "Rode blend"
+      ],
+      "land": "Australië",
+      "regio": "South Eastern Australia",
+      "appellation": "South Eastern Australia",
+      "kort": {
+        "tekst": "Het wijnweetje van deze fles! Deze rode wijn rijpt op vaten waar eerder rum in heeft gezeten. Een opstand tegen de regels: Uprising.\n\nWat je proeft. Zoete mokka, karamel en specerij.\n\nOnthoud. Rumvaten geven zoete, karamelachtige tonen.",
+        "audio": "audio/19-crimes-uprising-kort.mp3"
+      },
+      "lang": {
+        "tekst": "Het hele verhaal van deze fles! Een rode wijn met een vleugje piratenkelder.\n\nIn je glas. Diep rood. Je ruikt zoete mokka, karamel en specerij.\n\nOp je tong. Rond en vol, met zoete tonen van het rumvat.\n\nDe druif. Een rode blend uit Australië. Welke druiven precies? Dat heeft de wijnmaker diep in zijn kelder verstopt, en ik ben nog niet langs de vaten gekomen.\n\nHoe gemaakt. Het bijzondere zit in de rijping: de wijn rust in vaten waarin eerder rum zat. Daardoor krijgt hij tonen van karamel en zoete mokka.\n\nWaar vandaan. Australië, onder de brede herkomst South Eastern Australia.\n\nHet verhaal. Uprising betekent opstand. 19 Crimes verwijst naar de misdaden waarvoor Britse en Ierse gevangenen tussen eind achttiende en midden negentiende eeuw naar Australië werden verbannen. Denk aan kleine diefstal, gestolen spullen kopen, vis stelen uit een vijver of een geheim huwelijk.\n\nSchenken. Rond 16 graden, bij spareribs of chocolade. Onthoud: rumvat, dus karamel.",
+        "audio": "audio/19-crimes-uprising-lang.mp3"
+      },
+      "proef": {
+        "kleur": {
+          "naam": "Diep rood",
+          "hex": "#5E1430"
+        },
+        "geur": {
+          "fruit": [
+            "zwartfruit"
+          ],
+          "maken": [
+            "koffie",
+            "karamel",
+            "specerij"
+          ],
+          "rijping": []
+        },
+        "smaak": {
+          "fruit": [
+            "zwartfruit"
+          ],
+          "maken": [
+            "karamel",
+            "koffie"
+          ],
+          "rijping": []
+        }
+      },
+      "bronnen": [
+        {
+          "titel": "Coldist – How every 19 Crimes bottle tells a story",
+          "url": "https://coldist.com/from-infamous-to-legendary-how-every-19-crimes-bottle-tells-a-story/"
+        },
+        {
+          "titel": "IrishCentral – Australian vineyard uses Irish prisoners to sell wine",
+          "url": "https://www.irishcentral.com/culture/food-drink/australian-vineyard-irish-prisoners-sell-wine"
+        }
+      ],
+      "zekerheid": "middel",
+      "bijgewerkt": "2026-10-07"
+    },
+    {
+      "id": "19-crimes-snoop-cali-red",
+      "ean": [],
+      "naam": "19 Crimes Snoop Dogg Cali Red",
+      "producent": "19 Crimes (Treasury Wine Estates)",
+      "druiven": [
+        "Rode blend"
+      ],
+      "land": "Verenigde Staten",
+      "regio": "Californië",
+      "appellation": "California",
+      "kort": {
+        "tekst": "Het wijnweetje van deze fles! Op deze fles staat geen gevangene uit 1800-zoveel, maar Snoop Dogg. Hij werd zelf het gezicht van een 19 Crimes-wijn.\n\nWat je proeft. Zwart en blauw fruit, gekonfijt fruit en geroosterd hout.\n\nOnthoud. Californisch, rijp en royaal.",
+        "audio": "audio/19-crimes-snoop-cali-red-kort.mp3"
+      },
+      "lang": {
+        "tekst": "Het hele verhaal van deze fles! Een rapper tussen de verbannen rebellen.\n\nIn je glas. Diep paarsrood. Je ruikt zwart en blauw fruit en gekonfijt fruit.\n\nOp je tong. Rijp en vol, met geroosterde houttonen.\n\nDe druif. Een Californische rode blend. Welke druiven precies? Ik heb te diep in het glas gekeken, dus dat stukje van het verhaal ben ik even kwijt.\n\nHoe gemaakt. De geroosterde tonen komen van eikenhout. Hoe lang? Daar is helaas een flinke vlek rode wijn overheen gegaan in mijn aantekeningen.\n\nWaar vandaan. Californië. De Californische 19 Crimes-wijnen horen bij de samenwerkingen met beroemdheden.\n\nHet verhaal. De Cali-lijn is een samenwerking tussen 19 Crimes en Snoop Dogg. Van hem zijn er ook een witte, een rosé en een mousserende versie.\n\nSchenken. Rond 16 graden, bij een burger of pizza. Onthoud: Snoop staat op het etiket.",
+        "audio": "audio/19-crimes-snoop-cali-red-lang.mp3"
+      },
+      "proef": {
+        "kleur": {
+          "naam": "Diep paarsrood",
+          "hex": "#4E1238"
+        },
+        "geur": {
+          "fruit": [
+            "zwartfruit"
+          ],
+          "maken": [
+            "geroosterd"
+          ],
+          "rijping": []
+        },
+        "smaak": {
+          "fruit": [
+            "zwartfruit"
+          ],
+          "maken": [
+            "geroosterd"
+          ],
+          "rijping": []
+        }
+      },
+      "bronnen": [
+        {
+          "titel": "Coldist – How every 19 Crimes bottle tells a story",
+          "url": "https://coldist.com/from-infamous-to-legendary-how-every-19-crimes-bottle-tells-a-story/"
+        },
+        {
+          "titel": "IrishCentral – Australian vineyard uses Irish prisoners to sell wine",
+          "url": "https://www.irishcentral.com/culture/food-drink/australian-vineyard-irish-prisoners-sell-wine"
+        }
+      ],
+      "zekerheid": "middel",
+      "bijgewerkt": "2026-10-07"
+    },
+    {
+      "id": "19-crimes-hard-chard",
+      "ean": [],
+      "naam": "19 Crimes Hard Chard",
+      "producent": "19 Crimes (Treasury Wine Estates)",
+      "druiven": [
+        "Chardonnay"
+      ],
+      "land": "Australië",
+      "regio": "South Eastern Australia",
+      "appellation": "South Eastern Australia",
+      "kort": {
+        "tekst": "Het wijnweetje van deze fles! Een 'harde' chardonnay voor een harde geschiedenis. De gevangenen achter 19 Crimes werden verbannen voor misdaden als het stelen van vis uit een vijver.\n\nWat je proeft. Vanille en specerij. Vol en rond.\n\nOnthoud. Hard Chard is de volle, ronde chardonnay van 19 Crimes.",
+        "audio": "audio/19-crimes-hard-chard-kort.mp3"
+      },
+      "lang": {
+        "tekst": "Het hele verhaal van deze fles! Een chardonnay met een stoere naam.\n\nIn je glas. Goudgeel. Je ruikt vanille en specerij.\n\nOp je tong. Vol en rond.\n\nDe druif. Chardonnay, hier in een volle, ronde stijl.\n\nHoe gemaakt. De vanille wijst op eikenhout. Hoe precies? Die details zitten nog in de kelder opgesloten, en de sleutel ben ik kwijt.\n\nWaar vandaan. Australië, onder de brede herkomst South Eastern Australia.\n\nHet verhaal. 19 Crimes verwijst naar de misdaden waarvoor Britse en Ierse gevangenen tussen eind achttiende en midden negentiende eeuw naar Australië werden verbannen. Denk aan kleine diefstal, gestolen spullen kopen, vis stelen uit een vijver of een geheim huwelijk.\n\nSchenken. Koud, rond 10 graden. Bij kip of gegrilde vis. Onthoud: vol en rond, met vanille.",
+        "audio": "audio/19-crimes-hard-chard-lang.mp3"
+      },
+      "proef": {
+        "kleur": {
+          "naam": "Goudgeel",
+          "hex": "#E3BC4E"
+        },
+        "geur": {
+          "fruit": [],
+          "maken": [
+            "vanille",
+            "specerij"
+          ],
+          "rijping": []
+        },
+        "smaak": {
+          "fruit": [],
+          "maken": [
+            "vanille",
+            "boter"
+          ],
+          "rijping": []
+        }
+      },
+      "bronnen": [
+        {
+          "titel": "Coldist – How every 19 Crimes bottle tells a story",
+          "url": "https://coldist.com/from-infamous-to-legendary-how-every-19-crimes-bottle-tells-a-story/"
+        },
+        {
+          "titel": "IrishCentral – Australian vineyard uses Irish prisoners to sell wine",
+          "url": "https://www.irishcentral.com/culture/food-drink/australian-vineyard-irish-prisoners-sell-wine"
+        }
+      ],
+      "zekerheid": "middel",
+      "bijgewerkt": "2026-10-07"
+    },
+    {
+      "id": "19-crimes-chardonnay",
+      "ean": [],
+      "naam": "19 Crimes Chardonnay",
+      "producent": "19 Crimes (Treasury Wine Estates)",
+      "druiven": [
+        "Chardonnay"
+      ],
+      "land": "Australië",
+      "regio": "South Eastern Australia",
+      "appellation": "South Eastern Australia",
+      "kort": {
+        "tekst": "Het wijnweetje van deze fles! Elke 19 Crimes-fles heeft op de kurk een andere misdaad staan. Kijk maar eens welke jij hebt.\n\nWat je proeft. Romig en vol, met vanille en een kruidig randje.\n\nOnthoud. Deze chardonnay staat bij Albert Heijn in het schap.",
+        "audio": "audio/19-crimes-chardonnay-kort.mp3"
+      },
+      "lang": {
+        "tekst": "Het hele verhaal van deze fles! De chardonnay die je in de Nederlandse supermarkt tegenkomt.\n\nIn je glas. Goudgeel. Je ruikt vanille en specerij.\n\nOp je tong. Vol en rond.\n\nDe druif. Chardonnay. Of deze fles dezelfde is als de Hard Chard of een eigen versie voor Europa? Dat vertelt de wijnmaker alleen na een flinke slok, en die heb ik nog niet gehad.\n\nHoe gemaakt. Over de vinificatie? Dat heeft de wijnmaker diep in zijn kelder verstopt, en ik ben nog niet langs de vaten gekomen.\n\nWaar vandaan. Australië, onder de brede herkomst South Eastern Australia.\n\nHet verhaal. 19 Crimes verwijst naar de misdaden waarvoor Britse en Ierse gevangenen tussen eind achttiende en midden negentiende eeuw naar Australië werden verbannen. Denk aan kleine diefstal, gestolen spullen kopen, vis stelen uit een vijver of een geheim huwelijk. Op elke kurk staat één van de misdaden.\n\nSchenken. Koud, rond 10 graden. Onthoud: check de misdaad op je kurk.",
+        "audio": "audio/19-crimes-chardonnay-lang.mp3"
+      },
+      "proef": {
+        "kleur": {
+          "naam": "Goudgeel",
+          "hex": "#E3BC4E"
+        },
+        "geur": {
+          "fruit": [],
+          "maken": [
+            "vanille",
+            "specerij"
+          ],
+          "rijping": []
+        },
+        "smaak": {
+          "fruit": [],
+          "maken": [
+            "vanille"
+          ],
+          "rijping": []
+        }
+      },
+      "bronnen": [
+        {
+          "titel": "Coldist – How every 19 Crimes bottle tells a story",
+          "url": "https://coldist.com/from-infamous-to-legendary-how-every-19-crimes-bottle-tells-a-story/"
+        },
+        {
+          "titel": "IrishCentral – Australian vineyard uses Irish prisoners to sell wine",
+          "url": "https://www.irishcentral.com/culture/food-drink/australian-vineyard-irish-prisoners-sell-wine"
+        },
+        {
+          "titel": "Albert Heijn – 19 Crimes",
+          "url": "https://www.ah.nl/producten/merk/19-crimes"
+        }
+      ],
+      "zekerheid": "middel",
+      "bijgewerkt": "2026-10-07"
+    },
+    {
+      "id": "19-crimes-marthas-chard",
+      "ean": [],
+      "naam": "19 Crimes Martha's Chard",
+      "producent": "19 Crimes (Treasury Wine Estates)",
+      "druiven": [
+        "Chardonnay"
+      ],
+      "land": "Verenigde Staten",
+      "regio": "Californië",
+      "appellation": "California",
+      "kort": {
+        "tekst": "Het wijnweetje van deze fles! Martha staat voor Martha Stewart, de Amerikaanse lifestylekoningin. Zij zat in 2004 zelf vijf maanden in de gevangenis, en past dus precies in de 19 Crimes-familie.\n\nWat je proeft. Heldere citrus en zoet eikenhout.\n\nOnthoud. Een chardonnay met een knipoog naar een beroemde ex-gedetineerde.",
+        "audio": "audio/19-crimes-marthas-chard-kort.mp3"
+      },
+      "lang": {
+        "tekst": "Het hele verhaal van deze fles! Een chardonnay van een tv-kok met een strafblad.\n\nIn je glas. Goudgeel. Je ruikt heldere citrus.\n\nOp je tong. Fris, met een zoet eikenhoutkarakter.\n\nDe druif. Californische chardonnay.\n\nHoe gemaakt. Het zoete karakter komt van eikenhout. Hoe lang? Ik heb te diep in het glas gekeken, dus dat stukje van het verhaal ben ik even kwijt.\n\nWaar vandaan. Californië. De Californische 19 Crimes-wijnen horen bij de samenwerkingen met beroemdheden.\n\nHet verhaal. Martha's Chard is een samenwerking tussen 19 Crimes en Martha Stewart. Er is ook een lichtere versie.\n\nSchenken. Koud, rond 10 graden. Bij kip of een salade. Onthoud: Martha past in de familie.",
+        "audio": "audio/19-crimes-marthas-chard-lang.mp3"
+      },
+      "proef": {
+        "kleur": {
+          "naam": "Goudgeel",
+          "hex": "#E3BC4E"
+        },
+        "geur": {
+          "fruit": [
+            "citrus"
+          ],
+          "maken": [
+            "eikenhout"
+          ],
+          "rijping": []
+        },
+        "smaak": {
+          "fruit": [
+            "citrus"
+          ],
+          "maken": [
+            "vanille"
+          ],
+          "rijping": []
+        }
+      },
+      "bronnen": [
+        {
+          "titel": "Coldist – How every 19 Crimes bottle tells a story",
+          "url": "https://coldist.com/from-infamous-to-legendary-how-every-19-crimes-bottle-tells-a-story/"
+        },
+        {
+          "titel": "IrishCentral – Australian vineyard uses Irish prisoners to sell wine",
+          "url": "https://www.irishcentral.com/culture/food-drink/australian-vineyard-irish-prisoners-sell-wine"
+        }
+      ],
+      "zekerheid": "middel",
+      "bijgewerkt": "2026-10-07"
+    },
+    {
+      "id": "19-crimes-marthas-lighter-chard",
+      "ean": [],
+      "naam": "19 Crimes Martha's Lighter Chard",
+      "producent": "19 Crimes (Treasury Wine Estates)",
+      "druiven": [
+        "Chardonnay"
+      ],
+      "land": "Verenigde Staten",
+      "regio": "Californië",
+      "appellation": "California",
+      "kort": {
+        "tekst": "Het wijnweetje van deze fles! Het lichte zusje van Martha's Chard: minder zwaar, frisser, met een vleugje sinaasappelschil.\n\nWat je proeft. Citrus en sinaasappelschil. Middelvol.\n\nOnthoud. Lighter betekent: lichter en frisser dan de gewone Martha's Chard.",
+        "audio": "audio/19-crimes-marthas-lighter-chard-kort.mp3"
+      },
+      "lang": {
+        "tekst": "Het hele verhaal van deze fles! Een lichtere chardonnay voor op het terras.\n\nIn je glas. Lichtgeel. Je ruikt citrus en sinaasappelschil.\n\nOp je tong. Middelvol en fris.\n\nDe druif. Californische chardonnay, in een lichtere stijl.\n\nHoe gemaakt. Over de vinificatie? Daar is helaas een flinke vlek rode wijn overheen gegaan in mijn aantekeningen.\n\nWaar vandaan. Californië. De Californische 19 Crimes-wijnen horen bij de samenwerkingen met beroemdheden.\n\nHet verhaal. Martha Stewart, de Amerikaanse lifestylekoningin, werkt samen met 19 Crimes. Dit is de lichtere variant van haar chardonnay.\n\nSchenken. Koud, rond 8 tot 10 graden. Onthoud: lighter is frisser.",
+        "audio": "audio/19-crimes-marthas-lighter-chard-lang.mp3"
+      },
+      "proef": {
+        "kleur": {
+          "naam": "Lichtgeel",
+          "hex": "#EDE6A8"
+        },
+        "geur": {
+          "fruit": [
+            "citrus"
+          ],
+          "maken": [],
+          "rijping": []
+        },
+        "smaak": {
+          "fruit": [
+            "citrus"
+          ],
+          "maken": [],
+          "rijping": []
+        }
+      },
+      "bronnen": [
+        {
+          "titel": "Coldist – How every 19 Crimes bottle tells a story",
+          "url": "https://coldist.com/from-infamous-to-legendary-how-every-19-crimes-bottle-tells-a-story/"
+        },
+        {
+          "titel": "IrishCentral – Australian vineyard uses Irish prisoners to sell wine",
+          "url": "https://www.irishcentral.com/culture/food-drink/australian-vineyard-irish-prisoners-sell-wine"
+        }
+      ],
+      "zekerheid": "middel",
+      "bijgewerkt": "2026-10-07"
+    },
+    {
+      "id": "19-crimes-sauv-block",
+      "ean": [],
+      "naam": "19 Crimes Sauvignon Blanc (Sauv Block)",
+      "producent": "19 Crimes (Treasury Wine Estates)",
+      "druiven": [
+        "Sauvignon Blanc"
+      ],
+      "land": "Australië",
+      "regio": "South Eastern Australia",
+      "appellation": "South Eastern Australia",
+      "kort": {
+        "tekst": "Het wijnweetje van deze fles! De bijnaam 'Sauv Block' klinkt als 'cell block', een cellenblok. Een sauvignon blanc met gevangenishumor.\n\nWat je proeft. Passievrucht, grapefruit, kruisbes en guave.\n\nOnthoud. Kruisbes en passievrucht zijn klassiek voor sauvignon blanc.",
+        "audio": "audio/19-crimes-sauv-block-kort.mp3"
+      },
+      "lang": {
+        "tekst": "Het hele verhaal van deze fles! Een sauvignon blanc met een cellenblok in zijn naam.\n\nIn je glas. Bleek geel. Je ruikt passievrucht, grapefruit, kruisbes en guave.\n\nOp je tong. Fris en fruitig.\n\nDe druif. Sauvignon blanc, bekend om zijn uitbundige, frisse aroma's.\n\nHoe gemaakt. Over de vinificatie? Die details zitten nog in de kelder opgesloten, en de sleutel ben ik kwijt.\n\nWaar vandaan. Australië, onder de brede herkomst South Eastern Australia.\n\nHet verhaal. 19 Crimes verwijst naar de misdaden waarvoor Britse en Ierse gevangenen tussen eind achttiende en midden negentiende eeuw naar Australië werden verbannen. Denk aan kleine diefstal, gestolen spullen kopen, vis stelen uit een vijver of een geheim huwelijk.\n\nSchenken. Koud, rond 8 graden. Bij vis of geitenkaas. Onthoud: Sauv Block klinkt als cellenblok.",
+        "audio": "audio/19-crimes-sauv-block-lang.mp3"
+      },
+      "proef": {
+        "kleur": {
+          "naam": "Bleek geel",
+          "hex": "#EFE9B2"
+        },
+        "geur": {
+          "fruit": [
+            "tropisch",
+            "citrus",
+            "kruisbes"
+          ],
+          "maken": [],
+          "rijping": []
+        },
+        "smaak": {
+          "fruit": [
+            "tropisch",
+            "citrus"
+          ],
+          "maken": [],
+          "rijping": []
+        }
+      },
+      "bronnen": [
+        {
+          "titel": "Coldist – How every 19 Crimes bottle tells a story",
+          "url": "https://coldist.com/from-infamous-to-legendary-how-every-19-crimes-bottle-tells-a-story/"
+        },
+        {
+          "titel": "IrishCentral – Australian vineyard uses Irish prisoners to sell wine",
+          "url": "https://www.irishcentral.com/culture/food-drink/australian-vineyard-irish-prisoners-sell-wine"
+        }
+      ],
+      "zekerheid": "middel",
+      "bijgewerkt": "2026-10-07"
+    },
+    {
+      "id": "19-crimes-snoop-cali-blanc",
+      "ean": [],
+      "naam": "19 Crimes Snoop Dogg Cali Blanc",
+      "producent": "19 Crimes (Treasury Wine Estates)",
+      "druiven": [
+        "Witte blend"
+      ],
+      "land": "Verenigde Staten",
+      "regio": "Californië",
+      "appellation": "California",
+      "kort": {
+        "tekst": "Het wijnweetje van deze fles! De witte wijn van Snoop Dogg in de 19 Crimes-lijn.\n\nWat je proeft. Honingmeloen, kruiden, citrus en bloemen.\n\nOnthoud. Een Californische witte voor zonnige dagen.",
+        "audio": "audio/19-crimes-snoop-cali-blanc-kort.mp3"
+      },
+      "lang": {
+        "tekst": "Het hele verhaal van deze fles! Snoop in het wit.\n\nIn je glas. Lichtgeel. Je ruikt honingmeloen, kruiden, citrus en bloemen.\n\nOp je tong. Fris en fruitig.\n\nDe druif. Een Californische witte blend. Welke druiven? Dat vertelt de wijnmaker alleen na een flinke slok, en die heb ik nog niet gehad.\n\nHoe gemaakt. Over de vinificatie? Dat heeft de wijnmaker diep in zijn kelder verstopt, en ik ben nog niet langs de vaten gekomen.\n\nWaar vandaan. Californië. De Californische 19 Crimes-wijnen horen bij de samenwerkingen met beroemdheden.\n\nHet verhaal. Een van de wijnen uit de samenwerking tussen 19 Crimes en Snoop Dogg.\n\nSchenken. Koud, rond 8 graden. Onthoud: Snoop kan ook wit.",
+        "audio": "audio/19-crimes-snoop-cali-blanc-lang.mp3"
+      },
+      "proef": {
+        "kleur": {
+          "naam": "Lichtgeel",
+          "hex": "#EDE6A8"
+        },
+        "geur": {
+          "fruit": [
+            "meloen",
+            "kruiden",
+            "citrus",
+            "bloemen"
+          ],
+          "maken": [],
+          "rijping": []
+        },
+        "smaak": {
+          "fruit": [
+            "meloen",
+            "citrus"
+          ],
+          "maken": [],
+          "rijping": []
+        }
+      },
+      "bronnen": [
+        {
+          "titel": "Coldist – How every 19 Crimes bottle tells a story",
+          "url": "https://coldist.com/from-infamous-to-legendary-how-every-19-crimes-bottle-tells-a-story/"
+        },
+        {
+          "titel": "IrishCentral – Australian vineyard uses Irish prisoners to sell wine",
+          "url": "https://www.irishcentral.com/culture/food-drink/australian-vineyard-irish-prisoners-sell-wine"
+        }
+      ],
+      "zekerheid": "middel",
+      "bijgewerkt": "2026-10-07"
+    },
+    {
+      "id": "19-crimes-snoop-cali-rose",
+      "ean": [],
+      "naam": "19 Crimes Snoop Dogg Cali Rosé",
+      "producent": "19 Crimes (Treasury Wine Estates)",
+      "druiven": [
+        "Rosé blend"
+      ],
+      "land": "Verenigde Staten",
+      "regio": "Californië",
+      "appellation": "California",
+      "kort": {
+        "tekst": "Het wijnweetje van deze fles! Ook in het roze heeft Snoop Dogg zijn eigen 19 Crimes-fles.\n\nWat je proeft. Framboos, aardbei en rode kers. Evenwichtig.\n\nOnthoud. Rood fruit in een heldere roze jas.",
+        "audio": "audio/19-crimes-snoop-cali-rose-kort.mp3"
+      },
+      "lang": {
+        "tekst": "Het hele verhaal van deze fles! Snoop in het roze.\n\nIn je glas. Roze. Je ruikt framboos, aardbei en rode kers.\n\nOp je tong. Evenwichtig en fris.\n\nDe druif. Een Californische rosé. Welke druiven? Ik heb te diep in het glas gekeken, dus dat stukje van het verhaal ben ik even kwijt.\n\nHoe gemaakt. Over de vinificatie? Daar is helaas een flinke vlek rode wijn overheen gegaan in mijn aantekeningen.\n\nWaar vandaan. Californië. De Californische 19 Crimes-wijnen horen bij de samenwerkingen met beroemdheden.\n\nHet verhaal. Een van de wijnen uit de samenwerking tussen 19 Crimes en Snoop Dogg.\n\nSchenken. Goed koud, rond 8 graden. Onthoud: rood fruit, roze kleur.",
+        "audio": "audio/19-crimes-snoop-cali-rose-lang.mp3"
+      },
+      "proef": {
+        "kleur": {
+          "naam": "Roze",
+          "hex": "#F2A08C"
+        },
+        "geur": {
+          "fruit": [
+            "framboos",
+            "aardbei",
+            "kers"
+          ],
+          "maken": [],
+          "rijping": []
+        },
+        "smaak": {
+          "fruit": [
+            "framboos",
+            "aardbei"
+          ],
+          "maken": [],
+          "rijping": []
+        }
+      },
+      "bronnen": [
+        {
+          "titel": "Coldist – How every 19 Crimes bottle tells a story",
+          "url": "https://coldist.com/from-infamous-to-legendary-how-every-19-crimes-bottle-tells-a-story/"
+        },
+        {
+          "titel": "IrishCentral – Australian vineyard uses Irish prisoners to sell wine",
+          "url": "https://www.irishcentral.com/culture/food-drink/australian-vineyard-irish-prisoners-sell-wine"
+        }
+      ],
+      "zekerheid": "middel",
+      "bijgewerkt": "2026-10-07"
+    },
+    {
+      "id": "19-crimes-snoop-cali-gold",
+      "ean": [],
+      "naam": "19 Crimes Snoop Dogg Cali Gold",
+      "producent": "19 Crimes (Treasury Wine Estates)",
+      "druiven": [
+        "Mousserend"
+      ],
+      "land": "Verenigde Staten",
+      "regio": "Californië",
+      "appellation": "California",
+      "kort": {
+        "tekst": "Het wijnweetje van deze fles! Goud voor Snoop: zijn mousserende wijn in de 19 Crimes-lijn.\n\nWat je proeft. Citroen en groene appel, met bloemige en frisse tonen.\n\nOnthoud. De bubbels van de Cali-lijn.",
+        "audio": "audio/19-crimes-snoop-cali-gold-kort.mp3"
+      },
+      "lang": {
+        "tekst": "Het hele verhaal van deze fles! Snoop met bubbels.\n\nIn je glas. Lichtgoud, met bubbels. Je ruikt citroen, groene appel en bloemen.\n\nOp je tong. Fris en levendig.\n\nDe druif. Een Californische mousserende wijn. Welke druiven? Die details zitten nog in de kelder opgesloten, en de sleutel ben ik kwijt.\n\nHoe gemaakt. Over de methode? Dat vertelt de wijnmaker alleen na een flinke slok, en die heb ik nog niet gehad.\n\nWaar vandaan. Californië. De Californische 19 Crimes-wijnen horen bij de samenwerkingen met beroemdheden.\n\nHet verhaal. Een van de wijnen uit de samenwerking tussen 19 Crimes en Snoop Dogg.\n\nSchenken. Goed koud, rond 6 tot 8 graden. Onthoud: Cali Gold heeft bubbels.",
+        "audio": "audio/19-crimes-snoop-cali-gold-lang.mp3"
+      },
+      "proef": {
+        "kleur": {
+          "naam": "Lichtgoud",
+          "hex": "#EBD27A"
+        },
+        "geur": {
+          "fruit": [
+            "citrus",
+            "appel",
+            "bloemen"
+          ],
+          "maken": [],
+          "rijping": []
+        },
+        "smaak": {
+          "fruit": [
+            "citrus",
+            "appel"
+          ],
+          "maken": [],
+          "rijping": []
+        }
+      },
+      "bronnen": [
+        {
+          "titel": "Coldist – How every 19 Crimes bottle tells a story",
+          "url": "https://coldist.com/from-infamous-to-legendary-how-every-19-crimes-bottle-tells-a-story/"
+        },
+        {
+          "titel": "IrishCentral – Australian vineyard uses Irish prisoners to sell wine",
+          "url": "https://www.irishcentral.com/culture/food-drink/australian-vineyard-irish-prisoners-sell-wine"
+        }
+      ],
+      "zekerheid": "middel",
+      "bijgewerkt": "2026-10-07"
+    },
+    {
+      "id": "19-crimes-sparkling-white",
+      "ean": [],
+      "naam": "19 Crimes Sparkling White",
+      "producent": "19 Crimes (Treasury Wine Estates)",
+      "druiven": [
+        "Sauvignon Blanc",
+        "Riesling"
+      ],
+      "land": "Australië",
+      "regio": "South Eastern Australia",
+      "appellation": "South Eastern Australia",
+      "kort": {
+        "tekst": "Het wijnweetje van deze fles! De mousserende witte van 19 Crimes is een ongebruikelijke combinatie: sauvignon blanc met riesling.\n\nWat je proeft. Citroenschil, oranjebloesem, tropisch fruit en vers gemaaid gras. Daarna peer, groene appel en nectarine.\n\nOnthoud. Sauvignon geeft gras, riesling geeft bloemen.",
+        "audio": "audio/19-crimes-sparkling-white-kort.mp3"
+      },
+      "lang": {
+        "tekst": "Het hele verhaal van deze fles! Bubbels van twee aromatische druiven.\n\nIn je glas. Lichtgeel, met bubbels. Je ruikt citroenschil, oranjebloesem, tropisch fruit en vers gemaaid gras.\n\nOp je tong. Levendige zuren met peer, groene appel en nectarine, en een licht zoete ondertoon met wat mineraliteit. Rond de 12 procent alcohol.\n\nDe druif. Sauvignon blanc en riesling, twee uitgesproken aromatische druiven.\n\nHoe gemaakt. Over de methode? Dat heeft de wijnmaker diep in zijn kelder verstopt, en ik ben nog niet langs de vaten gekomen.\n\nWaar vandaan. Australië, onder de brede herkomst South Eastern Australia.\n\nHet verhaal. 19 Crimes verwijst naar de misdaden waarvoor Britse en Ierse gevangenen tussen eind achttiende en midden negentiende eeuw naar Australië werden verbannen. Denk aan kleine diefstal, gestolen spullen kopen, vis stelen uit een vijver of een geheim huwelijk.\n\nSchenken. Goed koud, rond 6 tot 8 graden. Onthoud: sauvignon plus riesling, met bubbels.",
+        "audio": "audio/19-crimes-sparkling-white-lang.mp3"
+      },
+      "proef": {
+        "kleur": {
+          "naam": "Lichtgeel",
+          "hex": "#EFE9B2"
+        },
+        "geur": {
+          "fruit": [
+            "citrus",
+            "bloemen",
+            "tropisch",
+            "kruiden"
+          ],
+          "maken": [],
+          "rijping": []
+        },
+        "smaak": {
+          "fruit": [
+            "peer",
+            "appel",
+            "perzik"
+          ],
+          "maken": [],
+          "rijping": []
+        }
+      },
+      "bronnen": [
+        {
+          "titel": "Coldist – How every 19 Crimes bottle tells a story",
+          "url": "https://coldist.com/from-infamous-to-legendary-how-every-19-crimes-bottle-tells-a-story/"
+        },
+        {
+          "titel": "IrishCentral – Australian vineyard uses Irish prisoners to sell wine",
+          "url": "https://www.irishcentral.com/culture/food-drink/australian-vineyard-irish-prisoners-sell-wine"
+        },
+        {
+          "titel": "The Bottle Club – 19 Crimes Sparkling White",
+          "url": "https://trade.thebottleclub.com/products/19-crimes-sparkling-white-wine-75-cl"
+        },
+        {
+          "titel": "Albert Heijn – 19 Crimes",
+          "url": "https://www.ah.nl/producten/merk/19-crimes"
+        }
+      ],
+      "zekerheid": "middel",
+      "bijgewerkt": "2026-10-07"
+    },
+    {
+      "id": "mucho-mas-red-blend",
+      "ean": [],
+      "naam": "Mucho Más Red Blend (Black Edition)",
+      "producent": "Félix Solís",
+      "druiven": [
+        "Tempranillo",
+        "Garnacha",
+        "Syrah"
+      ],
+      "land": "Spanje",
+      "regio": "Verschillende Spaanse regio's",
+      "appellation": "Vino de España",
+      "kort": {
+        "tekst": "Het wijnweetje van deze fles! De druiven komen van oude stokken en worden met de hand geplukt. Daarna rijpt de wijn een paar maanden op Amerikaans eikenhout.\n\nWat je proeft. Rijp zwart fruit, kruiden en balsamico, met leer en vanille. Complex, met cacao.\n\nOnthoud. Drie druiven, één zwarte fles.",
+        "audio": "audio/mucho-mas-red-blend-kort.mp3"
+      },
+      "lang": {
+        "tekst": "Het hele verhaal van deze fles! De zwarte fles van Mucho Más: de klassieke rode blend.\n\nIn je glas. Kersenrood. Je ruikt rijp zwart fruit, wilde kruiden en balsamico, met op de achtergrond leer en vanille.\n\nOp je tong. Complex en breed, met fruit, mineraliteit en een vleugje cacao. Een lange afdronk. 13,5 procent alcohol.\n\nDe druif. Tempranillo voor structuur, garnacha voor sappig fruit en syrah voor kruidigheid.\n\nHoe gemaakt. Met de hand geplukt van oude stokken. De gisting duurt 10 tot 14 dagen op roestvrij staal bij 26 tot 28 graden. Daarna rijpt de wijn 3 tot 4 maanden op Amerikaans eikenhout, tot de malolactische gisting klaar is.\n\nWaar vandaan. Een blend van druiven uit verschillende Spaanse wijngebieden. Daarom staat er geen streek op het etiket: zo kan de maker het beste uit meerdere regio's combineren.\n\nHet verhaal. Mucho Más wordt gemaakt door Félix Solís, een groot Spaans familiebedrijf uit Valdepeñas. De naam betekent 'veel meer'. In 2025 kreeg deze wijn 90 punten bij de International Wine Challenge.\n\nSchenken. Rond 15 tot 18 graden, bij tapas, oude kaas of wild. Onthoud: drie druiven, oude stokken.",
+        "audio": "audio/mucho-mas-red-blend-lang.mp3"
+      },
+      "proef": {
+        "kleur": {
+          "naam": "Kersenrood",
+          "hex": "#6A1028"
+        },
+        "geur": {
+          "fruit": [
+            "zwartfruit",
+            "kruiden"
+          ],
+          "maken": [
+            "vanille"
+          ],
+          "rijping": [
+            "leer"
+          ]
+        },
+        "smaak": {
+          "fruit": [
+            "zwartfruit",
+            "mineraal"
+          ],
+          "maken": [
+            "chocolade"
+          ],
+          "rijping": []
+        }
+      },
+      "bronnen": [
+        {
+          "titel": "Félix Solís – Mucho Más Red Blend (Black Edition)",
+          "url": "https://www.felixsolis.com/en/wine/mucho-mas-blend/"
+        }
+      ],
+      "zekerheid": "hoog",
+      "bijgewerkt": "2026-10-07"
+    },
+    {
+      "id": "mucho-mas-gold",
+      "ean": [],
+      "naam": "Mucho Más Gold",
+      "producent": "Félix Solís",
+      "druiven": [
+        "Tempranillo"
+      ],
+      "land": "Spanje",
+      "regio": "Verschillende Spaanse regio's",
+      "appellation": "Vino de España",
+      "kort": {
+        "tekst": "Het wijnweetje van deze fles! Gold is de top van de Mucho Más-familie: honderd procent tempranillo uit verschillende gebieden in Noord-Spanje.\n\nWat je proeft. Rood en zwart fruit met fijne geroosterde tonen. Krachtig en fris.\n\nOnthoud. Gold is de topwijn van de reeks.",
+        "audio": "audio/mucho-mas-gold-kort.mp3"
+      },
+      "lang": {
+        "tekst": "Het hele verhaal van deze fles! Het gouden randje van Mucho Más.\n\nIn je glas. Heel intens kersenrood met robijnen tinten. Je ruikt rood en zwart fruit, fijne geroosterde tonen en een balsamico-achtige basis.\n\nOp je tong. Krachtig en fris, daarna omhullend en zacht, met fruit en specerij. Rijke tannines en mooie zuren. 14 procent alcohol.\n\nDe druif. Honderd procent tempranillo, uit verschillende gebieden in Noord-Spanje.\n\nHoe gemaakt. De wijn rijpt maanden op Amerikaans eikenhout. Dat geeft de geroosterde tonen en structuur.\n\nWaar vandaan. Een blend van druiven uit verschillende Spaanse wijngebieden. Daarom staat er geen streek op het etiket: zo kan de maker het beste uit meerdere regio's combineren.\n\nHet verhaal. Mucho Más wordt gemaakt door Félix Solís, een groot Spaans familiebedrijf uit Valdepeñas. De naam betekent 'veel meer'. Gold is de topwijn van de reeks.\n\nSchenken. Rond 14 tot 16 graden, bij oude kaas of stoofgerechten. Onthoud: Gold is honderd procent tempranillo.",
+        "audio": "audio/mucho-mas-gold-lang.mp3"
+      },
+      "proef": {
+        "kleur": {
+          "naam": "Intens kersenrood",
+          "hex": "#6A1028"
+        },
+        "geur": {
+          "fruit": [
+            "roodfruit",
+            "zwartfruit",
+            "kruiden"
+          ],
+          "maken": [
+            "geroosterd"
+          ],
+          "rijping": []
+        },
+        "smaak": {
+          "fruit": [
+            "roodfruit",
+            "zwartfruit"
+          ],
+          "maken": [
+            "specerij"
+          ],
+          "rijping": []
+        }
+      },
+      "bronnen": [
+        {
+          "titel": "Félix Solís – Mucho Más Gold",
+          "url": "https://www.felixsolis.com/en/wine/mucho-mas-gold/"
+        }
+      ],
+      "zekerheid": "hoog",
+      "bijgewerkt": "2026-10-07"
+    },
+    {
+      "id": "mucho-mas-starlite-tinto",
+      "ean": [],
+      "naam": "Mucho Más Starlite Special Edition (rood)",
+      "producent": "Félix Solís",
+      "druiven": [
+        "Tempranillo",
+        "Garnacha",
+        "Syrah"
+      ],
+      "land": "Spanje",
+      "regio": "Verschillende Spaanse regio's",
+      "appellation": "Vino de España",
+      "kort": {
+        "tekst": "Het wijnweetje van deze fles! Deze speciale editie is geïnspireerd op het Starlite Festival in Marbella: muziek en wijn in één fles.\n\nWat je proeft. Framboos en kers, met vanille en specerij. Zachte, fluweelachtige tannines.\n\nOnthoud. Honderdjarige tempranillo-stokken geven de structuur.",
+        "audio": "audio/mucho-mas-starlite-tinto-kort.mp3"
+      },
+      "lang": {
+        "tekst": "Het hele verhaal van deze fles! Een festivalfles.\n\nIn je glas. Rood. Je ruikt framboos en kers, met vanille en specerijen.\n\nOp je tong. Zachte, fluweelachtige tannines en een lange afdronk. 13,5 procent alcohol.\n\nDe druif. Tempranillo van stokken van rond de honderd jaar oud geeft structuur en complexiteit. Garnacha en syrah zorgen voor fruit.\n\nHoe gemaakt. Over de vinificatie van deze editie? Ik heb te diep in het glas gekeken, dus dat stukje van het verhaal ben ik even kwijt.\n\nWaar vandaan. Een blend van druiven uit verschillende Spaanse wijngebieden. Daarom staat er geen streek op het etiket: zo kan de maker het beste uit meerdere regio's combineren.\n\nHet verhaal. Mucho Más wordt gemaakt door Félix Solís, een groot Spaans familiebedrijf uit Valdepeñas. De naam betekent 'veel meer'. Deze editie is een samenwerking met het Starlite Festival.\n\nSchenken. Rond 15 tot 17 graden. Onthoud: honderdjarige stokken, festivalfles.",
+        "audio": "audio/mucho-mas-starlite-tinto-lang.mp3"
+      },
+      "proef": {
+        "kleur": {
+          "naam": "Robijnrood",
+          "hex": "#8E1B2E"
+        },
+        "geur": {
+          "fruit": [
+            "framboos",
+            "kers"
+          ],
+          "maken": [
+            "vanille",
+            "specerij"
+          ],
+          "rijping": []
+        },
+        "smaak": {
+          "fruit": [
+            "roodfruit"
+          ],
+          "maken": [],
+          "rijping": []
+        }
+      },
+      "bronnen": [
+        {
+          "titel": "Félix Solís – Mucho Más Starlite Special Edition (rood)",
+          "url": "https://www.felixsolis.com/en/wine/mucho-mas-starlite-special-edition/"
+        }
+      ],
+      "zekerheid": "middel",
+      "bijgewerkt": "2026-10-07"
+    },
+    {
+      "id": "mucho-mas-0-0-tinto",
+      "ean": [],
+      "naam": "Mucho Más 0.0 Rood (alcoholvrij)",
+      "producent": "Félix Solís",
+      "druiven": [
+        "Cabernet Sauvignon",
+        "Tempranillo"
+      ],
+      "land": "Spanje",
+      "regio": "Verschillende Spaanse regio's",
+      "appellation": "Vino de España",
+      "kort": {
+        "tekst": "Het wijnweetje van deze fles! Deze wijn is eerst gewoon gemaakt, met alcohol. Pas daarna wordt de alcohol er met een speciaal proces weer uitgehaald.\n\nWat je proeft. Framboos, aardbei en zwarte pruim, met zachte specerij. Zacht en fris.\n\nOnthoud. Alcoholvrij: na openen in de koelkast en binnen twee dagen opdrinken.",
+        "audio": "audio/mucho-mas-0-0-tinto-kort.mp3"
+      },
+      "lang": {
+        "tekst": "Het hele verhaal van deze fles! Wijn zonder alcohol, maar wel met de smaak.\n\nIn je glas. Robijnrood. Je ruikt framboos en aardbei, met zwarte pruim en zachte specerijen.\n\nOp je tong. Zacht, evenwichtig en fris. 0,0 procent alcohol.\n\nDe druif. Cabernet sauvignon en tempranillo.\n\nHoe gemaakt. Eerst wordt gewone wijn gemaakt. Daarna wordt de alcohol eruit gehaald met een proces dat zo min mogelijk aroma's laat verdwijnen.\n\nWaar vandaan. Een blend van druiven uit verschillende Spaanse wijngebieden. Daarom staat er geen streek op het etiket: zo kan de maker het beste uit meerdere regio's combineren.\n\nHet verhaal. Mucho Más wordt gemaakt door Félix Solís, een groot Spaans familiebedrijf uit Valdepeñas. De naam betekent 'veel meer'. De 0.0-lijn is voor wie de smaak wil zonder alcohol.\n\nSchenken. Licht gekoeld schenken. Na openen in de koelkast en binnen twee dagen opdrinken. Onthoud: eerst wijn, dan pas alcoholvrij.",
+        "audio": "audio/mucho-mas-0-0-tinto-lang.mp3"
+      },
+      "proef": {
+        "kleur": {
+          "naam": "Robijnrood",
+          "hex": "#8E1B2E"
+        },
+        "geur": {
+          "fruit": [
+            "framboos",
+            "aardbei",
+            "pruim"
+          ],
+          "maken": [
+            "specerij"
+          ],
+          "rijping": []
+        },
+        "smaak": {
+          "fruit": [
+            "roodfruit"
+          ],
+          "maken": [
+            "specerij"
+          ],
+          "rijping": []
+        }
+      },
+      "bronnen": [
+        {
+          "titel": "Félix Solís – Mucho Más 0.0 Rood (alcoholvrij)",
+          "url": "https://www.felixsolis.com/en/wine/mucho-mas-red-low-alcohol/"
+        }
+      ],
+      "zekerheid": "hoog",
+      "bijgewerkt": "2026-10-07"
+    },
+    {
+      "id": "mucho-mas-blanco",
+      "ean": [],
+      "naam": "Mucho Más Wit",
+      "producent": "Félix Solís",
+      "druiven": [
+        "Verdejo",
+        "Sauvignon Blanc",
+        "Chardonnay"
+      ],
+      "land": "Spanje",
+      "regio": "Verschillende Spaanse regio's",
+      "appellation": "Vino de España",
+      "kort": {
+        "tekst": "Het wijnweetje van deze fles! In deze witte wijn zit een trucje: alleen de chardonnay gaat drie maanden op Frans eikenhout, waarbij de gistresten elke week worden opgeroerd.\n\nWat je proeft. Perzik, abrikoos en citrus, met een rokerig randje. Rijk, met tropisch fruit en vanille.\n\nOnthoud. Opgeroerde gistresten geven een romige textuur.",
+        "audio": "audio/mucho-mas-blanco-kort.mp3"
+      },
+      "lang": {
+        "tekst": "Het hele verhaal van deze fles! Drie druiven, en maar één daarvan mag op hout.\n\nIn je glas. Helder strogeel met groene tinten. Je ruikt perzik en abrikoos, met citrus en een rokerig randje.\n\nOp je tong. Rijk en vol, met tropisch fruit, vanille en een goede frisheid. 12,5 procent alcohol.\n\nDe druif. Verdejo, sauvignon blanc en chardonnay. Verdejo en sauvignon geven frisheid, chardonnay geeft body.\n\nHoe gemaakt. Gisting van 20 tot 25 dagen op roestvrij staal, op maximaal 15 graden. Daarna 2 tot 3 maanden koel op de gistresten. De chardonnay rijpt drie maanden op Frans eikenhout, waarbij de gistresten wekelijks worden opgeroerd.\n\nWaar vandaan. Een blend van druiven uit verschillende Spaanse wijngebieden. Daarom staat er geen streek op het etiket: zo kan de maker het beste uit meerdere regio's combineren.\n\nHet verhaal. Mucho Más wordt gemaakt door Félix Solís, een groot Spaans familiebedrijf uit Valdepeñas. De naam betekent 'veel meer'.\n\nSchenken. Koud, rond 6 tot 8 graden. Bij paella, gegrilde vis of tapas. Onthoud: alleen de chardonnay mag het vat in.",
+        "audio": "audio/mucho-mas-blanco-lang.mp3"
+      },
+      "proef": {
+        "kleur": {
+          "naam": "Helder strogeel",
+          "hex": "#EDE6A8"
+        },
+        "geur": {
+          "fruit": [
+            "perzik",
+            "abrikoos",
+            "citrus"
+          ],
+          "maken": [
+            "geroosterd"
+          ],
+          "rijping": []
+        },
+        "smaak": {
+          "fruit": [
+            "tropisch"
+          ],
+          "maken": [
+            "vanille"
+          ],
+          "rijping": []
+        }
+      },
+      "bronnen": [
+        {
+          "titel": "Félix Solís – Mucho Más Wit",
+          "url": "https://www.felixsolis.com/en/wine/mucho-mas-white/"
+        }
+      ],
+      "zekerheid": "hoog",
+      "bijgewerkt": "2026-10-07"
+    },
+    {
+      "id": "mucho-mas-white-gold",
+      "ean": [],
+      "naam": "Mucho Más White Gold",
+      "producent": "Félix Solís",
+      "druiven": [
+        "Chardonnay",
+        "Sauvignon Blanc",
+        "Albariño",
+        "Verdejo"
+      ],
+      "land": "Spanje",
+      "regio": "Verschillende Spaanse regio's",
+      "appellation": "Vino de España",
+      "kort": {
+        "tekst": "Het wijnweetje van deze fles! Een deel van de albariño rijpt op vaten van Frans eiken én kastanjehout. Kastanje kom je bijna nergens tegen.\n\nWat je proeft. Steenfruit en citrus, met bloemen en een rokerig randje.\n\nOnthoud. Vier druiven en drie soorten hout.",
+        "audio": "audio/mucho-mas-white-gold-kort.mp3"
+      },
+      "lang": {
+        "tekst": "Het hele verhaal van deze fles! De witte topwijn van Mucho Más.\n\nIn je glas. Wit-goud. Je ruikt steenfruit en citrus, met bloemen en een rokerig randje van het hout.\n\nOp je tong. Harmonieus en omhullend, met een lange afdronk. 12,5 procent alcohol.\n\nDe druif. Chardonnay, sauvignon blanc, albariño en verdejo.\n\nHoe gemaakt. De chardonnay rijpt op Amerikaans eiken. De albariño wordt gesplitst: een deel rijpt vier maanden op Frans eiken en kastanjehout, een ander deel vier tot vijf maanden op de gistresten in betonnen tanks.\n\nWaar vandaan. Een blend van druiven uit verschillende Spaanse wijngebieden. Daarom staat er geen streek op het etiket: zo kan de maker het beste uit meerdere regio's combineren.\n\nHet verhaal. Mucho Más wordt gemaakt door Félix Solís, een groot Spaans familiebedrijf uit Valdepeñas. De naam betekent 'veel meer'. White Gold is de witte tegenhanger van Mucho Más Gold.\n\nSchenken. Koud, rond 8 tot 10 graden. Bij vis, zeevruchten of Aziatische gerechten. Onthoud: kastanjehout, een zeldzaamheid.",
+        "audio": "audio/mucho-mas-white-gold-lang.mp3"
+      },
+      "proef": {
+        "kleur": {
+          "naam": "Lichtgoud",
+          "hex": "#EBD27A"
+        },
+        "geur": {
+          "fruit": [
+            "perzik",
+            "citrus",
+            "bloemen"
+          ],
+          "maken": [
+            "geroosterd"
+          ],
+          "rijping": []
+        },
+        "smaak": {
+          "fruit": [
+            "perzik",
+            "citrus"
+          ],
+          "maken": [],
+          "rijping": []
+        }
+      },
+      "bronnen": [
+        {
+          "titel": "Félix Solís – Mucho Más White Gold",
+          "url": "https://www.felixsolis.com/en/wine/mucho-mas-white-gold/"
+        }
+      ],
+      "zekerheid": "hoog",
+      "bijgewerkt": "2026-10-07"
+    },
+    {
+      "id": "mucho-mas-starlite-blanco",
+      "ean": [],
+      "naam": "Mucho Más Starlite Special Edition (wit)",
+      "producent": "Félix Solís",
+      "druiven": [
+        "Verdejo",
+        "Sauvignon Blanc",
+        "Chardonnay"
+      ],
+      "land": "Spanje",
+      "regio": "Verschillende Spaanse regio's",
+      "appellation": "Vino de España",
+      "kort": {
+        "tekst": "Het wijnweetje van deze fles! De witte festivalfles: een speciale editie voor het Starlite Festival.\n\nWat je proeft. Zoete perzik, abrikoos en citrus, met een rokerig randje. Tropisch fruit en een vleugje vanille.\n\nOnthoud. Dezelfde aanpak als de Mucho Más Wit, in festivaljasje.",
+        "audio": "audio/mucho-mas-starlite-blanco-kort.mp3"
+      },
+      "lang": {
+        "tekst": "Het hele verhaal van deze fles! Muziek en wijn, nu in het wit.\n\nIn je glas. Helder strogeel met groene tinten. Je ruikt zoete perzik, abrikoos en citrus.\n\nOp je tong. Elegant, met tropisch fruit, een vleugje vanille en goede frisheid. 12,5 procent alcohol.\n\nDe druif. Verdejo, sauvignon blanc en chardonnay.\n\nHoe gemaakt. De druiven vergisten apart op roestvrij staal, op maximaal 15 graden. Daarna 2 tot 3 maanden op de gistresten. De chardonnay rijpt drie maanden extra op Frans eiken.\n\nWaar vandaan. Een blend van druiven uit verschillende Spaanse wijngebieden. Daarom staat er geen streek op het etiket: zo kan de maker het beste uit meerdere regio's combineren.\n\nHet verhaal. Mucho Más wordt gemaakt door Félix Solís, een groot Spaans familiebedrijf uit Valdepeñas. De naam betekent 'veel meer'. Deze editie is gemaakt voor het Starlite Festival.\n\nSchenken. Koud, rond 6 tot 8 graden. Onthoud: de witte festivalfles.",
+        "audio": "audio/mucho-mas-starlite-blanco-lang.mp3"
+      },
+      "proef": {
+        "kleur": {
+          "naam": "Helder strogeel",
+          "hex": "#EDE6A8"
+        },
+        "geur": {
+          "fruit": [
+            "perzik",
+            "abrikoos",
+            "citrus"
+          ],
+          "maken": [
+            "geroosterd"
+          ],
+          "rijping": []
+        },
+        "smaak": {
+          "fruit": [
+            "tropisch"
+          ],
+          "maken": [
+            "vanille"
+          ],
+          "rijping": []
+        }
+      },
+      "bronnen": [
+        {
+          "titel": "Félix Solís – Mucho Más Starlite Special Edition (wit)",
+          "url": "https://www.felixsolis.com/en/wine/mucho-mas-white-special-edition-starlite/"
+        }
+      ],
+      "zekerheid": "hoog",
+      "bijgewerkt": "2026-10-07"
+    },
+    {
+      "id": "mucho-mas-0-0-blanco",
+      "ean": [],
+      "naam": "Mucho Más 0.0 Wit (alcoholvrij)",
+      "producent": "Félix Solís",
+      "druiven": [
+        "Sauvignon Blanc"
+      ],
+      "land": "Spanje",
+      "regio": "Verschillende Spaanse regio's",
+      "appellation": "Vino de España",
+      "kort": {
+        "tekst": "Het wijnweetje van deze fles! Alcoholvrij, maar wel begonnen als echte sauvignon blanc. De alcohol wordt er pas later uitgehaald.\n\nWat je proeft. Tropisch fruit en citrus. Intens, smakelijk en fris.\n\nOnthoud. Na openen in de koelkast en binnen twee dagen opdrinken.",
+        "audio": "audio/mucho-mas-0-0-blanco-kort.mp3"
+      },
+      "lang": {
+        "tekst": "Het hele verhaal van deze fles! Een sauvignon blanc zonder alcohol.\n\nIn je glas. Strogeel met groene tinten. Je ruikt tropisch fruit en citrus.\n\nOp je tong. Intens, smakelijk en in balans. 0,0 procent alcohol.\n\nDe druif. Sauvignon blanc, bekend om zijn frisse, uitbundige aroma's.\n\nHoe gemaakt. Eerst wordt gewone wijn gemaakt, daarna wordt de alcohol eruit gehaald met een proces dat de aroma's zo veel mogelijk bewaart. Vegan.\n\nWaar vandaan. Een blend van druiven uit verschillende Spaanse wijngebieden. Daarom staat er geen streek op het etiket: zo kan de maker het beste uit meerdere regio's combineren.\n\nHet verhaal. Mucho Más wordt gemaakt door Félix Solís, een groot Spaans familiebedrijf uit Valdepeñas. De naam betekent 'veel meer'.\n\nSchenken. Koud, rond 8 tot 10 graden. Onthoud: eerst wijn, dan alcoholvrij.",
+        "audio": "audio/mucho-mas-0-0-blanco-lang.mp3"
+      },
+      "proef": {
+        "kleur": {
+          "naam": "Strogeel",
+          "hex": "#EDE6A8"
+        },
+        "geur": {
+          "fruit": [
+            "tropisch",
+            "citrus"
+          ],
+          "maken": [],
+          "rijping": []
+        },
+        "smaak": {
+          "fruit": [
+            "tropisch",
+            "citrus"
+          ],
+          "maken": [],
+          "rijping": []
+        }
+      },
+      "bronnen": [
+        {
+          "titel": "Félix Solís – Mucho Más 0.0 Wit (alcoholvrij)",
+          "url": "https://www.felixsolis.com/en/wine/mucho-mas-white-low-alcohol/"
+        }
+      ],
+      "zekerheid": "hoog",
+      "bijgewerkt": "2026-10-07"
+    },
+    {
+      "id": "mucho-mas-rosado",
+      "ean": [],
+      "naam": "Mucho Más Rosé",
+      "producent": "Félix Solís",
+      "druiven": [
+        "Garnacha",
+        "Tempranillo"
+      ],
+      "land": "Spanje",
+      "regio": "Verschillende Spaanse regio's",
+      "appellation": "Vino de España",
+      "kort": {
+        "tekst": "Het wijnweetje van deze fles! De bleke kleur is geen toeval. De schillen mogen maar 2 tot 3 uur in het sap liggen, precies lang genoeg voor een vleugje roze.\n\nWat je proeft. Rood fruit. Fris, met een zacht zoetje.\n\nOnthoud. Kort schilcontact betekent een bleke rosé.",
+        "audio": "audio/mucho-mas-rosado-kort.mp3"
+      },
+      "lang": {
+        "tekst": "Het hele verhaal van deze fles! Een rosé die op de minuut wordt gemaakt.\n\nIn je glas. Bleekroze met heldere glans. Je ruikt rood fruit.\n\nOp je tong. Fris en toegankelijk, met fruit, frisse zuren en een zoet randje. 12,5 procent alcohol.\n\nDe druif. Garnacha en tempranillo.\n\nHoe gemaakt. Elke druif wordt apart behandeld, met maar 2 tot 3 uur schilcontact. Daarna zacht persen en koel vergisten op 12 tot 14 graden, gevolgd door 3 tot 4 maanden op de gistresten.\n\nWaar vandaan. Een blend van druiven uit verschillende Spaanse wijngebieden. Daarom staat er geen streek op het etiket: zo kan de maker het beste uit meerdere regio's combineren.\n\nHet verhaal. Mucho Más wordt gemaakt door Félix Solís, een groot Spaans familiebedrijf uit Valdepeñas. De naam betekent 'veel meer'.\n\nSchenken. Koud, rond 8 tot 10 graden. Bij voorgerechten, vis en zeevruchten. Onthoud: twee uur schilcontact, en dat zie je.",
+        "audio": "audio/mucho-mas-rosado-lang.mp3"
+      },
+      "proef": {
+        "kleur": {
+          "naam": "Bleekroze",
+          "hex": "#F6CFC4"
+        },
+        "geur": {
+          "fruit": [
+            "roodfruit"
+          ],
+          "maken": [],
+          "rijping": []
+        },
+        "smaak": {
+          "fruit": [
+            "roodfruit"
+          ],
+          "maken": [],
+          "rijping": []
+        }
+      },
+      "bronnen": [
+        {
+          "titel": "Félix Solís – Mucho Más Rosé",
+          "url": "https://www.felixsolis.com/en/wine/mucho-mas-rose/"
+        }
+      ],
+      "zekerheid": "hoog",
+      "bijgewerkt": "2026-10-07"
+    },
+    {
+      "id": "mucho-mas-sparkling",
+      "ean": [],
+      "naam": "Mucho Más Sparkling",
+      "producent": "Félix Solís",
+      "druiven": [
+        "Viura",
+        "Chardonnay"
+      ],
+      "land": "Spanje",
+      "regio": "Verschillende Spaanse regio's",
+      "appellation": "Vino de España",
+      "kort": {
+        "tekst": "Het wijnweetje van deze fles! Deze bubbels worden gemaakt zoals champagne: de tweede gisting gebeurt in de fles.\n\nWat je proeft. Geroosterde vanille en brioche. Rijpe citrus, steenfruit en een romige afdronk.\n\nOnthoud. Traditionele methode: bubbels uit de fles zelf.",
+        "audio": "audio/mucho-mas-sparkling-kort.mp3"
+      },
+      "lang": {
+        "tekst": "Het hele verhaal van deze fles! Spaanse bubbels op de champagnemanier.\n\nIn je glas. Helder geel. Je ruikt geroosterde vanille en brioche.\n\nOp je tong. Rijpe citrus en steenfruit, met een romige afdronk. 11,5 procent alcohol.\n\nDe druif. Viura en chardonnay. De chardonnay vergist op nieuw Frans en Amerikaans eiken.\n\nHoe gemaakt. Traditionele methode: na de tweede gisting in de fles rijpt de wijn 6 tot 12 weken op de gistresten.\n\nWaar vandaan. Een blend van druiven uit verschillende Spaanse wijngebieden. Daarom staat er geen streek op het etiket: zo kan de maker het beste uit meerdere regio's combineren.\n\nHet verhaal. Mucho Más wordt gemaakt door Félix Solís, een groot Spaans familiebedrijf uit Valdepeñas. De naam betekent 'veel meer'. In 2024 won hij Gran Gold bij de China Wine & Spirits Awards.\n\nSchenken. Koud, rond 8 tot 10 graden. Onthoud: zelfde methode als champagne.",
+        "audio": "audio/mucho-mas-sparkling-lang.mp3"
+      },
+      "proef": {
+        "kleur": {
+          "naam": "Helder geel",
+          "hex": "#EBD27A"
+        },
+        "geur": {
+          "fruit": [],
+          "maken": [
+            "brioche",
+            "vanille"
+          ],
+          "rijping": []
+        },
+        "smaak": {
+          "fruit": [
+            "citrus",
+            "perzik"
+          ],
+          "maken": [
+            "room"
+          ],
+          "rijping": []
+        }
+      },
+      "bronnen": [
+        {
+          "titel": "Félix Solís – Mucho Más Sparkling",
+          "url": "https://www.felixsolis.com/en/wine/mucho-mas-sparkling-wine/"
+        }
+      ],
+      "zekerheid": "hoog",
+      "bijgewerkt": "2026-10-07"
+    },
+    {
+      "id": "mucho-mas-sparkling-rose",
+      "ean": [],
+      "naam": "Mucho Más Sparkling Rosé",
+      "producent": "Félix Solís",
+      "druiven": [
+        "Garnacha",
+        "Tempranillo"
+      ],
+      "land": "Spanje",
+      "regio": "Verschillende Spaanse regio's",
+      "appellation": "Vino de España",
+      "kort": {
+        "tekst": "Het wijnweetje van deze fles! Vroeg geoogst voor frisheid, en dan met fijne bubbels in een bleekroze jas.\n\nWat je proeft. Peer en framboos, met een licht zoetje.\n\nOnthoud. Vroeg oogsten houdt de zuren fris.",
+        "audio": "audio/mucho-mas-sparkling-rose-kort.mp3"
+      },
+      "lang": {
+        "tekst": "Het hele verhaal van deze fles! Roze bubbels uit Spanje.\n\nIn je glas. Bleekroze, met een fijne, aanhoudende mousse.\n\nOp je tong. Peer en framboos, met subtiele zoete tonen en verfrissende bubbels. 11 procent alcohol.\n\nDe druif. Garnacha en tempranillo van oudere stokken.\n\nHoe gemaakt. De druiven worden vroeg geoogst voor frisheid en aroma. Welke methode precies? Daar is helaas een flinke vlek rode wijn overheen gegaan in mijn aantekeningen.\n\nWaar vandaan. Een blend van druiven uit verschillende Spaanse wijngebieden. Daarom staat er geen streek op het etiket: zo kan de maker het beste uit meerdere regio's combineren.\n\nHet verhaal. Mucho Más wordt gemaakt door Félix Solís, een groot Spaans familiebedrijf uit Valdepeñas. De naam betekent 'veel meer'. Deze rosé won goud bij de Berliner Wine Trophy.\n\nSchenken. Koud, rond 8 tot 10 graden, als aperitief of bij cheesecake. Onthoud: vroeg geoogst, fris gebleven.",
+        "audio": "audio/mucho-mas-sparkling-rose-lang.mp3"
+      },
+      "proef": {
+        "kleur": {
+          "naam": "Bleekroze",
+          "hex": "#F6CFC4"
+        },
+        "geur": {
+          "fruit": [
+            "peer",
+            "framboos"
+          ],
+          "maken": [],
+          "rijping": []
+        },
+        "smaak": {
+          "fruit": [
+            "peer",
+            "framboos"
+          ],
+          "maken": [],
+          "rijping": []
+        }
+      },
+      "bronnen": [
+        {
+          "titel": "Félix Solís – Mucho Más Sparkling Rosé",
+          "url": "https://www.felixsolis.com/en/wine/mucho-mas-sparkling-rose/"
+        }
+      ],
+      "zekerheid": "middel",
+      "bijgewerkt": "2026-10-07"
+    },
+    {
+      "id": "mucho-mas-0-0-sparkling",
+      "ean": [],
+      "naam": "Mucho Más 0.0 Sparkling (alcoholvrij)",
+      "producent": "Félix Solís",
+      "druiven": [
+        "Sauvignon Blanc"
+      ],
+      "land": "Spanje",
+      "regio": "Verschillende Spaanse regio's",
+      "appellation": "Vino de España",
+      "kort": {
+        "tekst": "Het wijnweetje van deze fles! Alcoholvrije bubbels die in 2026 'Best of Show' werden bij Mundus Vini.\n\nWat je proeft. Sappige citrus. Fris en zesty.\n\nOnthoud. Na openen in de koelkast en binnen twee dagen opdrinken.",
+        "audio": "audio/mucho-mas-0-0-sparkling-kort.mp3"
+      },
+      "lang": {
+        "tekst": "Het hele verhaal van deze fles! Bubbels zonder alcohol.\n\nIn je glas. Lichtgeel, met bubbels. Je ruikt sappige citrus.\n\nOp je tong. Fris en zesty. 0,0 procent alcohol.\n\nDe druif. Sauvignon blanc.\n\nHoe gemaakt. Eerst wordt wijn gemaakt, daarna wordt de alcohol eruit gehaald zonder de aroma's te verliezen. Vegan.\n\nWaar vandaan. Een blend van druiven uit verschillende Spaanse wijngebieden. Daarom staat er geen streek op het etiket: zo kan de maker het beste uit meerdere regio's combineren.\n\nHet verhaal. Mucho Más wordt gemaakt door Félix Solís, een groot Spaans familiebedrijf uit Valdepeñas. De naam betekent 'veel meer'.\n\nSchenken. Koud, rond 8 tot 10 graden. Onthoud: proosten zonder alcohol.",
+        "audio": "audio/mucho-mas-0-0-sparkling-lang.mp3"
+      },
+      "proef": {
+        "kleur": {
+          "naam": "Lichtgeel",
+          "hex": "#EFE9B2"
+        },
+        "geur": {
+          "fruit": [
+            "citrus"
+          ],
+          "maken": [],
+          "rijping": []
+        },
+        "smaak": {
+          "fruit": [
+            "citrus"
+          ],
+          "maken": [],
+          "rijping": []
+        }
+      },
+      "bronnen": [
+        {
+          "titel": "Félix Solís – Mucho Más 0.0 Sparkling (alcoholvrij)",
+          "url": "https://www.felixsolis.com/en/wine/mucho-mas-0-0-sparkling-white/"
+        }
+      ],
+      "zekerheid": "hoog",
+      "bijgewerkt": "2026-10-07"
+    },
+    {
+      "id": "bernardus-marinus",
+      "ean": [],
+      "naam": "Bernardus Marinus",
+      "producent": "Bernardus Winery",
+      "druiven": [
+        "Petit Verdot",
+        "Merlot",
+        "Cabernet Sauvignon",
+        "Cabernet Franc"
+      ],
+      "land": "Verenigde Staten",
+      "regio": "Carmel Valley",
+      "appellation": "Carmel Valley",
+      "kort": {
+        "tekst": "Het wijnweetje van deze fles! Een Californische topwijn van een Nederlander: Ben Pon, autoimporteur en Porsche-coureur, begon Bernardus in 1989.\n\nWat je proeft. Zwarte kers en boysenbes met geroosterd hout. In de mond rijpe kers en pruim, met stevige tannines.\n\nOnthoud. Marinus is de Bordeaux-blend van het huis.",
+        "audio": "audio/bernardus-marinus-kort.mp3"
+      },
+      "lang": {
+        "tekst": "Het hele verhaal van deze fles! Een Bordeaux-blend uit Californië, met Nederlandse roots.\n\nIn je glas. Heel diep karmozijnrood. Je ruikt zwarte kers en boysenbes, met een subtiele geroosterde houttoon.\n\nOp je tong. Intens, met rijpe zwarte kers en pruim en een stevige tanninestructuur. 13,9 procent alcohol.\n\nDe druif. Een Bordeaux-blend: in 2017 35 procent petit verdot, 30 procent merlot, 26 procent cabernet sauvignon en 9 procent cabernet franc.\n\nHoe gemaakt. Elke druif rijpt apart, minstens 18 maanden op honderd procent Frans eikenhout, voordat de blend wordt gemaakt.\n\nWaar vandaan. De Marinus-wijngaard in de Carmel Valley, diep landinwaarts in Monterey County.\n\nHet verhaal. Bernardus werd in 1989 opgericht door de Nederlander Bernardus 'Ben' Pon, autoimporteur en Porsche-coureur. Hij koos de Carmel Valley om de westelijke ligging, de hete dagen en de koude nachten. Na zijn overlijden in 2019 kwam het in handen van een andere Nederlander, Robert van der Wallen.\n\nSchenken. Rond 17 tot 18 graden, bij rood vlees. Onthoud: Bordeaux-druiven, Californische zon, Nederlandse eigenaar.",
+        "audio": "audio/bernardus-marinus-lang.mp3"
+      },
+      "proef": {
+        "kleur": {
+          "naam": "Diep karmozijnrood",
+          "hex": "#4A0F20"
+        },
+        "geur": {
+          "fruit": [
+            "kers",
+            "braam"
+          ],
+          "maken": [
+            "geroosterd"
+          ],
+          "rijping": []
+        },
+        "smaak": {
+          "fruit": [
+            "kers",
+            "pruim"
+          ],
+          "maken": [],
+          "rijping": []
+        }
+      },
+      "bronnen": [
+        {
+          "titel": "Bernardus – The Story",
+          "url": "https://www.bernardus.com/the-story/"
+        },
+        {
+          "titel": "Bernardus – technische fiche Marinus 2017",
+          "url": "https://www.bernardus.com/wp-content/uploads/2025/09/2017-Marinus-.pdf"
+        }
+      ],
+      "zekerheid": "hoog",
+      "bijgewerkt": "2026-10-07"
+    },
+    {
+      "id": "bernardus-monterey-chardonnay",
+      "ean": [],
+      "naam": "Bernardus Monterey County Chardonnay",
+      "producent": "Bernardus Winery",
+      "druiven": [
+        "Chardonnay"
+      ],
+      "land": "Verenigde Staten",
+      "regio": "Monterey County",
+      "appellation": "Monterey",
+      "kort": {
+        "tekst": "Het wijnweetje van deze fles! In Monterey County trekt 's middags zeemist het land in. Die koelte geeft chardonnay frisheid naast de rijpheid.\n\nWat je proeft. Rijpe perzik, tropisch fruit en vanille. Vol, met gebakken appel en vijg.\n\nOnthoud. Zeemist houdt de zuren fris.",
+        "audio": "audio/bernardus-monterey-chardonnay-kort.mp3"
+      },
+      "lang": {
+        "tekst": "Het hele verhaal van deze fles! Een chardonnay van de mistige kust van Californië.\n\nIn je glas. Goudgeel. Je ruikt rijpe perzik en tropisch fruit, met vanille en subtiel geroosterd hout.\n\nOp je tong. Rijk en vol, met gebakken appel en vijg, in balans gehouden door frisse zuren. Rond de 14 procent alcohol.\n\nDe druif. Chardonnay, met zo'n 40 procent van de wijngaarden de belangrijkste druif van Monterey County.\n\nHoe gemaakt. De vanille en geroosterde tonen wijzen op eikenhout. Hoe lang precies? Ik heb te diep in het glas gekeken, dus dat stukje van het verhaal ben ik even kwijt.\n\nWaar vandaan. Monterey County, aan de Californische kust. Koele oceaanmist zorgt voor een goede balans tussen suiker en zuren.\n\nHet verhaal. Bernardus werd in 1989 opgericht door de Nederlander Bernardus 'Ben' Pon, autoimporteur en Porsche-coureur. Hij koos de Carmel Valley om de westelijke ligging, de hete dagen en de koude nachten. Na zijn overlijden in 2019 kwam het in handen van een andere Nederlander, Robert van der Wallen.\n\nSchenken. Rond 10 tot 12 graden, bij kreeft of gevogelte. Onthoud: zeemist geeft frisheid.",
+        "audio": "audio/bernardus-monterey-chardonnay-lang.mp3"
+      },
+      "proef": {
+        "kleur": {
+          "naam": "Goudgeel",
+          "hex": "#E3BC4E"
+        },
+        "geur": {
+          "fruit": [
+            "perzik",
+            "tropisch"
+          ],
+          "maken": [
+            "vanille",
+            "geroosterd"
+          ],
+          "rijping": []
+        },
+        "smaak": {
+          "fruit": [
+            "appel",
+            "vijg"
+          ],
+          "maken": [],
+          "rijping": []
+        }
+      },
+      "bronnen": [
+        {
+          "titel": "Bernardus – The Story",
+          "url": "https://www.bernardus.com/the-story/"
+        },
+        {
+          "titel": "Wine.com – Bernardus Monterey County Chardonnay",
+          "url": "https://www.wine.com/product/bernardus-monterey-county-chardonnay-2012/119704"
+        }
+      ],
+      "zekerheid": "middel",
+      "bijgewerkt": "2026-10-07"
+    },
+    {
+      "id": "bernardus-santa-lucia-highlands-pinot-noir",
+      "ean": [],
+      "naam": "Bernardus Santa Lucia Highlands Pinot Noir",
+      "producent": "Bernardus Winery",
+      "druiven": [
+        "Pinot Noir"
+      ],
+      "land": "Verenigde Staten",
+      "regio": "Santa Lucia Highlands",
+      "appellation": "Santa Lucia Highlands",
+      "kort": {
+        "tekst": "Het wijnweetje van deze fles! De Santa Lucia Highlands geldt als een van de beste pinot noir-gebieden ter wereld. Bernardus blendt hier druiven van meerdere wijngaarden.\n\nWat je proeft. Rijpe kers en cranberry met specerij. In de mond pruim en boysenbes, met een zachte afdronk.\n\nOnthoud. Zeven maanden Frans eiken.",
+        "audio": "audio/bernardus-santa-lucia-highlands-pinot-noir-kort.mp3"
+      },
+      "lang": {
+        "tekst": "Het hele verhaal van deze fles! Pinot noir van een van de beste hellingen van Californië.\n\nIn je glas. Helder robijnrood. Je ruikt rijpe kers en een vleugje cranberry, met specerij.\n\nOp je tong. Diepe pruim en boysenbes, met een zachte afdronk. 14,1 procent alcohol.\n\nDe druif. Pinot noir: dunne schil, veel elegantie.\n\nHoe gemaakt. Zeven maanden op honderd procent Frans eikenhout.\n\nWaar vandaan. Santa Lucia Highlands in Monterey County.\n\nHet verhaal. Bernardus werd in 1989 opgericht door de Nederlander Bernardus 'Ben' Pon, autoimporteur en Porsche-coureur. Hij koos de Carmel Valley om de westelijke ligging, de hete dagen en de koude nachten. Na zijn overlijden in 2019 kwam het in handen van een andere Nederlander, Robert van der Wallen.\n\nSchenken. Licht gekoeld, rond 14 tot 16 graden. Bij eend of zalm. Onthoud: een van de beste pinotplekken van Californië.",
+        "audio": "audio/bernardus-santa-lucia-highlands-pinot-noir-lang.mp3"
+      },
+      "proef": {
+        "kleur": {
+          "naam": "Helder robijnrood",
+          "hex": "#A2283A"
+        },
+        "geur": {
+          "fruit": [
+            "kers",
+            "rodebes"
+          ],
+          "maken": [
+            "specerij"
+          ],
+          "rijping": []
+        },
+        "smaak": {
+          "fruit": [
+            "pruim",
+            "braam"
+          ],
+          "maken": [],
+          "rijping": []
+        }
+      },
+      "bronnen": [
+        {
+          "titel": "Bernardus – The Story",
+          "url": "https://www.bernardus.com/the-story/"
+        },
+        {
+          "titel": "Bernardus – technische fiche SLH Pinot Noir 2023",
+          "url": "https://www.bernardus.com/wp-content/uploads/2025/08/2023-SLH-Pinot-Noir.pdf"
+        }
+      ],
+      "zekerheid": "hoog",
+      "bijgewerkt": "2026-10-07"
+    },
+    {
+      "id": "bernardus-griva-sauvignon-blanc",
+      "ean": [],
+      "naam": "Bernardus Griva Vineyard Sauvignon Blanc",
+      "producent": "Bernardus Winery",
+      "druiven": [
+        "Sauvignon Blanc",
+        "Sémillon"
+      ],
+      "land": "Verenigde Staten",
+      "regio": "Arroyo Seco",
+      "appellation": "Arroyo Seco",
+      "kort": {
+        "tekst": "Het wijnweetje van deze fles! Deze sauvignon is gemaakt van de 'Musqué'-kloon: een extra geurige variant van de druif.\n\nWat je proeft. Grapefruit, kamperfoelie en leisteen, met kruiden. In de mond kweepeer, kiwi en abrikoos.\n\nOnthoud. Musqué betekent muskusachtig: extra aromatisch.",
+        "audio": "audio/bernardus-griva-sauvignon-blanc-kort.mp3"
+      },
+      "lang": {
+        "tekst": "Het hele verhaal van deze fles! Een sauvignon die naar bloemen en leisteen ruikt.\n\nIn je glas. Briljant lichtgoud. Je ruikt grapefruit, kamperfoelie en leisteen, met groene thee, guave, verse kruiden en kamille.\n\nOp je tong. Rijp boomgaardfruit zoals kweepeer, kiwi en abrikoos, met bijenwas en pomelo. Een lange afdronk met een fris zuurtje.\n\nDe druif. Sauvignon blanc van de Musqué-kloon, met een klein beetje sémillon.\n\nHoe gemaakt. Koel vergist op roestvrij staal, daarna enkele maanden op grote, neutrale Franse eiken vaten. Neutraal betekent: het hout geeft structuur, maar nauwelijks smaak.\n\nWaar vandaan. De Griva-wijngaard in Arroyo Seco, Monterey, aangeplant in 1997.\n\nHet verhaal. Bernardus werd in 1989 opgericht door de Nederlander Bernardus 'Ben' Pon, autoimporteur en Porsche-coureur. Hij koos de Carmel Valley om de westelijke ligging, de hete dagen en de koude nachten. Na zijn overlijden in 2019 kwam het in handen van een andere Nederlander, Robert van der Wallen.\n\nSchenken. Koud, rond 8 tot 10 graden. Bij vis of geitenkaas. Onthoud: Musqué is de geurige variant.",
+        "audio": "audio/bernardus-griva-sauvignon-blanc-lang.mp3"
+      },
+      "proef": {
+        "kleur": {
+          "naam": "Lichtgoud",
+          "hex": "#EBD27A"
+        },
+        "geur": {
+          "fruit": [
+            "citrus",
+            "bloemen",
+            "mineraal",
+            "kruiden"
+          ],
+          "maken": [],
+          "rijping": []
+        },
+        "smaak": {
+          "fruit": [
+            "peer",
+            "abrikoos"
+          ],
+          "maken": [],
+          "rijping": []
+        }
+      },
+      "bronnen": [
+        {
+          "titel": "Bernardus – The Story",
+          "url": "https://www.bernardus.com/the-story/"
+        },
+        {
+          "titel": "BevX – Bernardus Griva Vineyard Sauvignon Blanc",
+          "url": "https://bevx.com/bow/bernardus-griva-vineyard-sauvignon-blanc-23"
+        }
+      ],
+      "zekerheid": "hoog",
+      "bijgewerkt": "2026-10-07"
+    },
+    {
+      "id": "bernardus-rosellas-pinot-noir",
+      "ean": [],
+      "naam": "Bernardus Rosella's Vineyard Pinot Noir",
+      "producent": "Bernardus Winery",
+      "druiven": [
+        "Pinot Noir"
+      ],
+      "land": "Verenigde Staten",
+      "regio": "Santa Lucia Highlands",
+      "appellation": "Santa Lucia Highlands",
+      "kort": {
+        "tekst": "Het wijnweetje van deze fles! Rosella's is een van de bekendste wijngaarden van de Santa Lucia Highlands. Deze pinot komt alleen van die ene plek.\n\nWat je proeft. Een kern van kers met tonen van cola en mokka, en harmonieuze tannines.\n\nOnthoud. Elke wijngaard proeft anders.",
+        "audio": "audio/bernardus-rosellas-pinot-noir-kort.mp3"
+      },
+      "lang": {
+        "tekst": "Het hele verhaal van deze fles! Een pinot noir van één wijngaard: Rosella's Vineyard.\n\nIn je glas. Roodpaars. Je ruikt kersen, donkere aardbeien en specerij.\n\nOp je tong. Een kern van kers met tonen van cola en mokka, en harmonieuze tannines.\n\nDe druif. Pinot noir. Bij één wijngaard proef je die specifieke plek: de bodem, de ligging, het microklimaat.\n\nHoe gemaakt. Rijping van tien maanden op Frans eikenhout, waarvan ongeveer 40 procent nieuw. Nieuwe vaten geven meer houtsmaak dan gebruikte.\n\nWaar vandaan. De Rosella's Vineyard in de Santa Lucia Highlands, Monterey County.\n\nHet verhaal. Bernardus werd in 1989 opgericht door de Nederlander Bernardus 'Ben' Pon, autoimporteur en Porsche-coureur. Hij koos de Carmel Valley om de westelijke ligging, de hete dagen en de koude nachten. Na zijn overlijden in 2019 kwam het in handen van een andere Nederlander, Robert van der Wallen.\n\nSchenken. Licht gekoeld, rond 15 graden. Bij eend, paddenstoelen of zalm. Onthoud: één wijngaard, één karakter.",
+        "audio": "audio/bernardus-rosellas-pinot-noir-lang.mp3"
+      },
+      "proef": {
+        "kleur": {
+          "naam": "Roodpaars",
+          "hex": "#6E1A3A"
+        },
+        "geur": {
+          "fruit": [
+            "kers",
+            "aardbei"
+          ],
+          "maken": [
+            "specerij"
+          ],
+          "rijping": []
+        },
+        "smaak": {
+          "fruit": [
+            "kers"
+          ],
+          "maken": [
+            "koffie"
+          ],
+          "rijping": []
+        }
+      },
+      "bronnen": [
+        {
+          "titel": "Bernardus – The Story",
+          "url": "https://www.bernardus.com/the-story/"
+        },
+        {
+          "titel": "Prince of Pinot – Bernardus Winery",
+          "url": "https://www.princeofpinot.com/article/1498"
+        }
+      ],
+      "zekerheid": "middel",
+      "bijgewerkt": "2026-10-07"
+    },
+    {
+      "id": "bernardus-soberanes-pinot-noir",
+      "ean": [],
+      "naam": "Bernardus Soberanes Vineyard Pinot Noir",
+      "producent": "Bernardus Winery",
+      "druiven": [
+        "Pinot Noir"
+      ],
+      "land": "Verenigde Staten",
+      "regio": "Santa Lucia Highlands",
+      "appellation": "Santa Lucia Highlands",
+      "kort": {
+        "tekst": "Het wijnweetje van deze fles! Soberanes is een van de zeven wijngaarden waar Bernardus mee werkt. Deze pinot laat precies die plek proeven.\n\nWat je proeft. Donkere kersen en bramen, met geïntegreerde tannines en een lange afdronk.\n\nOnthoud. Elke wijngaard proeft anders.",
+        "audio": "audio/bernardus-soberanes-pinot-noir-kort.mp3"
+      },
+      "lang": {
+        "tekst": "Het hele verhaal van deze fles! Een pinot noir van één wijngaard: Soberanes Vineyard.\n\nIn je glas. Middel roodpaars. Je ruikt zwarte kers, bramenjam, cassis en gezette thee, met hout.\n\nOp je tong. Donkere kersen en bramen, met geïntegreerde tannines en een lange afdronk.\n\nDe druif. Pinot noir. Bij één wijngaard proef je die specifieke plek: de bodem, de ligging, het microklimaat.\n\nHoe gemaakt. Rijping van tien maanden op Frans eikenhout, waarvan ongeveer 40 procent nieuw. Nieuwe vaten geven meer houtsmaak dan gebruikte.\n\nWaar vandaan. De Soberanes Vineyard in de Santa Lucia Highlands, Monterey County.\n\nHet verhaal. Bernardus werd in 1989 opgericht door de Nederlander Bernardus 'Ben' Pon, autoimporteur en Porsche-coureur. Hij koos de Carmel Valley om de westelijke ligging, de hete dagen en de koude nachten. Na zijn overlijden in 2019 kwam het in handen van een andere Nederlander, Robert van der Wallen.\n\nSchenken. Licht gekoeld, rond 15 graden. Bij eend, paddenstoelen of zalm. Onthoud: één wijngaard, één karakter.",
+        "audio": "audio/bernardus-soberanes-pinot-noir-lang.mp3"
+      },
+      "proef": {
+        "kleur": {
+          "naam": "Middel roodpaars",
+          "hex": "#6E1A3A"
+        },
+        "geur": {
+          "fruit": [
+            "kers",
+            "braam",
+            "zwartebes"
+          ],
+          "maken": [
+            "eikenhout"
+          ],
+          "rijping": []
+        },
+        "smaak": {
+          "fruit": [
+            "kers",
+            "braam"
+          ],
+          "maken": [],
+          "rijping": []
+        }
+      },
+      "bronnen": [
+        {
+          "titel": "Bernardus – The Story",
+          "url": "https://www.bernardus.com/the-story/"
+        },
+        {
+          "titel": "Prince of Pinot – Bernardus Winery",
+          "url": "https://www.princeofpinot.com/article/1498"
+        }
+      ],
+      "zekerheid": "middel",
+      "bijgewerkt": "2026-10-07"
+    },
+    {
+      "id": "bernardus-garys-pinot-noir",
+      "ean": [],
+      "naam": "Bernardus Garys' Vineyard Pinot Noir",
+      "producent": "Bernardus Winery",
+      "druiven": [
+        "Pinot Noir"
+      ],
+      "land": "Verenigde Staten",
+      "regio": "Santa Lucia Highlands",
+      "appellation": "Santa Lucia Highlands",
+      "kort": {
+        "tekst": "Het wijnweetje van deze fles! Garys' Vineyard is vernoemd naar twee wijnboeren die allebei Gary heetten. Vandaar de apostrof achter de s.\n\nWat je proeft. Diep rood kersen- en bessenfruit, met een zachte textuur.\n\nOnthoud. Elke wijngaard proeft anders.",
+        "audio": "audio/bernardus-garys-pinot-noir-kort.mp3"
+      },
+      "lang": {
+        "tekst": "Het hele verhaal van deze fles! Een pinot noir van één wijngaard: Garys' Vineyard.\n\nIn je glas. Vrij donker roodpaars. Je ruikt donkerrode kersen, bessen en kruidig hout.\n\nOp je tong. Diep rood kersen- en bessenfruit, met een zachte textuur.\n\nDe druif. Pinot noir. Bij één wijngaard proef je die specifieke plek: de bodem, de ligging, het microklimaat.\n\nHoe gemaakt. Rijping van tien maanden op Frans eikenhout, waarvan ongeveer 40 procent nieuw. Nieuwe vaten geven meer houtsmaak dan gebruikte.\n\nWaar vandaan. De Garys' Vineyard in de Santa Lucia Highlands, Monterey County.\n\nHet verhaal. Bernardus werd in 1989 opgericht door de Nederlander Bernardus 'Ben' Pon, autoimporteur en Porsche-coureur. Hij koos de Carmel Valley om de westelijke ligging, de hete dagen en de koude nachten. Na zijn overlijden in 2019 kwam het in handen van een andere Nederlander, Robert van der Wallen.\n\nSchenken. Licht gekoeld, rond 15 graden. Bij eend, paddenstoelen of zalm. Onthoud: één wijngaard, één karakter.",
+        "audio": "audio/bernardus-garys-pinot-noir-lang.mp3"
+      },
+      "proef": {
+        "kleur": {
+          "naam": "Donker roodpaars",
+          "hex": "#5A1238"
+        },
+        "geur": {
+          "fruit": [
+            "kers",
+            "rodebes"
+          ],
+          "maken": [
+            "specerij"
+          ],
+          "rijping": []
+        },
+        "smaak": {
+          "fruit": [
+            "kers",
+            "rodebes"
+          ],
+          "maken": [],
+          "rijping": []
+        }
+      },
+      "bronnen": [
+        {
+          "titel": "Bernardus – The Story",
+          "url": "https://www.bernardus.com/the-story/"
+        },
+        {
+          "titel": "Prince of Pinot – Bernardus Winery",
+          "url": "https://www.princeofpinot.com/article/1498"
+        }
+      ],
+      "zekerheid": "middel",
+      "bijgewerkt": "2026-10-07"
+    },
+    {
+      "id": "bernardus-sierra-mar-pinot-noir",
+      "ean": [],
+      "naam": "Bernardus Sierra Mar Pinot Noir",
+      "producent": "Bernardus Winery",
+      "druiven": [
+        "Pinot Noir"
+      ],
+      "land": "Verenigde Staten",
+      "regio": "Santa Lucia Highlands",
+      "appellation": "Santa Lucia Highlands",
+      "kort": {
+        "tekst": "Het wijnweetje van deze fles! Sierra Mar is Spaans voor 'bergketen' en 'zee'. Deze pinot komt van één enkele wijngaard in de Santa Lucia Highlands.\n\nWat je proeft. Lagen van zwarte kers, zwarte framboos en pruim, met aardse tonen.\n\nOnthoud. Elke wijngaard proeft anders.",
+        "audio": "audio/bernardus-sierra-mar-pinot-noir-kort.mp3"
+      },
+      "lang": {
+        "tekst": "Het hele verhaal van deze fles! Een pinot noir van één wijngaard: Sierra Mar-wijngaard.\n\nIn je glas. Middel roodpaars. Je ruikt zwarte kersentaart en ingekookte pruim, met hout.\n\nOp je tong. Lagen van zwarte kers, zwarte framboos en pruim, met aardse tonen.\n\nDe druif. Pinot noir. Bij één wijngaard proef je die specifieke plek: de bodem, de ligging, het microklimaat.\n\nHoe gemaakt. Rijping van tien maanden op Frans eikenhout, waarvan ongeveer 40 procent nieuw. Nieuwe vaten geven meer houtsmaak dan gebruikte.\n\nWaar vandaan. De Sierra Mar-wijngaard in de Santa Lucia Highlands, Monterey County.\n\nHet verhaal. Bernardus werd in 1989 opgericht door de Nederlander Bernardus 'Ben' Pon, autoimporteur en Porsche-coureur. Hij koos de Carmel Valley om de westelijke ligging, de hete dagen en de koude nachten. Na zijn overlijden in 2019 kwam het in handen van een andere Nederlander, Robert van der Wallen.\n\nSchenken. Licht gekoeld, rond 15 graden. Bij eend, paddenstoelen of zalm. Onthoud: één wijngaard, één karakter.",
+        "audio": "audio/bernardus-sierra-mar-pinot-noir-lang.mp3"
+      },
+      "proef": {
+        "kleur": {
+          "naam": "Middel roodpaars",
+          "hex": "#6E1A3A"
+        },
+        "geur": {
+          "fruit": [
+            "kers",
+            "pruim"
+          ],
+          "maken": [
+            "eikenhout"
+          ],
+          "rijping": []
+        },
+        "smaak": {
+          "fruit": [
+            "kers",
+            "framboos",
+            "pruim"
+          ],
+          "maken": [],
+          "rijping": [
+            "aards"
+          ]
+        }
+      },
+      "bronnen": [
+        {
+          "titel": "Bernardus – The Story",
+          "url": "https://www.bernardus.com/the-story/"
+        },
+        {
+          "titel": "Prince of Pinot – Bernardus Winery",
+          "url": "https://www.princeofpinot.com/article/1498"
+        }
+      ],
+      "zekerheid": "middel",
+      "bijgewerkt": "2026-10-07"
+    },
+    {
+      "id": "moet-imperial-brut",
+      "ean": [],
+      "naam": "Moët & Chandon Impérial Brut",
+      "producent": "Moët & Chandon",
+      "druiven": [
+        "Pinot Noir",
+        "Meunier",
+        "Chardonnay"
+      ],
+      "land": "Frankrijk",
+      "regio": "Champagne",
+      "appellation": "AOC Champagne",
+      "kort": {
+        "tekst": "Het wijnweetje van deze fles! Elke fles Moët Impérial is een blend van meer dan honderd verschillende wijnen, van zo'n 280 percelen in de Champagne.\n\nWat je proeft. Groene appel, citrus en brioche. In de mond peer, perzik en appel, met fijne bubbels.\n\nOnthoud. Pinot noir geeft body, meunier soepelheid, chardonnay finesse.",
+        "audio": "audio/moet-imperial-brut-kort.mp3"
+      },
+      "lang": {
+        "tekst": "Het hele verhaal van deze fles! De bekendste champagne ter wereld, sinds 1869.\n\nIn je glas. Goudgeel stro met groene tinten. Je ruikt groene appel en citrus, met mineraliteit en brioche.\n\nOp je tong. Wit vlezig fruit zoals peer, perzik en appel, met fijne bubbels en zachte citrus.\n\nDe druif. 30 tot 40 procent pinot noir voor body, 30 tot 40 procent meunier voor soepelheid, en 20 tot 30 procent chardonnay voor finesse.\n\nHoe gemaakt. Een blend van meer dan honderd wijnen, met 20 tot 30 procent reservewijnen van eerdere jaren. Dat houdt de stijl elk jaar gelijk. Dosage: 7 gram suiker per liter, dus brut.\n\nWaar vandaan. De Champagne, in Noord-Frankrijk. Een koel klimaat en kalkbodems geven de frisse zuren die champagne nodig heeft.\n\nHet verhaal. Moët & Chandon werd opgericht in 1743 en is een van de bekendste champagnehuizen ter wereld. Alle champagnes worden gemaakt volgens de traditionele methode: de bubbels ontstaan door een tweede gisting in de fles. De Impérial bestaat sinds 1869.\n\nSchenken. Goed koud, rond 8 graden. Als aperitief of bij oesters. Onthoud: honderd wijnen in één fles.",
+        "audio": "audio/moet-imperial-brut-lang.mp3"
+      },
+      "proef": {
+        "kleur": {
+          "naam": "Goudgeel stro",
+          "hex": "#EBD27A"
+        },
+        "geur": {
+          "fruit": [
+            "appel",
+            "citrus",
+            "mineraal"
+          ],
+          "maken": [
+            "brioche"
+          ],
+          "rijping": []
+        },
+        "smaak": {
+          "fruit": [
+            "peer",
+            "perzik",
+            "appel"
+          ],
+          "maken": [],
+          "rijping": []
+        }
+      },
+      "bronnen": [
+        {
+          "titel": "Moët & Chandon – Moët Impérial",
+          "url": "https://www.moet.com/en-int/moet-imperial"
+        }
+      ],
+      "zekerheid": "hoog",
+      "bijgewerkt": "2026-10-07"
+    },
+    {
+      "id": "moet-rose-imperial",
+      "ean": [],
+      "naam": "Moët & Chandon Rosé Impérial",
+      "producent": "Moët & Chandon",
+      "druiven": [
+        "Pinot Noir",
+        "Meunier",
+        "Chardonnay"
+      ],
+      "land": "Frankrijk",
+      "regio": "Champagne",
+      "appellation": "AOC Champagne",
+      "kort": {
+        "tekst": "Het wijnweetje van deze fles! Deze rosé champagne rijpt 21 maanden op de gistresten. Daar komen de tonen van brioche en brood vandaan.\n\nWat je proeft. Bosaardbei, framboos en kers. In de mond sappig fruit met perzik en een vleugje munt.\n\nOnthoud. Roze champagne krijgt zijn kleur meestal door een beetje rode wijn toe te voegen.",
+        "audio": "audio/moet-rose-imperial-kort.mp3"
+      },
+      "lang": {
+        "tekst": "Het hele verhaal van deze fles! De roze versie van de klassieker.\n\nIn je glas. Roze. Je ruikt bosaardbei, framboos en kers.\n\nOp je tong. Sappig fruit met perzik en rode bessen, een frisse vleug munt en tonen van brioche. 12,5 procent alcohol.\n\nDe druif. 40 procent meunier, 40 procent pinot noir en 20 procent chardonnay.\n\nHoe gemaakt. Traditionele methode, 21 maanden op de gistresten. Dosage: 9 gram per liter, dus brut.\n\nWaar vandaan. De Champagne, in Noord-Frankrijk. Een koel klimaat en kalkbodems geven de frisse zuren die champagne nodig heeft.\n\nHet verhaal. Moët & Chandon werd opgericht in 1743 en is een van de bekendste champagnehuizen ter wereld. Alle champagnes worden gemaakt volgens de traditionele methode: de bubbels ontstaan door een tweede gisting in de fles.\n\nSchenken. Goed koud, rond 8 graden. Bij zalm, aardbeien of sushi. Onthoud: 21 maanden op gist.",
+        "audio": "audio/moet-rose-imperial-lang.mp3"
+      },
+      "proef": {
+        "kleur": {
+          "naam": "Roze",
+          "hex": "#F2A08C"
+        },
+        "geur": {
+          "fruit": [
+            "aardbei",
+            "framboos",
+            "kers"
+          ],
+          "maken": [],
+          "rijping": []
+        },
+        "smaak": {
+          "fruit": [
+            "perzik",
+            "rodebes",
+            "kruiden"
+          ],
+          "maken": [
+            "brioche"
+          ],
+          "rijping": []
+        }
+      },
+      "bronnen": [
+        {
+          "titel": "Enotria – Moët & Chandon Rosé Impérial",
+          "url": "https://www.enotria.com/products/moet-chandon-rose-imperial"
+        }
+      ],
+      "zekerheid": "hoog",
+      "bijgewerkt": "2026-10-07"
+    },
+    {
+      "id": "moet-nectar-imperial",
+      "ean": [],
+      "naam": "Moët & Chandon Nectar Impérial",
+      "producent": "Moët & Chandon",
+      "druiven": [
+        "Pinot Noir",
+        "Meunier",
+        "Chardonnay"
+      ],
+      "land": "Frankrijk",
+      "regio": "Champagne",
+      "appellation": "AOC Champagne",
+      "kort": {
+        "tekst": "Het wijnweetje van deze fles! Nectar is de zoete broer van de Impérial: er zit 45 gram suiker per liter in, tegen 7 bij de brut.\n\nWat je proeft. Bloemen, honing en gebakken appel, met abrikoos en gekonfijte citrus.\n\nOnthoud. Demi-sec betekent halfzoet.",
+        "audio": "audio/moet-nectar-imperial-kort.mp3"
+      },
+      "lang": {
+        "tekst": "Het hele verhaal van deze fles! Champagne met een zoet karakter.\n\nIn je glas. Goudgeel. Je ruikt bloemen, honing, gebakken groene appel, guave, abrikoos en gekonfijte citrusschil.\n\nOp je tong. Fris en sappig, met gekonfijte citrus, specerij, gember, romige vanille en kers. Zoet, maar in balans.\n\nDe druif. 40 tot 50 procent pinot noir, 30 tot 40 procent meunier en 10 tot 20 procent chardonnay.\n\nHoe gemaakt. Traditionele methode met 20 tot 30 procent reservewijnen. Dosage: 45 gram per liter, dus demi-sec, halfzoet.\n\nWaar vandaan. De Champagne, in Noord-Frankrijk. Een koel klimaat en kalkbodems geven de frisse zuren die champagne nodig heeft.\n\nHet verhaal. Moët & Chandon werd opgericht in 1743 en is een van de bekendste champagnehuizen ter wereld. Alle champagnes worden gemaakt volgens de traditionele methode: de bubbels ontstaan door een tweede gisting in de fles.\n\nSchenken. Goed koud, rond 8 graden. Bij desserts of pittig Aziatisch eten. Onthoud: Nectar is halfzoet.",
+        "audio": "audio/moet-nectar-imperial-lang.mp3"
+      },
+      "proef": {
+        "kleur": {
+          "naam": "Goudgeel",
+          "hex": "#EBD27A"
+        },
+        "geur": {
+          "fruit": [
+            "bloemen",
+            "appel",
+            "abrikoos",
+            "citrus"
+          ],
+          "maken": [
+            "honing"
+          ],
+          "rijping": []
+        },
+        "smaak": {
+          "fruit": [
+            "citrus",
+            "kers"
+          ],
+          "maken": [
+            "vanille",
+            "specerij"
+          ],
+          "rijping": []
+        }
+      },
+      "bronnen": [
+        {
+          "titel": "Gismondi on Wine – Moët & Chandon Nectar Impérial",
+          "url": "https://gismondionwine.com/tasting-notes/201501/mot-chandon-nectar-imprial-nv?note=24993"
+        }
+      ],
+      "zekerheid": "hoog",
+      "bijgewerkt": "2026-10-07"
+    },
+    {
+      "id": "moet-nectar-imperial-rose",
+      "ean": [],
+      "naam": "Moët & Chandon Nectar Impérial Rosé",
+      "producent": "Moët & Chandon",
+      "druiven": [
+        "Pinot Noir",
+        "Meunier",
+        "Chardonnay"
+      ],
+      "land": "Frankrijk",
+      "regio": "Champagne",
+      "appellation": "AOC Champagne",
+      "kort": {
+        "tekst": "Het wijnweetje van deze fles! Moët noemt deze halfzoete roze champagne zelf 'perfect voor het nachtleven'.\n\nWat je proeft. Rijp rood fruit, aardbei, framboos en granaatappel, met vanille en bruine suiker.\n\nOnthoud. Halfzoet en roze: gemaakt voor feestjes.",
+        "audio": "audio/moet-nectar-imperial-rose-kort.mp3"
+      },
+      "lang": {
+        "tekst": "Het hele verhaal van deze fles! Roze en zoet, voor de late uurtjes.\n\nIn je glas. Koraal met intens roségouden glans. Je ruikt rijp rood fruit, aardbei, framboos en granaatappel, met vanille en bruine suiker.\n\nOp je tong. Zwarte en rode bes en bosaardbei, met een afdronk van bloedsinaasappel. Halfzoet en romig.\n\nDe druif. 45 tot 55 procent pinot noir, 35 tot 45 procent meunier en 5 tot 10 procent chardonnay.\n\nHoe gemaakt. Traditionele methode met 20 tot 30 procent reservewijnen. Dosage: 45 gram per liter, dus demi-sec.\n\nWaar vandaan. De Champagne, in Noord-Frankrijk. Een koel klimaat en kalkbodems geven de frisse zuren die champagne nodig heeft.\n\nHet verhaal. Moët & Chandon werd opgericht in 1743 en is een van de bekendste champagnehuizen ter wereld. Alle champagnes worden gemaakt volgens de traditionele methode: de bubbels ontstaan door een tweede gisting in de fles.\n\nSchenken. Goed koud, of zelfs op ijs. Onthoud: roze en halfzoet.",
+        "audio": "audio/moet-nectar-imperial-rose-lang.mp3"
+      },
+      "proef": {
+        "kleur": {
+          "naam": "Koraal",
+          "hex": "#F09A80"
+        },
+        "geur": {
+          "fruit": [
+            "roodfruit",
+            "aardbei",
+            "framboos"
+          ],
+          "maken": [
+            "vanille",
+            "karamel"
+          ],
+          "rijping": []
+        },
+        "smaak": {
+          "fruit": [
+            "zwartebes",
+            "aardbei",
+            "citrus"
+          ],
+          "maken": [],
+          "rijping": []
+        }
+      },
+      "bronnen": [
+        {
+          "titel": "Moët & Chandon – Nectar Impérial Rosé",
+          "url": "https://www.moet.com/en-int/nectar-imperial-rose"
+        }
+      ],
+      "zekerheid": "hoog",
+      "bijgewerkt": "2026-10-07"
+    },
+    {
+      "id": "moet-ice-imperial",
+      "ean": [],
+      "naam": "Moët & Chandon Ice Impérial",
+      "producent": "Moët & Chandon",
+      "druiven": [
+        "Pinot Noir",
+        "Meunier",
+        "Chardonnay"
+      ],
+      "land": "Frankrijk",
+      "regio": "Champagne",
+      "appellation": "AOC Champagne",
+      "kort": {
+        "tekst": "Het wijnweetje van deze fles! De eerste champagne die bedoeld is om op ijs te drinken. Moët zag in de bars van Saint-Tropez dat mensen ijs in hun champagne deden, en maakte er in 2011 een eigen fles voor.\n\nWat je proeft. Intens fruit met structuur, gemaakt om met ijs in balans te blijven.\n\nOnthoud. Drie ijsblokjes, eventueel met munt of fruit.",
+        "audio": "audio/moet-ice-imperial-kort.mp3"
+      },
+      "lang": {
+        "tekst": "Het hele verhaal van deze fles! Champagne die je mag verdunnen.\n\nIn je glas. Goudgeel in een witte fles. Je ruikt intens fruit.\n\nOp je tong. Vol fruit en structuur, zo gemaakt dat smeltend ijs de smaak niet wegspoelt. Halfzoet.\n\nDe druif. Vooral pinot noir en meunier, met 10 tot 20 procent chardonnay voor de zuren.\n\nHoe gemaakt. Traditionele methode, in een halfzoete stijl. De druiven zijn gekozen om tegen het verdunnende ijs te kunnen.\n\nWaar vandaan. De Champagne, in Noord-Frankrijk. Een koel klimaat en kalkbodems geven de frisse zuren die champagne nodig heeft.\n\nHet verhaal. Moët & Chandon werd opgericht in 1743 en is een van de bekendste champagnehuizen ter wereld. Alle champagnes worden gemaakt volgens de traditionele methode: de bubbels ontstaan door een tweede gisting in de fles. Ice Impérial kwam in 2011 op de markt, na proeven in de VS, Frankrijk en Duitsland.\n\nSchenken. In een groot glas met drie ijsblokjes, eventueel met munt, gember of vers fruit. Onthoud: deze champagne wil ijs.",
+        "audio": "audio/moet-ice-imperial-lang.mp3"
+      },
+      "proef": {
+        "kleur": {
+          "naam": "Goudgeel",
+          "hex": "#EBD27A"
+        },
+        "geur": {
+          "fruit": [
+            "frisfruit"
+          ],
+          "maken": [],
+          "rijping": []
+        },
+        "smaak": {
+          "fruit": [
+            "frisfruit"
+          ],
+          "maken": [],
+          "rijping": []
+        }
+      },
+      "bronnen": [
+        {
+          "titel": "The Drinks Business – Moët plays it cool",
+          "url": "https://thedrinksbusiness.com/2011/05/moet-plays-it-cool"
+        }
+      ],
+      "zekerheid": "middel",
+      "bijgewerkt": "2026-10-07"
+    },
+    {
+      "id": "moet-ice-imperial-rose",
+      "ean": [],
+      "naam": "Moët & Chandon Ice Impérial Rosé",
+      "producent": "Moët & Chandon",
+      "druiven": [
+        "Pinot Noir",
+        "Meunier",
+        "Chardonnay"
+      ],
+      "land": "Frankrijk",
+      "regio": "Champagne",
+      "appellation": "AOC Champagne",
+      "kort": {
+        "tekst": "Het wijnweetje van deze fles! De roze versie van de champagne voor op ijs.\n\nWat je proeft. Kersen, cranberry en geurige nectarine, met een bitterzoete grapefruittoets.\n\nOnthoud. Ook deze wil drie ijsblokjes.",
+        "audio": "audio/moet-ice-imperial-rose-kort.mp3"
+      },
+      "lang": {
+        "tekst": "Het hele verhaal van deze fles! Roze champagne op ijs.\n\nIn je glas. Roze. Je ruikt kersen, cranberry en geurige nectarine.\n\nOp je tong. Fruitig, met een bitterzoete grapefruittoets.\n\nDe druif. Pinot noir voor intensiteit, meunier voor ronding en chardonnay voor elegantie.\n\nHoe gemaakt. Traditionele methode, gemaakt om op ijs te worden geserveerd. De dosage? Daar is helaas een flinke vlek rode wijn overheen gegaan in mijn aantekeningen.\n\nWaar vandaan. De Champagne, in Noord-Frankrijk. Een koel klimaat en kalkbodems geven de frisse zuren die champagne nodig heeft.\n\nHet verhaal. Moët & Chandon werd opgericht in 1743 en is een van de bekendste champagnehuizen ter wereld. Alle champagnes worden gemaakt volgens de traditionele methode: de bubbels ontstaan door een tweede gisting in de fles.\n\nSchenken. Op ijs, bij aardbeien of scones met room. Onthoud: roze op ijs.",
+        "audio": "audio/moet-ice-imperial-rose-lang.mp3"
+      },
+      "proef": {
+        "kleur": {
+          "naam": "Roze",
+          "hex": "#F2A08C"
+        },
+        "geur": {
+          "fruit": [
+            "kers",
+            "rodebes",
+            "perzik"
+          ],
+          "maken": [],
+          "rijping": []
+        },
+        "smaak": {
+          "fruit": [
+            "citrus"
+          ],
+          "maken": [],
+          "rijping": []
+        }
+      },
+      "bronnen": [
+        {
+          "titel": "Enotria – Moët & Chandon Ice Impérial Rosé",
+          "url": "https://www.enotria.com/products/moet-chandon-ice-imperial-rose"
+        }
+      ],
+      "zekerheid": "middel",
+      "bijgewerkt": "2026-10-07"
+    },
+    {
+      "id": "moet-grand-vintage",
+      "ean": [],
+      "naam": "Moët & Chandon Grand Vintage",
+      "producent": "Moët & Chandon",
+      "druiven": [
+        "Pinot Noir",
+        "Chardonnay",
+        "Meunier"
+      ],
+      "land": "Frankrijk",
+      "regio": "Champagne",
+      "appellation": "AOC Champagne",
+      "kort": {
+        "tekst": "Het wijnweetje van deze fles! Een Grand Vintage komt alleen uit één bijzonder jaar. Deze rijpte zes jaar in de kelder voordat hij werd vrijgegeven.\n\nWat je proeft. Brioche en amandelspijs, daarna vlierbloesem, jasmijn en witte perzik. Ruim en soepel, met een bittertje van verse amandel.\n\nOnthoud. Vintage betekent: één oogstjaar.",
+        "audio": "audio/moet-grand-vintage-kort.mp3"
+      },
+      "lang": {
+        "tekst": "Het hele verhaal van deze fles! Champagne van één uitzonderlijk jaar.\n\nIn je glas. Goudgeel. Je ruikt eerst brioche en amandelspijs, daarna vlierbloesem, jasmijn, witte perzik en watermeloen.\n\nOp je tong. Direct en zelfverzekerd, ruim en soepel, met bloemige, anijs- en muntachtige tonen. Een afdronk met een licht bittertje van verse amandel.\n\nDe druif. In 2015: 44 procent pinot noir, 32 procent chardonnay en 24 procent meunier.\n\nHoe gemaakt. Zes jaar rijping in de kelder en minstens zes maanden na het degorgeren. Dosage: 5 gram per liter, dus extra brut.\n\nWaar vandaan. De Champagne, in Noord-Frankrijk. Een koel klimaat en kalkbodems geven de frisse zuren die champagne nodig heeft.\n\nHet verhaal. Moët & Chandon werd opgericht in 1743 en is een van de bekendste champagnehuizen ter wereld. Alle champagnes worden gemaakt volgens de traditionele methode: de bubbels ontstaan door een tweede gisting in de fles. 2015 was een warm jaar met uitzonderlijk rijpe blauwe druiven.\n\nSchenken. Rond 10 graden, bij gevogelte of vis. Onthoud: één jaar, zes jaar geduld.",
+        "audio": "audio/moet-grand-vintage-lang.mp3"
+      },
+      "proef": {
+        "kleur": {
+          "naam": "Goudgeel",
+          "hex": "#E3BC4E"
+        },
+        "geur": {
+          "fruit": [
+            "bloemen",
+            "perzik",
+            "meloen"
+          ],
+          "maken": [
+            "brioche",
+            "noten"
+          ],
+          "rijping": []
+        },
+        "smaak": {
+          "fruit": [
+            "bloemen",
+            "kruiden"
+          ],
+          "maken": [],
+          "rijping": [
+            "noten"
+          ]
+        }
+      },
+      "bronnen": [
+        {
+          "titel": "Moët & Chandon – Grand Vintage 2015",
+          "url": "https://origin-gcp.moet.com/en-int/grand-vintage-2015"
+        }
+      ],
+      "zekerheid": "hoog",
+      "bijgewerkt": "2026-10-07"
+    },
+    {
+      "id": "moet-grand-vintage-rose",
+      "ean": [],
+      "naam": "Moët & Chandon Grand Vintage Rosé",
+      "producent": "Moët & Chandon",
+      "druiven": [
+        "Pinot Noir",
+        "Chardonnay",
+        "Meunier"
+      ],
+      "land": "Frankrijk",
+      "regio": "Champagne",
+      "appellation": "AOC Champagne",
+      "kort": {
+        "tekst": "Het wijnweetje van deze fles! In deze vintage rosé zit 14 procent rode wijn. Die geeft niet alleen kleur, maar ook structuur en tannine.\n\nWat je proeft. Zwart fruit, vijg en bosaardbei, met roze peper en piment. Krachtig, met een bittertje van sleedoorn en cranberry.\n\nOnthoud. Rode wijn erbij geeft kleur én structuur.",
+        "audio": "audio/moet-grand-vintage-rose-kort.mp3"
+      },
+      "lang": {
+        "tekst": "Het hele verhaal van deze fles! Een krachtige rosé van één jaar.\n\nIn je glas. Diep roze. Je ruikt zwart fruit met kruiden, vijg en bosaardbei, roze peper en piment.\n\nOp je tong. Krachtig en gelaagd, met geconcentreerd donker fruit en gestructureerde tannines. Een afdronk met sleedoorn, cranberry, munt en anijs.\n\nDe druif. In 2015: 52 procent pinot noir (waarvan 14 procent als rode wijn), 27 procent chardonnay en 21 procent meunier.\n\nHoe gemaakt. Zes jaar rijping in de kelder, minstens zes maanden na het degorgeren. Dosage: 5 gram per liter, extra brut.\n\nWaar vandaan. De Champagne, in Noord-Frankrijk. Een koel klimaat en kalkbodems geven de frisse zuren die champagne nodig heeft.\n\nHet verhaal. Moët & Chandon werd opgericht in 1743 en is een van de bekendste champagnehuizen ter wereld. Alle champagnes worden gemaakt volgens de traditionele methode: de bubbels ontstaan door een tweede gisting in de fles.\n\nSchenken. Rond 10 tot 12 graden, bij eend of lam. Onthoud: rode wijn in de champagne.",
+        "audio": "audio/moet-grand-vintage-rose-lang.mp3"
+      },
+      "proef": {
+        "kleur": {
+          "naam": "Diep roze",
+          "hex": "#E07A6A"
+        },
+        "geur": {
+          "fruit": [
+            "zwartfruit",
+            "vijg",
+            "aardbei"
+          ],
+          "maken": [
+            "specerij"
+          ],
+          "rijping": []
+        },
+        "smaak": {
+          "fruit": [
+            "zwartfruit",
+            "rodebes",
+            "kruiden"
+          ],
+          "maken": [],
+          "rijping": []
+        }
+      },
+      "bronnen": [
+        {
+          "titel": "Moët & Chandon – Grand Vintage Rosé 2015",
+          "url": "https://origin-gcp.moet.com/en-gb/grand-vintage-rose-2015"
+        }
+      ],
+      "zekerheid": "hoog",
+      "bijgewerkt": "2026-10-07"
+    },
+    {
+      "id": "antinori-tignanello",
+      "ean": [],
+      "naam": "Tignanello",
+      "producent": "Marchesi Antinori",
+      "druiven": [
+        "Sangiovese",
+        "Cabernet Sauvignon",
+        "Cabernet Franc"
+      ],
+      "land": "Italië",
+      "regio": "Toscane (Chianti Classico)",
+      "appellation": "Toscana IGT",
+      "kort": {
+        "tekst": "Het wijnweetje van deze fles! Tignanello is een van de wijnen die de 'Super Tuscans' op de kaart zette. Het was de eerste sangiovese die op barriques rijpte, en een van de eerste moderne rode wijnen met cabernet erin.\n\nWat je proeft. Rijpe kers, granaatappel en sinaasappel, met viooltjes, cacao en potloodslijpsel. Zijdezachte tannines.\n\nOnthoud. De eerste sangiovese op barrique.",
+        "audio": "audio/antinori-tignanello-kort.mp3"
+      },
+      "lang": {
+        "tekst": "Het hele verhaal van deze fles! De wijn die de regels van Toscane herschreef.\n\nIn je glas. Intens robijnrood. Je ruikt rijpe kersen, granaatappel en sinaasappel, met hibiscus, viooltjes, cacao en potloodslijpsel.\n\nOp je tong. Een precieze aanzet, een sappig midden en zijdezachte tannines. De afdronk heeft bloedsinaasappel en geroosterde hazelnoot.\n\nDe druif. Sangiovese, aangevuld met cabernet sauvignon en cabernet franc. Deze formule bestaat sinds 1982.\n\nHoe gemaakt. In 2023: 13 maanden op Frans en Hongaars eikenhout, grotendeels nieuw, gevolgd door 12 maanden op fles.\n\nWaar vandaan. Eén wijngaard van 77 hectare in de Chianti Classico, op 350 tot 400 meter hoogte, met kalkrijke bodems op het zuidwesten.\n\nHet verhaal. Tignanello werd voor het eerst gemaakt in 1970 en zette zich bewust buiten de regels van de Chianti, die toen ook witte druiven voorschreven. Vanaf 1975 zat er geen witte druif meer in. De familie Antinori maakt al sinds 1385 wijn: toen werd Giovanni di Piero Antinori lid van het wijngilde van Florence. Inmiddels zijn ze ruim 26 generaties verder, en het bedrijf is nog altijd in familiehanden.\n\nSchenken. Rond 17 tot 18 graden, bij Florentijnse steak of wild. Onthoud: de wijn die Toscane veranderde.",
+        "audio": "audio/antinori-tignanello-lang.mp3"
+      },
+      "proef": {
+        "kleur": {
+          "naam": "Intens robijnrood",
+          "hex": "#6E1229"
+        },
+        "geur": {
+          "fruit": [
+            "kers",
+            "roodfruit",
+            "citrus",
+            "bloemen"
+          ],
+          "maken": [
+            "chocolade"
+          ],
+          "rijping": [
+            "mineraal"
+          ]
+        },
+        "smaak": {
+          "fruit": [
+            "citrus"
+          ],
+          "maken": [],
+          "rijping": [
+            "noten"
+          ]
+        }
+      },
+      "bronnen": [
+        {
+          "titel": "Antinori – Tignanello",
+          "url": "https://www.antinori.it/en/vino/tignanello-en/"
+        },
+        {
+          "titel": "Mark Anthony – Peppoli Chianti Classico 2021 (familiegeschiedenis)",
+          "url": "https://markanthony.kork.ca/en/our-wineries/antinori-estates/peppoli-chianti-classico/2021"
+        }
+      ],
+      "zekerheid": "hoog",
+      "bijgewerkt": "2026-10-07"
+    },
+    {
+      "id": "antinori-solaia",
+      "ean": [],
+      "naam": "Solaia",
+      "producent": "Marchesi Antinori",
+      "druiven": [
+        "Cabernet Sauvignon",
+        "Cabernet Franc",
+        "Sangiovese"
+      ],
+      "land": "Italië",
+      "regio": "Toscane (Chianti Classico)",
+      "appellation": "Toscana IGT",
+      "kort": {
+        "tekst": "Het wijnweetje van deze fles! Solaia betekent zoiets als 'de zonnige'. De wijngaard ligt pal op het zuidwesten, op hetzelfde landgoed als Tignanello. Hij wordt alleen gemaakt in uitzonderlijke jaren.\n\nWat je proeft. Kersen, zwarte kersen, framboos, cassis en bosbes, met vanille, zwarte peper en zoethout. Elegant en zijdezacht.\n\nOnthoud. Alleen in uitzonderlijke jaren.",
+        "audio": "audio/antinori-solaia-kort.mp3"
+      },
+      "lang": {
+        "tekst": "Het hele verhaal van deze fles! Het grote broertje van Tignanello.\n\nIn je glas. Heel intens robijnrood. Je ruikt rood en zwart fruit: kersen, zwarte kersen, framboos, cassis en bosbes, met vanille, zwarte peper en zoethout.\n\nOp je tong. Uitzonderlijk elegant en evenwichtig, fris, met zijdezachte tannines en een lange afdronk van fruit en specerij.\n\nDe druif. In 2014: 60 procent cabernet sauvignon, 20 procent cabernet franc en 20 procent sangiovese.\n\nHoe gemaakt. Malolactische gisting op eikenhout, daarna 18 maanden op nieuwe Franse eiken vaten.\n\nWaar vandaan. Een wijngaard van 20 hectare op het Tignanello-landgoed, op 350 tot 400 meter, met stenige kalk- en kleibodems en een zuidwestelijke ligging.\n\nHet verhaal. Solaia werd voor het eerst gemaakt in 1978, toen nog met 80 procent cabernet sauvignon en 20 procent cabernet franc. De sangiovese kwam er later bij. De familie Antinori maakt al sinds 1385 wijn: toen werd Giovanni di Piero Antinori lid van het wijngilde van Florence. Inmiddels zijn ze ruim 26 generaties verder, en het bedrijf is nog altijd in familiehanden.\n\nSchenken. Rond 18 graden, bij rood vlees of oude kaas. Onthoud: Solaia, de zonnige, alleen in topjaren.",
+        "audio": "audio/antinori-solaia-lang.mp3"
+      },
+      "proef": {
+        "kleur": {
+          "naam": "Intens robijnrood",
+          "hex": "#5A0E22"
+        },
+        "geur": {
+          "fruit": [
+            "kers",
+            "framboos",
+            "zwartebes"
+          ],
+          "maken": [
+            "vanille",
+            "peper"
+          ],
+          "rijping": [
+            "drop"
+          ]
+        },
+        "smaak": {
+          "fruit": [
+            "kers",
+            "zwartfruit"
+          ],
+          "maken": [
+            "specerij"
+          ],
+          "rijping": []
+        }
+      },
+      "bronnen": [
+        {
+          "titel": "Antinori – Solaia 2014",
+          "url": "https://www.antinori.it/en/vino/solaia-en/solaia-2014-en/tasting-notes/"
+        },
+        {
+          "titel": "Mark Anthony – Peppoli Chianti Classico 2021 (familiegeschiedenis)",
+          "url": "https://markanthony.kork.ca/en/our-wineries/antinori-estates/peppoli-chianti-classico/2021"
+        }
+      ],
+      "zekerheid": "hoog",
+      "bijgewerkt": "2026-10-07"
+    },
+    {
+      "id": "antinori-guado-al-tasso",
+      "ean": [],
+      "naam": "Guado al Tasso",
+      "producent": "Marchesi Antinori",
+      "druiven": [
+        "Cabernet Sauvignon",
+        "Merlot",
+        "Cabernet Franc"
+      ],
+      "land": "Italië",
+      "regio": "Bolgheri",
+      "appellation": "Bolgheri DOC Superiore",
+      "kort": {
+        "tekst": "Het wijnweetje van deze fles! Guado al Tasso betekent 'de doorwaadplaats van de das'. Het landgoed ligt aan de Toscaanse kust, in Bolgheri.\n\nWat je proeft. Kersen op brandewijn, tabak, gekonfijte sinaasappel en specerij. Levendig en soepel.\n\nOnthoud. Bolgheri: Bordeaux-druiven aan de Toscaanse kust.",
+        "audio": "audio/antinori-guado-al-tasso-kort.mp3"
+      },
+      "lang": {
+        "tekst": "Het hele verhaal van deze fles! Een kustwijn van een das.\n\nIn je glas. Diep rood. Je ruikt kersen op brandewijn, tabak, gekonfijte sinaasappel en specerijen.\n\nOp je tong. Levendig, soepel en lang, met een kruidige afdronk.\n\nDe druif. Een Bordeaux-blend van cabernet sauvignon, merlot en cabernet franc. De verhouding wisselt per jaar.\n\nHoe gemaakt. Een jaar op nieuw Frans eikenhout, daarna nog zes maanden op vat.\n\nWaar vandaan. Bolgheri, aan de Toscaanse kust, met wijngaarden aan de voet van het 'amfitheater' van Bolgheri.\n\nHet verhaal. Antinori begon hier in 1990 met wijn. De familie Antinori maakt al sinds 1385 wijn: toen werd Giovanni di Piero Antinori lid van het wijngilde van Florence. Inmiddels zijn ze ruim 26 generaties verder, en het bedrijf is nog altijd in familiehanden.\n\nSchenken. Rond 18 graden, bij lam of wild. Onthoud: Guado al Tasso, de doorwaadplaats van de das.",
+        "audio": "audio/antinori-guado-al-tasso-lang.mp3"
+      },
+      "proef": {
+        "kleur": {
+          "naam": "Diep rood",
+          "hex": "#5A0E22"
+        },
+        "geur": {
+          "fruit": [
+            "kers",
+            "citrus"
+          ],
+          "maken": [
+            "specerij"
+          ],
+          "rijping": [
+            "tabak"
+          ]
+        },
+        "smaak": {
+          "fruit": [],
+          "maken": [
+            "specerij"
+          ],
+          "rijping": []
+        }
+      },
+      "bronnen": [
+        {
+          "titel": "Antinori – Guado al Tasso 2014",
+          "url": "https://www.antinori.it/en/vino/guado-al-tasso-en/guado-al-tasso-2014/vinification/?gen_pdf=1"
+        },
+        {
+          "titel": "Mark Anthony – Peppoli Chianti Classico 2021 (familiegeschiedenis)",
+          "url": "https://markanthony.kork.ca/en/our-wineries/antinori-estates/peppoli-chianti-classico/2021"
+        }
+      ],
+      "zekerheid": "middel",
+      "bijgewerkt": "2026-10-07"
+    },
+    {
+      "id": "antinori-il-bruciato",
+      "ean": [],
+      "naam": "Il Bruciato",
+      "producent": "Marchesi Antinori",
+      "druiven": [
+        "Cabernet Sauvignon",
+        "Merlot",
+        "Syrah"
+      ],
+      "land": "Italië",
+      "regio": "Bolgheri",
+      "appellation": "Bolgheri DOC",
+      "kort": {
+        "tekst": "Het wijnweetje van deze fles! Het jongere broertje van Guado al Tasso, sinds 2002: een moderne, toegankelijke kijk op Bolgheri.\n\nWat je proeft. Rijpe kers, braam en pruim, met zoete specerij, vanille en een vleugje tabak.\n\nOnthoud. Bolgheri in een toegankelijke stijl.",
+        "audio": "audio/antinori-il-bruciato-kort.mp3"
+      },
+      "lang": {
+        "tekst": "Het hele verhaal van deze fles! Bolgheri voor elke dag.\n\nIn je glas. Diep rood. Je ruikt rijpe kersen, bramen en pruimen, met zoete specerij, vanille en tabak.\n\nOp je tong. Middel tot vol, met geconcentreerd donker fruit, zachte tannines en frisse zuren. Rond de 13,5 tot 14 procent alcohol.\n\nDe druif. Vooral cabernet sauvignon, met merlot en syrah, en per jaar wat andere Bordeaux-druiven.\n\nHoe gemaakt. Ongeveer acht maanden, deels op eikenhout en deels op roestvrij staal. Zo blijft er naast de diepte ook frisheid.\n\nWaar vandaan. Bolgheri, aan de Toscaanse kust, van het landgoed Guado al Tasso.\n\nHet verhaal. Il Bruciato werd in 2002 geïntroduceerd. Wat de naam betekent? Ik heb te diep in het glas gekeken, dus dat stukje van het verhaal ben ik even kwijt. De familie Antinori maakt al sinds 1385 wijn: toen werd Giovanni di Piero Antinori lid van het wijngilde van Florence. Inmiddels zijn ze ruim 26 generaties verder, en het bedrijf is nog altijd in familiehanden.\n\nSchenken. Rond 16 tot 18 graden, bij pasta met ragù of gegrild vlees. Onthoud: het jonge broertje van Guado al Tasso.",
+        "audio": "audio/antinori-il-bruciato-lang.mp3"
+      },
+      "proef": {
+        "kleur": {
+          "naam": "Diep rood",
+          "hex": "#6E1229"
+        },
+        "geur": {
+          "fruit": [
+            "kers",
+            "braam",
+            "pruim"
+          ],
+          "maken": [
+            "vanille",
+            "specerij"
+          ],
+          "rijping": [
+            "tabak"
+          ]
+        },
+        "smaak": {
+          "fruit": [
+            "zwartfruit"
+          ],
+          "maken": [
+            "specerij"
+          ],
+          "rijping": []
+        }
+      },
+      "bronnen": [
+        {
+          "titel": "Blackwell's Wines – Il Bruciato",
+          "url": "https://www.blackwellswines.com/collections/wine/products/antinori-bolgheri-tenuta-guado-al-tasso-il-bruciato"
+        },
+        {
+          "titel": "Mark Anthony – Peppoli Chianti Classico 2021 (familiegeschiedenis)",
+          "url": "https://markanthony.kork.ca/en/our-wineries/antinori-estates/peppoli-chianti-classico/2021"
+        }
+      ],
+      "zekerheid": "middel",
+      "bijgewerkt": "2026-10-07"
+    },
+    {
+      "id": "antinori-villa-antinori-rosso",
+      "ean": [],
+      "naam": "Villa Antinori Rosso",
+      "producent": "Marchesi Antinori",
+      "druiven": [
+        "Sangiovese",
+        "Rode blend"
+      ],
+      "land": "Italië",
+      "regio": "Toscane",
+      "appellation": "Toscana IGT",
+      "kort": {
+        "tekst": "Het wijnweetje van deze fles! Villa Antinori werd in 1928 voor het eerst gemaakt door markies Niccolò Antinori, als de 'huiswijn' van de familie.\n\nWat je proeft. Zwarte kers en bloedsinaasappel, met groene paprika, buxus, geroosterd hout en tabak. Zacht en omhullend.\n\nOnthoud. De familiewijn sinds 1928.",
+        "audio": "audio/antinori-villa-antinori-rosso-kort.mp3"
+      },
+      "lang": {
+        "tekst": "Het hele verhaal van deze fles! De wijn met de naam van het familiehuis.\n\nIn je glas. Robijnrood. Je ruikt zwarte kers en bloedsinaasappel, met een vleugje groene paprika, buxus, geroosterd hout en tabak.\n\nOp je tong. Zacht en omhullend, met frisheid, soepele, zoete tannines en een lange afdronk.\n\nDe druif. Een Toscaanse blend. De precieze verhouding? Daar is helaas een flinke vlek rode wijn overheen gegaan in mijn aantekeningen.\n\nHoe gemaakt. Na de malolactische gisting rijpt de wijn een paar maanden op Franse en Hongaarse barriques.\n\nWaar vandaan. Toscane.\n\nHet verhaal. Markies Niccolò Antinori maakte deze wijn in 1928 als het visitekaartje van de familie. De familie Antinori maakt al sinds 1385 wijn: toen werd Giovanni di Piero Antinori lid van het wijngilde van Florence. Inmiddels zijn ze ruim 26 generaties verder, en het bedrijf is nog altijd in familiehanden.\n\nSchenken. Rond 16 tot 18 graden, bij pasta, pizza of vleeswaren. Onthoud: de familiewijn sinds 1928.",
+        "audio": "audio/antinori-villa-antinori-rosso-lang.mp3"
+      },
+      "proef": {
+        "kleur": {
+          "naam": "Robijnrood",
+          "hex": "#8E1B2E"
+        },
+        "geur": {
+          "fruit": [
+            "kers",
+            "citrus",
+            "kruiden"
+          ],
+          "maken": [
+            "geroosterd"
+          ],
+          "rijping": [
+            "tabak"
+          ]
+        },
+        "smaak": {
+          "fruit": [
+            "kers"
+          ],
+          "maken": [],
+          "rijping": []
+        }
+      },
+      "bronnen": [
+        {
+          "titel": "Antinori – Villa Antinori Rosso",
+          "url": "https://www.antinori.it/en/vino/villa-antinori-rosso-en/?gen_pdf=1"
+        },
+        {
+          "titel": "Mark Anthony – Peppoli Chianti Classico 2021 (familiegeschiedenis)",
+          "url": "https://markanthony.kork.ca/en/our-wineries/antinori-estates/peppoli-chianti-classico/2021"
+        }
+      ],
+      "zekerheid": "middel",
+      "bijgewerkt": "2026-10-07"
+    },
+    {
+      "id": "antinori-villa-antinori-bianco",
+      "ean": [],
+      "naam": "Villa Antinori Bianco",
+      "producent": "Marchesi Antinori",
+      "druiven": [
+        "Trebbiano",
+        "Malvasia"
+      ],
+      "land": "Italië",
+      "regio": "Toscane",
+      "appellation": "Toscana IGT",
+      "kort": {
+        "tekst": "Het wijnweetje van deze fles! De witte Villa Antinori is een klassieke Toscaanse combinatie: trebbiano en malvasia.\n\nWat je proeft. Peer, perzik en groene appel, met oranjebloesem. Zacht, fris en mineraal.\n\nOnthoud. Puur op staal: alles draait om fris fruit.",
+        "audio": "audio/antinori-villa-antinori-bianco-kort.mp3"
+      },
+      "lang": {
+        "tekst": "Het hele verhaal van deze fles! De witte broer van de familiewijn.\n\nIn je glas. Strogeel met groene tinten. Je ruikt peer, perzik en groene appel, met oranjebloesem.\n\nOp je tong. Zacht en soepel, met een frisse zuurgraad en een levendige, minerale afdronk.\n\nDe druif. 80 procent trebbiano en 20 procent malvasia. Trebbiano geeft frisheid, malvasia geur.\n\nHoe gemaakt. Gerijpt op roestvrijstalen tanks, zonder hout.\n\nWaar vandaan. Toscane.\n\nHet verhaal. De familie Antinori maakt al sinds 1385 wijn: toen werd Giovanni di Piero Antinori lid van het wijngilde van Florence. Inmiddels zijn ze ruim 26 generaties verder, en het bedrijf is nog altijd in familiehanden.\n\nSchenken. Koud, rond 10 graden. Bij antipasti, vis of risotto. Onthoud: trebbiano voor fris, malvasia voor geur.",
+        "audio": "audio/antinori-villa-antinori-bianco-lang.mp3"
+      },
+      "proef": {
+        "kleur": {
+          "naam": "Strogeel",
+          "hex": "#EDE6A8"
+        },
+        "geur": {
+          "fruit": [
+            "peer",
+            "perzik",
+            "appel",
+            "bloemen"
+          ],
+          "maken": [],
+          "rijping": []
+        },
+        "smaak": {
+          "fruit": [],
+          "maken": [],
+          "rijping": [
+            "mineraal"
+          ]
+        }
+      },
+      "bronnen": [
+        {
+          "titel": "Mark Anthony – Villa Antinori Toscana Bianco 2021",
+          "url": "https://markanthony.kork.ca/en/our-wineries/antinori-estates/villa-antinori-toscana-bianco/2021"
+        },
+        {
+          "titel": "Mark Anthony – Peppoli Chianti Classico 2021 (familiegeschiedenis)",
+          "url": "https://markanthony.kork.ca/en/our-wineries/antinori-estates/peppoli-chianti-classico/2021"
+        }
+      ],
+      "zekerheid": "hoog",
+      "bijgewerkt": "2026-10-07"
+    },
+    {
+      "id": "antinori-peppoli-chianti-classico",
+      "ean": [],
+      "naam": "Pèppoli Chianti Classico",
+      "producent": "Marchesi Antinori",
+      "druiven": [
+        "Sangiovese",
+        "Merlot",
+        "Syrah"
+      ],
+      "land": "Italië",
+      "regio": "Toscane (Chianti Classico)",
+      "appellation": "Chianti Classico DOCG",
+      "kort": {
+        "tekst": "Het wijnweetje van deze fles! Pèppoli rijpt op grote vaten van Slavonisch eiken. Die grote vaten geven veel minder houtsmaak dan kleine barriques.\n\nWat je proeft. Bittere sinaasappel, pruim, hyacint en cacao. Levendig, met soepele tannines.\n\nOnthoud. Grote vaten: hout dat je nauwelijks proeft.",
+        "audio": "audio/antinori-peppoli-chianti-classico-kort.mp3"
+      },
+      "lang": {
+        "tekst": "Het hele verhaal van deze fles! Een frisse Chianti Classico.\n\nIn je glas. Robijnrood met paarse tinten. Je ruikt bittere sinaasappel, pruim, hyacint en ongezoete cacao.\n\nOp je tong. Vol bij de aanzet, met levendige zuren, soepele tannines en een smakelijke afdronk.\n\nDe druif. 90 procent sangiovese, met 5 procent merlot en 5 procent syrah.\n\nHoe gemaakt. Gerijpt op grote vaten van Slavonisch eiken, met een klein deel op roestvrij staal.\n\nWaar vandaan. Chianti Classico, het hart van Toscane tussen Florence en Siena.\n\nHet verhaal. De familie Antinori maakt al sinds 1385 wijn: toen werd Giovanni di Piero Antinori lid van het wijngilde van Florence. Inmiddels zijn ze ruim 26 generaties verder, en het bedrijf is nog altijd in familiehanden.\n\nSchenken. Rond 16 graden, bij pasta of pizza. Onthoud: grote vaten, fris resultaat.",
+        "audio": "audio/antinori-peppoli-chianti-classico-lang.mp3"
+      },
+      "proef": {
+        "kleur": {
+          "naam": "Robijnrood",
+          "hex": "#8E1B2E"
+        },
+        "geur": {
+          "fruit": [
+            "citrus",
+            "pruim",
+            "bloemen"
+          ],
+          "maken": [
+            "chocolade"
+          ],
+          "rijping": []
+        },
+        "smaak": {
+          "fruit": [],
+          "maken": [],
+          "rijping": []
+        }
+      },
+      "bronnen": [
+        {
+          "titel": "Mark Anthony – Peppoli Chianti Classico 2021 (familiegeschiedenis)",
+          "url": "https://markanthony.kork.ca/en/our-wineries/antinori-estates/peppoli-chianti-classico/2021"
+        },
+        {
+          "titel": "Mark Anthony – Peppoli Chianti Classico 2021 (familiegeschiedenis)",
+          "url": "https://markanthony.kork.ca/en/our-wineries/antinori-estates/peppoli-chianti-classico/2021"
+        }
+      ],
+      "zekerheid": "hoog",
+      "bijgewerkt": "2026-10-07"
+    },
+    {
+      "id": "antinori-marchese-antinori-riserva",
+      "ean": [],
+      "naam": "Marchese Antinori Chianti Classico Riserva",
+      "producent": "Marchesi Antinori",
+      "druiven": [
+        "Sangiovese",
+        "Cabernet Franc"
+      ],
+      "land": "Italië",
+      "regio": "Toscane (Chianti Classico)",
+      "appellation": "Chianti Classico DOCG Riserva",
+      "kort": {
+        "tekst": "Het wijnweetje van deze fles! Deze Riserva komt van hetzelfde landgoed als Tignanello: Tenuta Tignanello, tussen de rivieren Greve en Pesa.\n\nWat je proeft. Rood fruit met kaasjeskruid en lavendel, witte chocolade en specerij. Elegant, met witte peper en cacao in de afdronk.\n\nOnthoud. Riserva betekent langer gerijpt.",
+        "audio": "audio/antinori-marchese-antinori-riserva-kort.mp3"
+      },
+      "lang": {
+        "tekst": "Het hele verhaal van deze fles! De Chianti van het Tignanello-landgoed.\n\nIn je glas. Robijnrood. Je ruikt vers rood fruit, kaasjeskruid en lavendel, met witte chocolade en specerij.\n\nOp je tong. Een zachte aanzet, elegante smaken en levendige tannines. Een lange afdronk met witte peper, cacao en bloemen. 14 procent alcohol.\n\nDe druif. 90 procent sangiovese en 10 procent cabernet franc.\n\nHoe gemaakt. Ongeveer een jaar op Franse en Hongaarse barriques, daarna twaalf maanden op fles.\n\nWaar vandaan. Tenuta Tignanello in de Chianti Classico: 319 hectare, waarvan 130 hectare wijngaard.\n\nHet verhaal. De familie Antinori maakt al sinds 1385 wijn: toen werd Giovanni di Piero Antinori lid van het wijngilde van Florence. Inmiddels zijn ze ruim 26 generaties verder, en het bedrijf is nog altijd in familiehanden.\n\nSchenken. Rond 17 graden, bij gegrild vlees of stoofpot. Onthoud: Tignanello-grond, Chianti-wijn.",
+        "audio": "audio/antinori-marchese-antinori-riserva-lang.mp3"
+      },
+      "proef": {
+        "kleur": {
+          "naam": "Robijnrood",
+          "hex": "#8E1B2E"
+        },
+        "geur": {
+          "fruit": [
+            "roodfruit",
+            "bloemen"
+          ],
+          "maken": [
+            "chocolade",
+            "specerij"
+          ],
+          "rijping": []
+        },
+        "smaak": {
+          "fruit": [],
+          "maken": [
+            "peper",
+            "chocolade"
+          ],
+          "rijping": []
+        }
+      },
+      "bronnen": [
+        {
+          "titel": "The Finest Bubble – Marchese Antinori Chianti Classico Riserva 2020",
+          "url": "https://thefinestbubble.com/wine-marchese-antinori-chianti-classico-riserva-tenuta-tignanello-2020"
+        },
+        {
+          "titel": "Mark Anthony – Peppoli Chianti Classico 2021 (familiegeschiedenis)",
+          "url": "https://markanthony.kork.ca/en/our-wineries/antinori-estates/peppoli-chianti-classico/2021"
+        }
+      ],
+      "zekerheid": "hoog",
+      "bijgewerkt": "2026-10-07"
+    },
+    {
+      "id": "antinori-badia-a-passignano",
+      "ean": [],
+      "naam": "Badia a Passignano Chianti Classico Gran Selezione",
+      "producent": "Marchesi Antinori",
+      "druiven": [
+        "Sangiovese"
+      ],
+      "land": "Italië",
+      "regio": "Toscane (Chianti Classico)",
+      "appellation": "Chianti Classico DOCG Gran Selezione",
+      "kort": {
+        "tekst": "Het wijnweetje van deze fles! Deze wijn rijpt in de kelders onder een abdij uit de tiende eeuw: de Badia a Passignano.\n\nWat je proeft. Zwarte kers, hondsroos, melkchocolade en cacao, met lavendel, iris en saffraan. Levendig en strak.\n\nOnthoud. Gran Selezione is de hoogste trede van de Chianti Classico.",
+        "audio": "audio/antinori-badia-a-passignano-kort.mp3"
+      },
+      "lang": {
+        "tekst": "Het hele verhaal van deze fles! Wijn uit een abdijkelder van duizend jaar oud.\n\nIn je glas. Diep robijnrood. Je ruikt zwarte kers en hondsroos, melkchocolade en cacao, met lavendel, iris en saffraan.\n\nOp je tong. Levendig, strak en slank, met een lange, hartige afdronk.\n\nDe druif. Honderd procent sangiovese.\n\nHoe gemaakt. Na ontstelen en zacht kneuzen tien dagen gisting, gevolgd door tien tot twaalf dagen maceratie. Daarna rijping op Hongaars en wat Frans eikenhout, en nog een tijd op fles.\n\nWaar vandaan. Chianti Classico, op ongeveer 300 meter hoogte, op kalkrijke bodems met wat klei.\n\nHet verhaal. De wijn rijpt in historische kelders onder de abdij van Passignano, die teruggaat tot de tiende eeuw. Rond het jaar 1000 werd hier al wijn gemaakt. De familie Antinori maakt al sinds 1385 wijn: toen werd Giovanni di Piero Antinori lid van het wijngilde van Florence. Inmiddels zijn ze ruim 26 generaties verder, en het bedrijf is nog altijd in familiehanden.\n\nSchenken. Rond 17 tot 18 graden, bij wild of truffel. Onthoud: een abdijkelder van duizend jaar.",
+        "audio": "audio/antinori-badia-a-passignano-lang.mp3"
+      },
+      "proef": {
+        "kleur": {
+          "naam": "Diep robijnrood",
+          "hex": "#6E1229"
+        },
+        "geur": {
+          "fruit": [
+            "kers",
+            "bloemen"
+          ],
+          "maken": [
+            "chocolade",
+            "specerij"
+          ],
+          "rijping": []
+        },
+        "smaak": {
+          "fruit": [],
+          "maken": [],
+          "rijping": []
+        }
+      },
+      "bronnen": [
+        {
+          "titel": "Antinori – Badia a Passignano 2020",
+          "url": "https://www.antinori.it/en/vino/badia-a-passignano-en/badia-a-passignano-2017-3-2-2-2/tasting-notes-2/"
+        },
+        {
+          "titel": "Mark Anthony – Peppoli Chianti Classico 2021 (familiegeschiedenis)",
+          "url": "https://markanthony.kork.ca/en/our-wineries/antinori-estates/peppoli-chianti-classico/2021"
+        }
+      ],
+      "zekerheid": "hoog",
+      "bijgewerkt": "2026-10-07"
+    },
+    {
+      "id": "antinori-pian-delle-vigne-brunello",
+      "ean": [],
+      "naam": "Pian delle Vigne Brunello di Montalcino",
+      "producent": "Marchesi Antinori",
+      "druiven": [
+        "Sangiovese"
+      ],
+      "land": "Italië",
+      "regio": "Montalcino",
+      "appellation": "Brunello di Montalcino DOCG",
+      "kort": {
+        "tekst": "Het wijnweetje van deze fles! Pian delle Vigne is vernoemd naar het gebied waar een karakteristiek treinstationnetje uit de negentiende eeuw staat.\n\nWat je proeft. Rijpe kers met bloemen, chocolade, tabak, kruidnagel en kruiden. Fijn en elegant, met een extreem lange afdronk.\n\nOnthoud. Brunello: honderd procent sangiovese, en lang gerijpt.",
+        "audio": "audio/antinori-pian-delle-vigne-brunello-kort.mp3"
+      },
+      "lang": {
+        "tekst": "Het hele verhaal van deze fles! Een Brunello van bij het oude station.\n\nIn je glas. Intens robijnrood. Je ruikt rijp rood fruit, vooral kers, met lichte bloemige tonen en hints van chocolade, tabak, kruidnagel en kruiden.\n\nOp je tong. Veel finesse en elegantie, met frisheid, zachte tannines en een uitzonderlijk lange afdronk vol tabak en specerij.\n\nDe druif. Honderd procent sangiovese, in Montalcino ook wel brunello genoemd.\n\nHoe gemaakt. Twee jaar op eiken vaten van 30 tot 80 hectoliter, daarna een lange rijping in de kelder en op fles.\n\nWaar vandaan. Zes kilometer ten zuidwesten van Montalcino: een landgoed van 184 hectare, waarvan zo'n 65 hectare wijngaard.\n\nHet verhaal. De naam komt van het gebied rond een treinstationnetje uit de negentiende eeuw. De familie Antinori maakt al sinds 1385 wijn: toen werd Giovanni di Piero Antinori lid van het wijngilde van Florence. Inmiddels zijn ze ruim 26 generaties verder, en het bedrijf is nog altijd in familiehanden.\n\nSchenken. Rond 18 graden, bij wild of oude Pecorino. Onthoud: het station gaf de naam.",
+        "audio": "audio/antinori-pian-delle-vigne-brunello-lang.mp3"
+      },
+      "proef": {
+        "kleur": {
+          "naam": "Intens robijnrood",
+          "hex": "#6E1229"
+        },
+        "geur": {
+          "fruit": [
+            "kers",
+            "bloemen",
+            "kruiden"
+          ],
+          "maken": [
+            "chocolade",
+            "specerij"
+          ],
+          "rijping": [
+            "tabak"
+          ]
+        },
+        "smaak": {
+          "fruit": [],
+          "maken": [
+            "specerij"
+          ],
+          "rijping": [
+            "tabak"
+          ]
+        }
+      },
+      "bronnen": [
+        {
+          "titel": "Antinori – Pian delle Vigne 2016",
+          "url": "https://www.antinori.it/en/vino/pian-delle-vigne-brunello-en/pian-delle-vigne-2013-2-2-2-2/vinification/?gen_pdf=1"
+        },
+        {
+          "titel": "Mark Anthony – Peppoli Chianti Classico 2021 (familiegeschiedenis)",
+          "url": "https://markanthony.kork.ca/en/our-wineries/antinori-estates/peppoli-chianti-classico/2021"
+        }
+      ],
+      "zekerheid": "hoog",
+      "bijgewerkt": "2026-10-07"
+    },
+    {
+      "id": "antinori-cervaro-della-sala",
+      "ean": [],
+      "naam": "Cervaro della Sala",
+      "producent": "Marchesi Antinori",
+      "druiven": [
+        "Chardonnay",
+        "Grechetto"
+      ],
+      "land": "Italië",
+      "regio": "Umbrië",
+      "appellation": "Umbria IGT",
+      "kort": {
+        "tekst": "Het wijnweetje van deze fles! Cervaro was een van de eerste Italiaanse witte wijnen die de malolactische gisting op barriques doormaakte. Een pionier, sinds 1985.\n\nWat je proeft. Licht geroosterd, met citrus, tropisch fruit en boter. Hartig en fris, met kamille, wit fruit en vuursteen.\n\nOnthoud. Een Italiaanse witte met Bourgondische ambities.",
+        "audio": "audio/antinori-cervaro-della-sala-kort.mp3"
+      },
+      "lang": {
+        "tekst": "Het hele verhaal van deze fles! Een witte wijn van een kasteel in Umbrië.\n\nIn je glas. Stralend strogeel met groene tinten. Je ruikt lichte geroosterde tonen, citrus, tropisch fruit en boter.\n\nOp je tong. Opvallend hartig en fris, met kamille, wit fruit en vuursteen, en een lange afdronk.\n\nDe druif. Chardonnay met een beetje grechetto, een inheemse druif uit Umbrië.\n\nHoe gemaakt. De chardonnay rijpt ongeveer vijf maanden op barriques, waarin ook de malolactische gisting plaatsvindt.\n\nWaar vandaan. Castello della Sala, bij Orvieto in Umbrië.\n\nHet verhaal. De eerste jaargang was 1985, gemaakt door oenoloog Renzo Cotarella. De familie Antinori maakt al sinds 1385 wijn: toen werd Giovanni di Piero Antinori lid van het wijngilde van Florence. Inmiddels zijn ze ruim 26 generaties verder, en het bedrijf is nog altijd in familiehanden.\n\nSchenken. Rond 12 graden, bij kreeft, risotto of witte truffel. Onthoud: Italiaanse chardonnay met een kasteel.",
+        "audio": "audio/antinori-cervaro-della-sala-lang.mp3"
+      },
+      "proef": {
+        "kleur": {
+          "naam": "Stralend strogeel",
+          "hex": "#EDE6A8"
+        },
+        "geur": {
+          "fruit": [
+            "citrus",
+            "tropisch"
+          ],
+          "maken": [
+            "geroosterd",
+            "boter"
+          ],
+          "rijping": []
+        },
+        "smaak": {
+          "fruit": [
+            "frisfruit",
+            "bloemen"
+          ],
+          "maken": [],
+          "rijping": [
+            "mineraal"
+          ]
+        }
+      },
+      "bronnen": [
+        {
+          "titel": "Antinori – Cervaro della Sala",
+          "url": "https://www.antinori.it/en/vino/cervaro-della-sala-en/cervaro-della-sala-2016-2-2-2/tasting-notes/"
+        },
+        {
+          "titel": "Mark Anthony – Peppoli Chianti Classico 2021 (familiegeschiedenis)",
+          "url": "https://markanthony.kork.ca/en/our-wineries/antinori-estates/peppoli-chianti-classico/2021"
+        }
+      ],
+      "zekerheid": "hoog",
+      "bijgewerkt": "2026-10-07"
+    },
+    {
+      "id": "antinori-santa-cristina-rosso",
+      "ean": [],
+      "naam": "Santa Cristina Rosso",
+      "producent": "Marchesi Antinori",
+      "druiven": [
+        "Sangiovese",
+        "Merlot",
+        "Syrah",
+        "Cabernet Sauvignon"
+      ],
+      "land": "Italië",
+      "regio": "Toscane",
+      "appellation": "Toscana IGT",
+      "kort": {
+        "tekst": "Het wijnweetje van deze fles! Santa Cristina werd in 1946 voor het eerst gemaakt door markies Niccolò Antinori, kort na de Tweede Wereldoorlog.\n\nWat je proeft. Kers, braam en pruim, met vanille en koffie. Soepel en omhullend.\n\nOnthoud. De toegankelijke instap van Antinori.",
+        "audio": "audio/antinori-santa-cristina-rosso-kort.mp3"
+      },
+      "lang": {
+        "tekst": "Het hele verhaal van deze fles! Een makkelijke Toscaan met een lange geschiedenis.\n\nIn je glas. Rood met paarse tinten. Je ruikt kersen, bramen en pruimen, met vanille en koffie.\n\nOp je tong. Soepel en omhullend, met fruit tot in de afdronk. 13 procent alcohol.\n\nDe druif. Een blend van merlot, syrah, sangiovese en cabernet sauvignon.\n\nHoe gemaakt. Over de rijping? Die details zitten nog in de kelder opgesloten, en de sleutel ben ik kwijt.\n\nWaar vandaan. Toscane.\n\nHet verhaal. De eerste Santa Cristina werd in 1946 gemaakt door markies Niccolò Antinori. De familie Antinori maakt al sinds 1385 wijn: toen werd Giovanni di Piero Antinori lid van het wijngilde van Florence. Inmiddels zijn ze ruim 26 generaties verder, en het bedrijf is nog altijd in familiehanden.\n\nSchenken. Rond 16 graden, bij pasta, pizza of burgers. Onthoud: Santa Cristina, sinds 1946.",
+        "audio": "audio/antinori-santa-cristina-rosso-lang.mp3"
+      },
+      "proef": {
+        "kleur": {
+          "naam": "Rood met paarse tinten",
+          "hex": "#7A1430"
+        },
+        "geur": {
+          "fruit": [
+            "kers",
+            "braam",
+            "pruim"
+          ],
+          "maken": [
+            "vanille",
+            "koffie"
+          ],
+          "rijping": []
+        },
+        "smaak": {
+          "fruit": [
+            "roodfruit"
+          ],
+          "maken": [],
+          "rijping": []
+        }
+      },
+      "bronnen": [
+        {
+          "titel": "Mark Anthony – Santa Cristina Toscana 2019",
+          "url": "https://markanthony.kork.ca/en/our-wineries/santa-cristina/santa-cristina-toscana/2019"
+        },
+        {
+          "titel": "Mark Anthony – Peppoli Chianti Classico 2021 (familiegeschiedenis)",
+          "url": "https://markanthony.kork.ca/en/our-wineries/antinori-estates/peppoli-chianti-classico/2021"
+        }
+      ],
+      "zekerheid": "middel",
+      "bijgewerkt": "2026-10-07"
     }
   ]
 }

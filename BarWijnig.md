@@ -45,6 +45,7 @@ Scan een wijnfles en hoor meteen het verhaal van die wijn, zoals Hitster dat doe
 - [x] "Meer zoals deze" (op druif, aroma's, herkomst) en "Koop deze fles" (verschijnt zodra er een affiliatelink is)
 - [x] Batch 3: 30 wijnen totaal (Drostdy-Hof Steen vervangen door Cono Sur Bicicleta Pinot Noir: geen bronnen gevonden)
 - [x] Automatisch afspelen (met schakelaar, standaard aan)
+- [x] Uitbreiding naar 89 wijnen: Barefoot Chardonnay, Bread & Butter Chardonnay, 19 Crimes (17), Mucho Más (alle 13), Bernardus (8), Moët & Chandon (8), Antinori top 12
 - [ ] Live etiket scannen + zelfgroeiende catalogus (in uitvoering)
   - [x] Virtuele kaart geregeld
   - [ ] Claude Console: account, $30 tegoed (bijladen uit), werkruimte "BarWijnig", limiet $25, API-sleutel
@@ -72,3 +73,4 @@ Scan een wijnfles en hoor meteen het verhaal van die wijn, zoals Hitster dat doe
 - Stem Alex gekozen; audio gemaakt voor alle wijnen. Batch 3 toegevoegd: top 30 compleet. "Meer zoals deze" vult nu altijd aan tot 3 (ook voor rosé).
 - Automatisch afspelen gebouwd: geluid wordt ontgrendeld bij de tik op het vat; als de browser toch blokkeert, pulseert de knop "Tik om te luisteren". Schakelaar "Automatisch afspelen" per toestel onthouden.
 - Besloten om live etiket scannen te bouwen met een harde grens van €30 per maand. Virtuele kaart geregeld; Console-account wordt morgen afgerond. Gepauzeerd tot morgen.
+- Op verzoek van Len catalogus uitgebreid naar 89 wijnen (19 Crimes, Mucho Más, Bernardus, Moët & Chandon, Antinori top 12, twee chardonnays), allemaal met verhaal, proefkaart, bronnen en audio. Zoeken toont nu tot 25 resultaten.
