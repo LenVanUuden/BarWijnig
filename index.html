@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="nl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>BarWijnig</title>
+  <meta name="description" content="Scan een wijn en hoor het verhaal erachter.">
+  <meta name="theme-color" content="#5b1a2b">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="stylesheet" href="style.css">
+  <!-- Barcode-scanner: gebruikt de ingebouwde scanner van de telefoon waar mogelijk, anders een JS-fallback -->
+  <script src="https://unpkg.com/html5-qrcode@2.3.8/html5-qrcode.min.js" defer></script>
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <header class="top">
+    <h1>BarWijnig</h1>
+    <p class="tagline">Scan de barcode, hoor het verhaal.</p>
+  </header>
+
+  <main>
+    <!-- Startscherm -->
+    <section id="start" class="screen active">
+      <button id="btn-scan" class="primary">📷 Scan een fles</button>
+      <div class="or">of zoek op naam</div>
+      <input id="search" type="search" placeholder="Bijv. Rioja, Chardonnay, producent…" autocomplete="off">
+      <ul id="results" class="results"></ul>
+      <p id="catalog-count" class="muted"></p>
+    </section>
+
+    <!-- Scanner -->
+    <section id="scanner" class="screen">
+      <div id="reader"></div>
+      <p class="muted">Richt de camera op de barcode op het achteretiket.</p>
+      <button id="btn-stop" class="secondary">Annuleren</button>
+    </section>
+
+    <!-- Verhaal -->
+    <section id="story" class="screen">
+      <p class="eyebrow" id="w-region"></p>
+      <h2 id="w-name"></h2>
+      <p class="muted" id="w-meta"></p>
+
+      <div class="toggle" role="tablist">
+        <button id="tab-kort" class="tab active" role="tab">Kort</button>
+        <button id="tab-lang" class="tab" role="tab">Voor nerds</button>
+      </div>
+
+      <div id="player"></div>
+      <article id="w-text" class="text"></article>
+
+      <details id="w-sources" class="sources">
+        <summary>Bronnen</summary>
+        <ul id="w-source-list"></ul>
+      </details>
+
+      <button id="btn-back" class="secondary">← Nog een fles</button>
+    </section>
+
+    <!-- Onbekende wijn -->
+    <section id="unknown" class="screen">
+      <h2>Dit verhaal staat nog niet klaar</h2>
+      <p>We kennen deze fles nog niet. Hij staat op de lijst en het verhaal wordt binnenkort gemaakt.</p>
+      <p class="muted">Barcode: <code id="u-code"></code></p>
+      <button id="btn-share" class="primary">Stuur door aan de maker</button>
+      <button id="btn-back2" class="secondary">← Terug</button>
+    </section>
+  </main>
+
+  <footer class="foot muted">Testversie · teksten gemaakt met AI en gecontroleerd tegen bronnen</footer>
+</body>
+</html>

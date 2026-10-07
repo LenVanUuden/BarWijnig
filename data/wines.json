@@ -1,0 +1,18 @@
+{
+  "_schema": {
+    "id": "unieke slug, bv. 'producent-cuvee-kleur'",
+    "ean": "lijst van barcodes (EAN-13) die bij deze wijn horen",
+    "naam": "naam zoals op het etiket",
+    "producent": "producent / huis",
+    "druiven": "lijst van druivenrassen",
+    "land": "land",
+    "regio": "regio",
+    "appellation": "appellation / herkomstbenaming (leeg als niet van toepassing)",
+    "kort": "{ tekst, audio (pad naar mp3), spotify (link naar aflevering, leeg tot gepubliceerd) }",
+    "lang": "{ tekst, audio, spotify }",
+    "bronnen": "lijst van { titel, url } waarop de feiten zijn gecontroleerd",
+    "zekerheid": "'hoog' (feiten in >=2 bronnen bevestigd) of 'middel' (details algemeen geformuleerd)",
+    "bijgewerkt": "datum JJJJ-MM-DD"
+  },
+  "wijnen": []
+}
