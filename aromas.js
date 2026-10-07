@@ -34,5 +34,8 @@ window.AROMAS = {
   leer:        { naam: 'Leer',        d: 'M6 4c2 1 4 1 6 0s4-1 6 0c-1 3-1 5 0 8s1 5 0 8c-2-1-4-1-6 0s-4 1-6 0c1-3 1-5 0-8s-1-5 0-8z' },
   tabak:       { naam: 'Tabak',       d: 'M5 19C5 10 10 5 19 5c0 9-5 14-14 14zM5 19l9-9' },
   aards:       { naam: 'Aards',       d: 'M3 18h18M5 18c1-4 4-6 7-6s6 2 7 6M8 14l-1-3M14 12l1-4' },
+  zwartfruit:  { naam: 'Zwart fruit', bg: '#E6E1F0', kleur: '#2E2350', d: 'M8 14a2.5 2.5 0 1 0 0 .1M13 16a2.5 2.5 0 1 0 0 .1M16 11a2.5 2.5 0 1 0 0 .1M8 11c2-4 5-7 10-8' },
+  koffie:      { naam: 'Koffie',      d: 'M12 4c3 0 5 3.5 5 8s-2 8-5 8-5-3.5-5-8 2-8 5-8zM12 4c-1.5 3-1.5 13 0 16' },
+  nougat:      { naam: 'Nougat',      d: 'M4 8h16v8H4zM8 11h.01M12 13h.01M16 11h.01' },
   noten:       { naam: 'Noten',       d: 'M12 4c4 0 6 3 6 7s-3 9-6 9-6-5-6-9 2-7 6-7zM12 4v16' },
 };

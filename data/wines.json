@@ -602,6 +602,585 @@
           "rijping": []
         }
       }
+    },
+    {
+      "id": "marques-de-caceres-crianza",
+      "ean": [],
+      "naam": "Marqués de Cáceres Crianza",
+      "producent": "Marqués de Cáceres",
+      "druiven": [
+        "Tempranillo",
+        "Garnacha",
+        "Graciano"
+      ],
+      "land": "Spanje",
+      "regio": "Rioja Alta en Rioja Alavesa",
+      "appellation": "DOCa Rioja",
+      "kort": {
+        "tekst": "Het wijnweetje van deze fles! Deze crianza rijpt een jaar op vaten van twee soorten eikenhout tegelijk: Frans én Amerikaans. Het Franse eiken geeft verfijning, het Amerikaanse die zoete vanille.\n\nWat je proeft. Viooltjes, rood fruit en vanille in de neus. In de mond pruim, zwarte kers en gedroogde kruiden, met fijne tannines.\n\nOnthoud. Crianza betekent in Rioja: minstens twee jaar rijping, waarvan één op vat.",
+        "audio": "",
+        "spotify": ""
+      },
+      "lang": {
+        "tekst": "Het hele verhaal van deze fles! Eén wijn, twee soorten eikenhout. Daar zit het geheim van deze crianza.\n\nIn je glas. Levendig rood met heldere glans. Je ruikt viooltjes, rood fruit, frisse specerijen en vanille.\n\nOp je tong. Middelvol en fruitig, met rijpe pruim, zwarte kers, gedroogde kruiden en wat specerij. Fijne tannines en een frisse zuurgraad.\n\nDe druif. Een blend van tempranillo, garnacha en graciano. Tempranillo is de basis, garnacha geeft sappig fruit en graciano brengt kleur, zuren en kruidigheid.\n\nHoe gemaakt. Ongeveer drie weken schilcontact geeft kleur en structuur. De gisting start koel, rond 10 graden, en loopt op naar 28 graden. Daarna rijpt de wijn twaalf maanden op vaten: 60 procent Frans en 40 procent Amerikaans eiken, waarvan een kwart nieuw. Nieuwe vaten geven meer houtsmaak dan oude. Daarna nog minstens een jaar op fles.\n\nWaar vandaan. Rioja, vooral uit Rioja Alta, aangevuld met druiven uit Rioja Alavesa. Crianza is een wettelijke rijpingsklasse: minstens twee jaar rijping, waarvan één op vat.\n\nHet verhaal. Over de oprichting van dit huis wil ik je graag meer vertellen, maar daar is helaas een flinke vlek rode wijn overheen gegaan in mijn aantekeningen.\n\nSchenken. Rond 16 tot 18 graden, bij lamsvlees, stoofgerechten of harde kaas. Onthoud: Frans eiken voor verfijning, Amerikaans eiken voor vanille.",
+        "audio": "",
+        "spotify": ""
+      },
+      "proef": {
+        "kleur": {
+          "naam": "Levendig rood",
+          "hex": "#9B1B30"
+        },
+        "geur": {
+          "fruit": [
+            "roodfruit",
+            "bloemen"
+          ],
+          "maken": [
+            "vanille",
+            "specerij"
+          ],
+          "rijping": []
+        },
+        "smaak": {
+          "fruit": [
+            "pruim",
+            "kers",
+            "kruiden"
+          ],
+          "maken": [
+            "specerij"
+          ],
+          "rijping": []
+        }
+      },
+      "bronnen": [
+        {
+          "titel": "Grape to Glass – technische fiche Marqués de Cáceres Rioja Crianza 2019",
+          "url": "https://grape-to-glass.com/wp-content/uploads/2024/01/MDC-Rioja-Crianza-2019.pdf"
+        }
+      ],
+      "zekerheid": "hoog",
+      "bijgewerkt": "2026-10-07"
+    },
+    {
+      "id": "gato-negro-cabernet-sauvignon",
+      "ean": [],
+      "naam": "Gato Negro Cabernet Sauvignon",
+      "producent": "Viña San Pedro",
+      "druiven": [
+        "Cabernet Sauvignon"
+      ],
+      "land": "Chili",
+      "regio": "Central Valley",
+      "appellation": "Valle Central",
+      "kort": {
+        "tekst": "Het wijnweetje van deze fles! Gato Negro betekent 'zwarte kat'. Hij wordt gemaakt door Viña San Pedro, sinds 1865 een van de oudste en grootste wijnexporteurs van Chili.\n\nWat je proeft. Zwarte bes, hout en specerij in de neus. In de mond rood fruit, koffie en drop, met een zacht vleugje vanille en chocolade.\n\nOnthoud. Een makkelijke, fluweelzachte cabernet voor elke dag.",
+        "audio": "",
+        "spotify": ""
+      },
+      "lang": {
+        "tekst": "Het hele verhaal van deze fles! Een zwarte kat op het etiket. Brengt dat geluk of ongeluk? In elk geval een heleboel flessen.\n\nIn je glas. Diep robijnrood. Je ruikt zwarte bes, hout en specerij.\n\nOp je tong. Vol en fluweelzacht, met rood fruit, koffie en drop. Zachte tannines en een lange afdronk, met een vleugje vanille en chocolade.\n\nDe druif. Cabernet sauvignon: kleine, dikschillige bessen, dus veel kleur en structuur. In Chili wordt hij vaak ronder en zachter dan in Bordeaux.\n\nHoe gemaakt. De vanille, koffie en chocolade wijzen op contact met eikenhout. Hoe lang precies? Dat vertelt de wijnmaker alleen na een flinke slok, en die heb ik nog niet gehad.\n\nWaar vandaan. De Central Valley van Chili, tussen de Andes en het kustgebergte. Zonnige dagen en koele nachten zorgen voor rijp fruit met frisheid.\n\nHet verhaal. Viña San Pedro bestaat sinds 1865. Onder Gato Negro maakt het huis een hele reeks wijnen, van carmenère tot sauvignon blanc, en zelfs een alcoholvrije versie. Waarom het juist een zwarte kat werd? Die details zitten nog in de kelder opgesloten, en de sleutel ben ik kwijt.\n\nSchenken. Rond 16 tot 18 graden, bij gebraden vlees, pasta bolognese of oude kaas. Onthoud: zwarte kat, zacht karakter.",
+        "audio": "",
+        "spotify": ""
+      },
+      "proef": {
+        "kleur": {
+          "naam": "Diep robijnrood",
+          "hex": "#5C0F22"
+        },
+        "geur": {
+          "fruit": [
+            "zwartebes"
+          ],
+          "maken": [
+            "eikenhout",
+            "specerij"
+          ],
+          "rijping": []
+        },
+        "smaak": {
+          "fruit": [
+            "roodfruit",
+            "drop"
+          ],
+          "maken": [
+            "koffie",
+            "vanille",
+            "chocolade"
+          ],
+          "rijping": []
+        }
+      },
+      "bronnen": [
+        {
+          "titel": "VSPT Wine Group – Gato Negro",
+          "url": "https://vsptwinegroup.com/en/?p=91"
+        },
+        {
+          "titel": "VinoVoss – San Pedro Gato Negro Cabernet Sauvignon",
+          "url": "https://vinovoss.com/wine/san-pedro-gato-negro-cabernet-sauvignon"
+        }
+      ],
+      "zekerheid": "middel",
+      "bijgewerkt": "2026-10-07"
+    },
+    {
+      "id": "le-grand-noir-pinot-noir",
+      "ean": [],
+      "naam": "Le Grand Noir Pinot Noir",
+      "producent": "Le Grand Noir",
+      "druiven": [
+        "Pinot Noir"
+      ],
+      "land": "Frankrijk",
+      "regio": "Languedoc",
+      "appellation": "IGP Pays d'Oc",
+      "kort": {
+        "tekst": "Het wijnweetje van deze fles! Achter dit zwarte schaap zitten drie mannen: een wijnschrijver, een ontwerper en een wijnmaker. Samen begonnen ze rond 2005 een merk zonder eigen wijngaarden.\n\nWat je proeft. Pruim en kers. Licht van body, schoon en goed in balans.\n\nOnthoud. Een lichte rode wijn, dus prima licht gekoeld te drinken.",
+        "audio": "",
+        "spotify": ""
+      },
+      "lang": {
+        "tekst": "Het hele verhaal van deze fles! Een wijnmerk zonder één eigen wijnstok. Toch gaan er jaarlijks bijna vier miljoen flessen de wereld over.\n\nIn je glas. Helder, licht robijnrood. Je ruikt pruim en kers.\n\nOp je tong. Licht van body, schoon en evenwichtig, met pruim en kers.\n\nDe druif. Honderd procent pinot noir, een dunschillige druif. Dunne schillen betekenen minder kleur en tannine. Daarom is pinot noir lichter en zachter dan bijvoorbeeld cabernet.\n\nHoe gemaakt. Over de vinificatie van deze pinot? Ik heb te diep in het glas gekeken, dus dat stukje van het verhaal ben ik even kwijt.\n\nWaar vandaan. De Languedoc in Zuid-Frankrijk, onder de brede herkomst IGP Pays d'Oc. De druiven komen van Celliers Jean d'Alibert, een coöperatie met ruim duizend wijnboeren.\n\nHet verhaal. Le Grand Noir werd rond 2005 opgezet door wijnschrijver Robert Joseph, ontwerper Kevin Shaw en wijnmaker Hugh Ryman. Ze bezitten zelf geen wijngaarden, maar kopen en blenden druiven uit verschillende terroirs. Zo maken ze elk jaar een consistente stijl, inmiddels voor zo'n zestig landen.\n\nSchenken. Licht gekoeld, rond 14 graden. Lekker bij gevogelte, paddenstoelen of gerookt vlees. Onthoud: dunne schil, lichte wijn.",
+        "audio": "",
+        "spotify": ""
+      },
+      "proef": {
+        "kleur": {
+          "naam": "Licht robijnrood",
+          "hex": "#A2283A"
+        },
+        "geur": {
+          "fruit": [
+            "pruim",
+            "kers"
+          ],
+          "maken": [],
+          "rijping": []
+        },
+        "smaak": {
+          "fruit": [
+            "pruim",
+            "kers"
+          ],
+          "maken": [],
+          "rijping": []
+        }
+      },
+      "bronnen": [
+        {
+          "titel": "The Buyer – Robert Joseph on Le Grand Noir",
+          "url": "https://www.the-buyer.net/insight/robert-joseph-on-le-grand-noir-and-building-a-global-wine-brand"
+        },
+        {
+          "titel": "Delectable – Le Grand Noir Pinot Noir",
+          "url": "https://delectable.com/wine/le-grand-noir/(black-sheep)-vin-de-pays-doc-pinot-noir/--"
+        }
+      ],
+      "zekerheid": "middel",
+      "bijgewerkt": "2026-10-07"
+    },
+    {
+      "id": "hardys-vr-shiraz",
+      "ean": [],
+      "naam": "Hardys VR Shiraz",
+      "producent": "Hardys",
+      "druiven": [
+        "Shiraz"
+      ],
+      "land": "Australië",
+      "regio": "South Eastern Australia",
+      "appellation": "South Eastern Australia",
+      "kort": {
+        "tekst": "Het wijnweetje van deze fles! Thomas Hardy kwam in 1850 als jonge Engelsman aan in Australië. Drie jaar later begon hij zijn wijnhuis, met het doel wijn te maken die de hele wereld zou willen.\n\nWat je proeft. Pruim en rode bes in de neus. In de mond framboos en zwarte kers, met zachte vanille en een kruidig randje.\n\nOnthoud. Shiraz is dezelfde druif als de Franse syrah, alleen met een andere naam.",
+        "audio": "",
+        "spotify": ""
+      },
+      "lang": {
+        "tekst": "Het hele verhaal van deze fles! Een Engelsman die in 1850 aankwam in Australië, en hielp de Australische wijnindustrie op te bouwen.\n\nIn je glas. Diep robijn tot paars, met een helderrode rand. Je ruikt zoete, rijpe pruim en rode bessen.\n\nOp je tong. Framboos en zwarte kers, met mooi geïntegreerde vanille van het hout. Zachte, ronde tannines en een kruidige afdronk.\n\nDe druif. Shiraz, in Frankrijk syrah genoemd. In het warme Australië wordt hij rijp, fruitig en royaal.\n\nHoe gemaakt. Vergist op roestvrij staal om het fruit zo zuiver mogelijk te houden. Daarna zorgt eikenhout voor de zachte vanille.\n\nWaar vandaan. South Eastern Australia: warme zomerdagen en veel zon, waardoor de druiven vol fruit worden.\n\nHet verhaal. Thomas Hardy arriveerde in 1850 in Australië en stichtte zijn wijnhuis in 1853. Hij wilde wijn maken die op de wereldmarkt gewaardeerd zou worden, en werd een van de pioniers van de Australische wijn.\n\nSchenken. Rond 16 graden, bij de barbecue, pizza of pasta. Onthoud: shiraz en syrah zijn dezelfde druif.",
+        "audio": "",
+        "spotify": ""
+      },
+      "proef": {
+        "kleur": {
+          "naam": "Diep robijn-paars",
+          "hex": "#5A1238"
+        },
+        "geur": {
+          "fruit": [
+            "pruim",
+            "rodebes"
+          ],
+          "maken": [],
+          "rijping": []
+        },
+        "smaak": {
+          "fruit": [
+            "framboos",
+            "kers"
+          ],
+          "maken": [
+            "vanille",
+            "specerij"
+          ],
+          "rijping": []
+        }
+      },
+      "bronnen": [
+        {
+          "titel": "Morrisons – Hardys VR Shiraz",
+          "url": "https://groceries.morrisons.com/products/hardys-vr-shiraz-75cl/110493328"
+        }
+      ],
+      "zekerheid": "middel",
+      "bijgewerkt": "2026-10-07"
+    },
+    {
+      "id": "jacobs-creek-shiraz-cabernet",
+      "ean": [],
+      "naam": "Jacob's Creek Classic Shiraz Cabernet",
+      "producent": "Jacob's Creek",
+      "druiven": [
+        "Shiraz",
+        "Cabernet Sauvignon"
+      ],
+      "land": "Australië",
+      "regio": "South Eastern Australia",
+      "appellation": "South Eastern Australia",
+      "kort": {
+        "tekst": "Het wijnweetje van deze fles! Jacob's Creek is echt een beek. In 1847 plantte Johann Gramp langs de oevers zijn eerste wijnstokken, en het merk werd naar dat water vernoemd.\n\nWat je proeft. Donkere kers, pruim en een vleugje mokka. In de mond pruim en braam, met zachte tannines.\n\nOnthoud. Shiraz geeft fruit en zachtheid, cabernet geeft structuur.",
+        "audio": "",
+        "spotify": ""
+      },
+      "lang": {
+        "tekst": "Het hele verhaal van deze fles! Een wijn vernoemd naar een beekje in Zuid-Australië.\n\nIn je glas. Diep rood met paarse tinten. Je ruikt donkere kers, pruim, een vleugje mokka, wat groene, bladerige tonen en ceder.\n\nOp je tong. Rijpe pruim en braam, met zachte, elegante tannines.\n\nDe druif. Een blend van shiraz en cabernet sauvignon, een typisch Australische combinatie. Shiraz geeft rijp fruit en zachtheid, cabernet brengt structuur en die bladerige tonen.\n\nHoe gemaakt. De ceder en de licht verbrande houttonen verraden eikenhout. Hoeveel en hoe lang? Dat heeft de wijnmaker diep in zijn kelder verstopt, en ik ben nog niet langs de vaten gekomen.\n\nWaar vandaan. South Eastern Australia, een brede herkomst. Zo kan het huis druiven uit verschillende gebieden combineren voor een vaste stijl.\n\nHet verhaal. Johann Gramp plantte in 1847 zijn eerste wijnstokken langs Jacob's Creek. Het merk heeft inmiddels duizenden prijzen gewonnen en de wijnmakerij draait op honderd procent hernieuwbare stroom.\n\nSchenken. Rond 16 graden, bij een steak, pizza of pasta met tomatensaus. Onthoud: de beek gaf de naam, de blend geeft de smaak.",
+        "audio": "",
+        "spotify": ""
+      },
+      "proef": {
+        "kleur": {
+          "naam": "Diep rood met paars",
+          "hex": "#5E1430"
+        },
+        "geur": {
+          "fruit": [
+            "kers",
+            "pruim",
+            "kruiden"
+          ],
+          "maken": [
+            "chocolade",
+            "eikenhout",
+            "geroosterd"
+          ],
+          "rijping": []
+        },
+        "smaak": {
+          "fruit": [
+            "pruim",
+            "braam"
+          ],
+          "maken": [],
+          "rijping": []
+        }
+      },
+      "bronnen": [
+        {
+          "titel": "Jacob's Creek – Classic Shiraz Cabernet (productfiche)",
+          "url": "https://sites.salsify.com/dc7778e0-55ac-40fc-81e3-fc4f0826a27e/297104cc-18bd-45f1-9693-c77c3e951a9f/en-GB/product/50508009/Classic-Shiraz-Cabernet-Red-Wine/"
+        }
+      ],
+      "zekerheid": "middel",
+      "bijgewerkt": "2026-10-07"
+    },
+    {
+      "id": "lindemans-bin-50-shiraz",
+      "ean": [],
+      "naam": "Lindeman's Bin 50 Shiraz",
+      "producent": "Lindeman's",
+      "druiven": [
+        "Shiraz"
+      ],
+      "land": "Australië",
+      "regio": "South Australia",
+      "appellation": "South Eastern Australia",
+      "kort": {
+        "tekst": "Het wijnweetje van deze fles! Ruik eens goed: eucalyptus. Dat typisch Australische aroma kom je vaker tegen in wijnen uit dit land.\n\nWat je proeft. Peper, eucalyptus, zwart fruit en wat hout. Droog en fris, met vlezige tannines.\n\nOnthoud. Het 'Bin'-nummer is een oud kelderadres, geen kwaliteitslabel.",
+        "audio": "",
+        "spotify": ""
+      },
+      "lang": {
+        "tekst": "Het hele verhaal van deze fles! Een rode wijn die naar Australië ruikt. Letterlijk.\n\nIn je glas. Kersenrood met goede intensiteit. Je ruikt peper, eucalyptus, zwart fruit en wat hout.\n\nOp je tong. Droog, met frisheid en vlezige tannines. Vol van textuur, met een redelijk lange afdronk.\n\nDe druif. Shiraz. In Australië wordt hij vaak vol en kruidig, en die zwarte peper is typisch voor de druif.\n\nHoe gemaakt. Druiven uit verschillende gebieden worden samengevoegd voor complexiteit en een vaste stijl. Een deel van de wijn rijpt op Amerikaans eikenhout.\n\nWaar vandaan. Zuid-Australië. Het eucalyptusaroma in Australische wijn wordt vaak in verband gebracht met eucalyptusbomen bij de wijngaarden.\n\nHet verhaal. Dokter Henry Lindeman stichtte het huis in 1843. Bin-nummers verwijzen naar de genummerde vakken waarin flessen vroeger in de kelder lagen. Dit is het rode broertje van de Bin 65 chardonnay.\n\nSchenken. Rond 16 tot 18 graden, bij lamsvlees of de barbecue. Onthoud: peper en eucalyptus, zo klinkt Australië in je glas.",
+        "audio": "",
+        "spotify": ""
+      },
+      "proef": {
+        "kleur": {
+          "naam": "Kersenrood",
+          "hex": "#8A1530"
+        },
+        "geur": {
+          "fruit": [
+            "peper",
+            "kruiden",
+            "zwartfruit"
+          ],
+          "maken": [
+            "eikenhout"
+          ],
+          "rijping": []
+        },
+        "smaak": {
+          "fruit": [
+            "zwartfruit"
+          ],
+          "maken": [],
+          "rijping": []
+        }
+      },
+      "bronnen": [
+        {
+          "titel": "Mark Anthony – Lindeman's Bin 50 Shiraz 2021",
+          "url": "https://markanthony.kork.ca/en/our-wineries/lindeman-s/bin-50-shiraz/2021"
+        },
+        {
+          "titel": "Lindeman's – About",
+          "url": "https://www.lindemans.com/en-us/about"
+        }
+      ],
+      "zekerheid": "middel",
+      "bijgewerkt": "2026-10-07"
+    },
+    {
+      "id": "yellow-tail-shiraz",
+      "ean": [],
+      "naam": "[yellow tail] Shiraz",
+      "producent": "Casella Family Brands",
+      "druiven": [
+        "Shiraz"
+      ],
+      "land": "Australië",
+      "regio": "South Eastern Australia",
+      "appellation": "South Eastern Australia",
+      "kort": {
+        "tekst": "Het wijnweetje van deze fles! Het diertje op het etiket is geen kangoeroe, maar een geelvoetrotswallaby. Dit merk werd in 2011 de meest geïmporteerde wijn van de Verenigde Staten.\n\nWat je proeft. Bes en vanille in de neus, met een aardse toon. In de mond sappige rode bessen en een peperige afdronk.\n\nOnthoud. Een zachte, ronde shiraz die gemaakt is om meteen lekker te zijn.",
+        "audio": "",
+        "spotify": ""
+      },
+      "lang": {
+        "tekst": "Het hele verhaal van deze fles! Een familie uit Sicilië, een wallaby op het etiket en een van de grootste wijnsuccessen ooit.\n\nIn je glas. Robijnrood. Je ruikt bessen, vanille en ingetogen aardse tonen.\n\nOp je tong. Sappige rode bessen, een zachte, rijpe zoetheid en fijne tannines, met een peperige afdronk. Rond de 13,5 procent alcohol.\n\nDe druif. Shiraz, in Frankrijk syrah. Die peperige afdronk is typisch voor de druif.\n\nHoe gemaakt. De vanille in de neus komt van eikenhout. Hoe ze het precies aanpakken? Ik heb te diep in het glas gekeken, dus dat stukje van het verhaal ben ik even kwijt.\n\nWaar vandaan. South Eastern Australia. De familie zit in Yenda, in de Riverina-regio van New South Wales.\n\nHet verhaal. De familie Casella emigreerde in 1957 van Sicilië naar Australië. In 2000 lanceerden ze [yellow tail], speciaal voor de export. In de VS ging het van 200.000 dozen in 2001 naar 2,2 miljoen een jaar later. Het dier op het etiket is de geelvoetrotswallaby.\n\nSchenken. Rond 16 graden, of iets koeler op een zomerse dag. Onthoud: geen kangoeroe, maar een wallaby.",
+        "audio": "",
+        "spotify": ""
+      },
+      "proef": {
+        "kleur": {
+          "naam": "Robijnrood",
+          "hex": "#8E1B2E"
+        },
+        "geur": {
+          "fruit": [
+            "roodfruit"
+          ],
+          "maken": [
+            "vanille"
+          ],
+          "rijping": [
+            "aards"
+          ]
+        },
+        "smaak": {
+          "fruit": [
+            "rodebes",
+            "peper"
+          ],
+          "maken": [],
+          "rijping": []
+        }
+      },
+      "bronnen": [
+        {
+          "titel": "Wikipedia – Yellow Tail (wine)",
+          "url": "https://en.wikipedia.org/wiki/Yellow_Tail_(wine)"
+        },
+        {
+          "titel": "Morrisons – Yellow Tail Shiraz",
+          "url": "https://groceries.morrisons.com/products/yellow-tail-shiraz/107101733"
+        }
+      ],
+      "zekerheid": "middel",
+      "bijgewerkt": "2026-10-07"
+    },
+    {
+      "id": "barefoot-merlot",
+      "ean": [],
+      "naam": "Barefoot Merlot",
+      "producent": "Barefoot",
+      "druiven": [
+        "Merlot"
+      ],
+      "land": "Verenigde Staten",
+      "regio": "Californië",
+      "appellation": "California",
+      "kort": {
+        "tekst": "Het wijnweetje van deze fles! Barefoot noemt zichzelf het meest bekroonde wijnmerk van de VS, en het begon in de jaren zestig in Californië met één idee: wijn moet voor iedereen zijn.\n\nWat je proeft. Braam, framboos, kers en pruim, met een vleugje chocolade. Zijdezacht.\n\nOnthoud. Merlot is de zachte, ronde broer van cabernet.",
+        "audio": "",
+        "spotify": ""
+      },
+      "lang": {
+        "tekst": "Het hele verhaal van deze fles! Een merk met een blote voet op het etiket, en een grote ambitie: wijn zonder drempel.\n\nIn je glas. Robijnrood. Je ruikt braam, framboos, kers en pruim.\n\nOp je tong. Rijk en zacht, met braam, framboos en chocolade, en een zijdezachte afdronk. Rond de 13 procent alcohol.\n\nDe druif. Merlot: een vroegrijpe druif met zachte tannines. Daardoor rond en toegankelijk, perfect voor wie geen stroeve rode wijn wil.\n\nHoe gemaakt. Geoogst in augustus en september. De wijnmaker koos speciaal geselecteerde gisten en een warme vergisting om kleur en fruit naar boven te halen. Daarna rust de wijn op roestvrijstalen tanks.\n\nWaar vandaan. Californië, waar veel zon zorgt voor rijp, zacht fruit.\n\nHet verhaal. Barefoot begon in de jaren zestig in Californië en kwam in 2007 naar het Verenigd Koninkrijk. Waarom juist een blote voet? Dat heeft de wijnmaker diep in zijn kelder verstopt, en ik ben nog niet langs de vaten gekomen.\n\nSchenken. Rond 15 tot 16 graden, bij pasta met tomatensaus, kip of kaas. Onthoud: merlot is zacht, en Barefoot maakt hem nog zachter.",
+        "audio": "",
+        "spotify": ""
+      },
+      "proef": {
+        "kleur": {
+          "naam": "Robijnrood",
+          "hex": "#8E1B2E"
+        },
+        "geur": {
+          "fruit": [
+            "braam",
+            "framboos",
+            "kers",
+            "pruim"
+          ],
+          "maken": [],
+          "rijping": []
+        },
+        "smaak": {
+          "fruit": [
+            "braam",
+            "framboos"
+          ],
+          "maken": [
+            "chocolade"
+          ],
+          "rijping": []
+        }
+      },
+      "bronnen": [
+        {
+          "titel": "Morrisons – Barefoot Merlot",
+          "url": "https://groceries.morrisons.com/products/barefoot-merlot-red-wine/104226186"
+        }
+      ],
+      "zekerheid": "middel",
+      "bijgewerkt": "2026-10-07"
+    },
+    {
+      "id": "drostdy-hof-cabernet-sauvignon",
+      "ean": [],
+      "naam": "Drostdy-Hof Cabernet Sauvignon",
+      "producent": "Drostdy-Hof",
+      "druiven": [
+        "Cabernet Sauvignon"
+      ],
+      "land": "Zuid-Afrika",
+      "regio": "West-Kaap (Tulbagh)",
+      "appellation": "Western Cape",
+      "kort": {
+        "tekst": "Het wijnweetje van deze fles! 'Drostdy' is een woord uit de Nederlandse koloniale tijd: het was het huis van de landdrost, de bestuurder van een district. In Tulbagh staat De Oude Drostdy nog steeds, als nationaal monument.\n\nWat je proeft. Kers en zwarte bes, met een hint van nougat en tabak. Licht en fris, met fijne tannines.\n\nOnthoud. Een lichtvoetige cabernet, makkelijk bij veel gerechten.",
+        "audio": "",
+        "spotify": ""
+      },
+      "lang": {
+        "tekst": "Het hele verhaal van deze fles! Een Zuid-Afrikaanse wijn met een Nederlandse naam en een Kaaps-Hollands landhuis als thuisbasis.\n\nIn je glas. Diep robijn tot granaatrood, met violette reflecties. Je ruikt kers en zwarte bes, met een hint van nougat en tabak.\n\nOp je tong. Lichtvoetig, met rode bessen, fijne tannines en een frisse structuur.\n\nDe druif. Cabernet sauvignon. In deze stijl licht en fris gehouden, in plaats van zwaar en stevig.\n\nHoe gemaakt. Over de vinificatie van deze cabernet? Daar is helaas een flinke vlek rode wijn overheen gegaan in mijn aantekeningen.\n\nWaar vandaan. De West-Kaap van Zuid-Afrika. De historische thuisbasis is Tulbagh, onder de Winterhoek-bergen.\n\nHet verhaal. Drostdy-Hof werd in de jaren zestig opgericht. De naam verwijst naar De Oude Drostdy, een gerestaureerd Kaaps-Hollands landhuis dat nu nationaal monument is, met een klein museum vol Kaapse meubels. Een drostdy was in de koloniale tijd de ambtswoning van de landdrost.\n\nSchenken. Rond 16 graden, bij veel verschillende gerechten. Onthoud: drostdy, het huis van de landdrost.",
+        "audio": "",
+        "spotify": ""
+      },
+      "proef": {
+        "kleur": {
+          "naam": "Robijn-granaatrood",
+          "hex": "#6B1A2A"
+        },
+        "geur": {
+          "fruit": [
+            "kers",
+            "zwartebes"
+          ],
+          "maken": [
+            "nougat"
+          ],
+          "rijping": [
+            "tabak"
+          ]
+        },
+        "smaak": {
+          "fruit": [
+            "roodfruit"
+          ],
+          "maken": [],
+          "rijping": []
+        }
+      },
+      "bronnen": [
+        {
+          "titel": "Falstaff – Drostdy-Hof Cabernet Sauvignon 2014",
+          "url": "https://www.falstaff.com/en/wines/drostdy-hof-2014-cabarnet-sauvignon"
+        },
+        {
+          "titel": "LekkeSlaap – Drostdy Hof Wines",
+          "url": "https://lekkeslaap.co.za/attractions/drostdy-hof-wines"
+        }
+      ],
+      "zekerheid": "middel",
+      "bijgewerkt": "2026-10-07"
+    },
+    {
+      "id": "nederburg-winemasters-cabernet-sauvignon",
+      "ean": [],
+      "naam": "Nederburg The Winemasters Cabernet Sauvignon",
+      "producent": "Nederburg",
+      "druiven": [
+        "Cabernet Sauvignon"
+      ],
+      "land": "Zuid-Afrika",
+      "regio": "Darling, Stellenbosch en Paarl",
+      "appellation": "Western Cape",
+      "kort": {
+        "tekst": "Het wijnweetje van deze fles! Nederburg begon in 1791, toen Philippus Bernardus Wolvaart een stuk land kreeg van de Verenigde Oost-Indische Compagnie. Een Zuid-Afrikaanse wijn met een stukje Nederlandse geschiedenis.\n\nWat je proeft. Zwarte bes, kers en vanille. In de mond kers en houtkruiden, met stevige tannines.\n\nOnthoud. Tien tot twaalf maanden op hout geeft die vanille en structuur.",
+        "audio": "",
+        "spotify": ""
+      },
+      "lang": {
+        "tekst": "Het hele verhaal van deze fles! Een wijnhuis dat begon met een stuk grond van de VOC.\n\nIn je glas. Diep robijnrood. Je ruikt zwarte bes en kers, met een vleugje vanille.\n\nOp je tong. Rijp, met kers en subtiele specerijen van het hout. Stevige tannines en een lange afdronk.\n\nDe druif. Cabernet sauvignon: dikke schillen, veel kleur en tannine. Daar komt de stevige structuur vandaan.\n\nHoe gemaakt. De druiven vergisten twee weken op de schillen in roestvrijstalen tanks, bij 25 tot 28 graden. Daarna rijpt de wijn tien tot twaalf maanden op eikenhouten vaten. Dat geeft de vanille en de houtkruiden.\n\nWaar vandaan. Drie gebieden in de West-Kaap: Darling, Stellenbosch en Paarl. Samen geven ze een evenwichtige stijl.\n\nHet verhaal. In 1791 kreeg Philippus Bernardus Wolvaart land van de VOC, in wat nu Paarl is. In 1808 stonden er al meer dan 63.000 wijnstokken. Sinds 2023 valt Nederburg onder Heineken Beverages.\n\nSchenken. Rond 16 tot 18 graden, bij steak, stoofpot of oude kaas. Onthoud: Nederburg, met de VOC aan de wieg.",
+        "audio": "",
+        "spotify": ""
+      },
+      "proef": {
+        "kleur": {
+          "naam": "Diep robijnrood",
+          "hex": "#5E0F24"
+        },
+        "geur": {
+          "fruit": [
+            "zwartebes",
+            "kers"
+          ],
+          "maken": [
+            "vanille"
+          ],
+          "rijping": []
+        },
+        "smaak": {
+          "fruit": [
+            "kers"
+          ],
+          "maken": [
+            "specerij",
+            "eikenhout"
+          ],
+          "rijping": []
+        }
+      },
+      "bronnen": [
+        {
+          "titel": "Fareham Wine Cellar – Nederburg Winemasters Reserve Cabernet Sauvignon",
+          "url": "https://farehamwinecellar.co.uk/product/nederburg-winemasters-reserve-cabernet-sauvignon/"
+        }
+      ],
+      "zekerheid": "middel",
+      "bijgewerkt": "2026-10-07"
     }
   ]
 }
