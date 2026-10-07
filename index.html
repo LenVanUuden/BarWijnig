@@ -17,6 +17,23 @@
 </head>
 <body>
 
+<!-- Leeftijdscheck (alcoholmarketing: alleen 18+) -->
+<div id="leeftijd" class="poort" hidden>
+  <div class="poort-kaart">
+    <div class="vat klein">
+      <div class="vat-romp"></div>
+      <div class="vat-hoepel boven"></div>
+      <div class="vat-hoepel onder"></div>
+      <div class="vat-kern vraag">18</div>
+    </div>
+    <h1 class="kop midden">Ben je 18 jaar<br>of ouder?</h1>
+    <p class="uitleg">BarWijnig gaat over wijn. Daarom is de app alleen voor volwassenen.</p>
+    <button id="btn-18-ja" class="knop-vol">Ja, ik ben 18+</button>
+    <button id="btn-18-nee" class="knop-rand">Nee</button>
+    <p id="leeftijd-nee" class="uitleg klein" hidden>Helaas, dan is BarWijnig nog niet voor jou. Kom terug als je 18 bent!</p>
+  </div>
+</div>
+
 <!-- 1 · Start -->
 <section id="start" class="screen active">
   <header class="row"><div class="logo">BarWijnig</div></header>
@@ -89,6 +106,9 @@
   <div id="duur" class="duur"></div>
 
   <div id="w-text" class="delen"></div>
+
+  <div id="w-koop"></div>
+  <section id="w-meer" class="meer"></section>
 
   <details id="w-sources" class="bronnen">
     <summary>Bronnen</summary>

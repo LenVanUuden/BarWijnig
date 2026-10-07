@@ -173,22 +173,92 @@ function renderVersion() {
     box.append(meta ? deelKaart(meta, body) : el('section', { class: 'deel' }, el('p', {}, body)));
   });
 
-  // Afspelen: Spotify-aflevering, eigen mp3, of voorlezen door de telefoon
+  // Afspelen: eigen mp3 (de BarWijnig-stem), anders voorlezen door de telefoon
+  stopAudio();
   speechSynthesis.cancel();
   const player = $('player');
   player.replaceChildren();
-  if (v.spotify) {
-    player.append(el('a', { class: 'spotify', href: v.spotify, target: '_blank', rel: 'noopener' },
-      (() => { const s = icon('M8 5v14l11-7z', { size: 22, stroke: '#10331D' }); s.setAttribute('fill', '#10331D'); return s; })(), 'Spotify'));
-  }
   if (v.audio) {
-    player.append(el('audio', { controls: '', preload: 'none', src: v.audio }));
+    const b = el('button', { class: 'luister' }, playIcon(false), el('span', {}, 'Luister'));
+    const balk = el('div', { class: 'voortgang' }, el('div'));
+    b.addEventListener('click', () => toggleAudio(v.audio, b, balk));
+    player.append(b, balk);
   } else if (v.tekst && 'speechSynthesis' in window) {
     const b = el('button', { class: 'voorlees' }, icon('M11 5L6 9H3v6h3l5 4zM15.5 8.5a5 5 0 0 1 0 7M18.5 5.5a9 9 0 0 1 0 13', { size: 22, stroke: '#3B2316', width: 2.2 }), el('span', {}, 'Lees voor'));
     b.addEventListener('click', () => speak(v.tekst, b));
     player.append(b);
   }
-  player.classList.toggle('een', player.children.length < 2);
+  player.classList.add('een');
+
+  renderKoopEnMeer(w);
+}
+
+// ---------- Eigen audio ----------
+let audio = null;
+function playIcon(speelt) {
+  const s = icon(speelt ? 'M8 5h3v14H8zM13 5h3v14h-3z' : 'M8 5v14l11-7z', { size: 22, stroke: '#FFF4E3', width: 1.5 });
+  s.setAttribute('fill', '#FFF4E3');
+  return s;
+}
+function stopAudio() { if (audio) { audio.pause(); audio = null; } }
+function toggleAudio(src, btn, balk) {
+  const label = btn.querySelector('span');
+  const zet = (speelt) => { btn.firstChild.replaceWith(playIcon(speelt)); label.textContent = speelt ? 'Pauze' : 'Luister'; };
+  if (!audio || !audio.src.endsWith(src)) {
+    stopAudio();
+    audio = new Audio(src);
+    audio.addEventListener('timeupdate', () => { if (audio && audio.duration) balk.firstChild.style.width = `${(audio.currentTime / audio.duration) * 100}%`; });
+    audio.addEventListener('ended', () => { zet(false); balk.firstChild.style.width = '100%'; });
+  }
+  if (audio.paused) { audio.play().then(() => zet(true)).catch(() => zet(false)); }
+  else { audio.pause(); zet(false); }
+}
+
+// ---------- Koop deze fles & Meer zoals deze ----------
+function wijnType(w) {
+  const k = normalize((w.proef && w.proef.kleur && w.proef.kleur.naam) || '');
+  if (/roze|rose|zalm/.test(k)) return 'rosé';
+  if (/geel|goud|citroen|stro|groen/.test(k)) return 'wit';
+  return 'rood';
+}
+function aromaSet(w) {
+  const s = new Set();
+  if (!w.proef) return s;
+  ['geur', 'smaak'].forEach((z) => Object.values(w.proef[z] || {}).flat().forEach((a) => s.add(a)));
+  return s;
+}
+function lijkendeWijnen(w, max = 3) {
+  const type = wijnType(w), A = aromaSet(w), druiven = new Set(w.druiven || []);
+  return state.wines
+    .filter((x) => x.id !== w.id && wijnType(x) === type)
+    .map((x) => {
+      const B = aromaSet(x);
+      const gedeeld = [...A].filter((a) => B.has(a));
+      const zelfdeDruif = (x.druiven || []).filter((d) => druiven.has(d));
+      const score = zelfdeDruif.length * 3 + (x.appellation && x.appellation === w.appellation ? 2 : 0) + (x.land === w.land ? 1 : 0) + gedeeld.length * 1.5;
+      let waarom = '';
+      if (zelfdeDruif.length) waarom = `Ook ${zelfdeDruif[0].toLowerCase()}`;
+      else if (gedeeld.length) waarom = `Ook ${gedeeld.slice(0, 2).map((a) => ((window.AROMAS || {})[a] || { naam: a }).naam.toLowerCase()).join(' en ')}`;
+      else if (x.land === w.land) waarom = `Ook uit ${x.land}`;
+      return { x, score, waarom };
+    })
+    .filter((r) => r.score > 0)
+    .sort((a, b) => b.score - a.score)
+    .slice(0, max);
+}
+function renderKoopEnMeer(w) {
+  // "Koop deze fles": verschijnt zodra er een (affiliate)link in de data staat
+  $('w-koop').replaceChildren(...(w.koop ? [el('a', { class: 'koop', href: w.koop, target: '_blank', rel: 'sponsored noopener' }, 'Koop deze fles')] : []));
+
+  const recs = lijkendeWijnen(w);
+  const box = $('w-meer');
+  box.replaceChildren();
+  if (!recs.length) return;
+  box.append(el('h2', {}, 'Meer wijnen zoals deze'), el('p', { class: 'meer-sub' }, 'Gekozen op druif, aroma’s en herkomst'));
+  recs.forEach(({ x, waarom }) => box.append(
+    el('button', { class: 'meer-kaart', onclick: () => openWine(x) },
+      el('div', { class: 'kleurbol', style: `background:${(x.proef && x.proef.kleur.hex) || '#8E1B2E'}` }),
+      el('div', {}, el('b', {}, x.naam), el('small', {}, [x.appellation || x.regio, x.land].filter(Boolean).join(' · ')), el('small', { class: 'waarom' }, waarom)))));
 }
 
 function speak(text, btn) {
@@ -256,7 +326,17 @@ async function stopScan(terug = true) {
 }
 
 // ---------- Koppelingen ----------
-function naarStart() { speechSynthesis.cancel(); history.replaceState(null, '', location.pathname); show('start'); }
+function naarStart() { stopAudio(); speechSynthesis.cancel(); history.replaceState(null, '', location.pathname); show('start'); }
+
+// Leeftijdscheck: één keer per toestel
+function leeftijdscheck() {
+  let ok = false;
+  try { ok = localStorage.getItem('barwijnig-18plus') === 'ja'; } catch (e) { /* geen opslag: elke keer vragen */ }
+  if (ok) return;
+  $('leeftijd').hidden = false;
+  $('btn-18-ja').onclick = () => { try { localStorage.setItem('barwijnig-18plus', 'ja'); } catch (e) { /* niets */ } $('leeftijd').hidden = true; };
+  $('btn-18-nee').onclick = () => { $('leeftijd-nee').hidden = false; $('btn-18-ja').hidden = true; $('btn-18-nee').hidden = true; };
+}
 function bind() {
   $('btn-scan').onclick = startScan;
   $('btn-stop').onclick = () => stopScan();
@@ -281,6 +361,7 @@ function openFromHash() {
 }
 
 (async function init() {
+  leeftijdscheck();
   bind();
   await loadWines();
   openFromHash();

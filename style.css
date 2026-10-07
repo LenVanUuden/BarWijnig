@@ -163,6 +163,30 @@ button { font: inherit; color: inherit; border: 0; background: none; cursor: poi
 .bronnen summary { font-weight: 800; cursor: pointer; }
 .bronnen a { color: var(--wijn); word-break: break-word; }
 
+/* Luisteren */
+.luister { display: flex; align-items: center; justify-content: center; gap: 10px; background: var(--wijn); color: var(--creme); border-radius: 22px; padding: 16px 10px; font-family: 'Fredoka', sans-serif; font-weight: 600; font-size: 18px; box-shadow: 0 5px 0 var(--wijn-donker); }
+.luister:active { transform: translateY(3px); box-shadow: 0 2px 0 var(--wijn-donker); }
+.voortgang { grid-column: 1 / -1; height: 8px; background: var(--zand); border-radius: 999px; overflow: hidden; }
+.voortgang div { height: 100%; width: 0; background: var(--oker); border-radius: 999px; transition: width .25s linear; }
+
+/* Koop & Meer zoals deze */
+.koop { display: flex; align-items: center; justify-content: center; gap: 8px; width: 100%; background: var(--goud); color: var(--inkt); border-radius: 22px; padding: 16px; font-family: 'Fredoka', sans-serif; font-weight: 600; font-size: 18px; text-decoration: none; box-shadow: 0 5px 0 #C98E1E; }
+.meer { display: flex; flex-direction: column; gap: 10px; }
+.meer:empty { display: none; }
+.meer h2 { margin: 6px 0 0; font-family: 'Fredoka', sans-serif; font-weight: 700; font-size: 20px; }
+.meer-sub { margin: -6px 0 0; font-size: 14px; font-weight: 700; color: var(--zacht); }
+.meer-kaart { display: flex; align-items: center; gap: 12px; width: 100%; text-align: left; background: var(--wit); border: 3px solid var(--zand); border-radius: 22px; padding: 12px 14px; }
+.meer-kaart .kleurbol { width: 34px; height: 34px; }
+.meer-kaart b { display: block; font-family: 'Fredoka', sans-serif; font-weight: 600; font-size: 16px; }
+.meer-kaart small { display: block; font-weight: 700; font-size: 13px; color: var(--zacht); }
+.meer-kaart .waarom { color: var(--wijn); }
+
+/* Leeftijdscheck */
+.poort { position: fixed; inset: 0; z-index: 50; background: var(--creme); display: flex; align-items: center; justify-content: center; padding: 24px 20px; }
+.poort[hidden] { display: none; }
+.poort-kaart { width: 100%; max-width: 420px; display: flex; flex-direction: column; gap: 16px; }
+.poort .vat-kern.vraag { font-size: 36px; }
+
 /* Onbekend */
 .uitleg { margin: 0; font-weight: 600; font-size: 17px; line-height: 1.5; text-align: center; color: var(--zacht); }
 .uitleg.klein { font-size: 14px; }
